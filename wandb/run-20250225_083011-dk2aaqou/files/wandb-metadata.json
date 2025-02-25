@@ -1,0 +1,39 @@
+{
+  "os":  "Linux-5.15.0-1077-aws-x86_64-with-glibc2.31",
+  "python":  "CPython 3.10.10",
+  "startedAt":  "2025-02-25T08:30:11.443450Z",
+  "args":  [
+    "--set_name",
+    "test",
+    "--start_index",
+    "20",
+    "--end_index",
+    "200"
+  ],
+  "program":  "/teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/Reasoning_collection.py",
+  "codePath":  "Reasoning_collection.py",
+  "git":  {
+    "remote":  "git@github.com:KillerShoaib/DeepSeek-r1-Bangla-Reasoning-Data.git",
+    "commit":  "dc3a0daba71a2ad035ed75b3713303eb55eee1b7"
+  },
+  "email":  "sh.shoaib8@gmail.com",
+  "root":  "/teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data",
+  "host":  "ip-10-192-12-238",
+  "executable":  "/home/zeus/miniconda3/envs/cloudspace/bin/python",
+  "codePathLocal":  "Reasoning_collection.py",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "416055988224",
+      "used":  "32548466688"
+    }
+  },
+  "memory":  {
+    "total":  "16468402176"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  4
+  }
+}

@@ -1,0 +1,30 @@
+2025-02-22 15:59:51,711 INFO    MainThread:129079 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7
+2025-02-22 15:59:51,711 INFO    MainThread:129079 [wandb_setup.py:_flush():67] Configure stats pid to 129079
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_setup.py:_flush():67] Loading settings from /teamspace/studios/this_studio/.config/wandb/settings
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_setup.py:_flush():67] Loading settings from /teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/wandb/settings
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/wandb/run-20250222_155951-fzpioxgb/logs/debug.log
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/wandb/run-20250222_155951-fzpioxgb/logs/debug-internal.log
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_init.py:init():761] calling init triggers
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_init.py:init():784] starting backend
+2025-02-22 15:59:51,712 INFO    MainThread:129079 [wandb_init.py:init():788] sending inform_init request
+2025-02-22 15:59:51,716 INFO    MainThread:129079 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-22 15:59:51,716 INFO    MainThread:129079 [wandb_init.py:init():803] backend started and connected
+2025-02-22 15:59:51,717 INFO    MainThread:129079 [wandb_init.py:init():896] updated telemetry
+2025-02-22 15:59:51,741 INFO    MainThread:129079 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-02-22 15:59:51,936 INFO    MainThread:129079 [wandb_init.py:init():995] starting run threads in backend
+2025-02-22 15:59:52,029 INFO    MainThread:129079 [wandb_run.py:_console_start():2377] atexit reg
+2025-02-22 15:59:52,030 INFO    MainThread:129079 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-02-22 15:59:52,030 INFO    MainThread:129079 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-02-22 15:59:52,030 INFO    MainThread:129079 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-02-22 15:59:52,032 INFO    MainThread:129079 [wandb_init.py:init():1037] run started, returning control to user process
+2025-02-23 11:39:24,110 INFO    MainThread:129079 [wandb_run.py:_finish():2112] finishing run killershoaib/DeepSeek-r1-bangla-reasoning-data/fzpioxgb
+2025-02-23 11:39:24,110 INFO    MainThread:129079 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-02-23 11:39:24,110 INFO    MainThread:129079 [wandb_run.py:_restore():2324] restore
+2025-02-23 11:39:24,110 INFO    MainThread:129079 [wandb_run.py:_restore():2330] restore done
+2025-02-23 11:39:25,624 INFO    MsgRouterThr:129079 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-02-23 11:39:25,624 INFO    MainThread:129079 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-02-23 11:39:25,625 INFO    MainThread:129079 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-02-23 11:39:25,625 INFO    MainThread:129079 [wandb_run.py:_footer_sync_info():3919] logging synced files

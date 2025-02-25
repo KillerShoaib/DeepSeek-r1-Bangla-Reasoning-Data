@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/Reasoning_collection.py", line 282, in <module>
+    main(dataset,args.set_name,args.run_name,args.start_index,args.end_index)
+  File "/teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/Reasoning_collection.py", line 232, in main
+    for sample_no,sample in enumerate(data_from_a_specific_set[start_index:end_index],start=start_index):
+TypeError: slice indices must be integers or None or have an __index__ method
+Traceback (most recent call last):
+  File "/teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/Reasoning_collection.py", line 282, in <module>
+    main(dataset,args.set_name,args.run_name,args.start_index,args.end_index)
+  File "/teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/Reasoning_collection.py", line 232, in main
+    for sample_no,sample in enumerate(data_from_a_specific_set[start_index:end_index],start=start_index):
+TypeError: slice indices must be integers or None or have an __index__ method

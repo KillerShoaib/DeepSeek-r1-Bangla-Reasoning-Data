@@ -1,0 +1,19 @@
+{"time":"2025-02-22T15:59:51.72068058Z","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/teamspace/studios/this_studio/DeepSeek-r1-bangla-reasoning-data/wandb/run-20250222_155951-fzpioxgb/logs/debug-core.log"}
+{"time":"2025-02-22T15:59:51.829334602Z","level":"INFO","msg":"created new stream","id":"fzpioxgb"}
+{"time":"2025-02-22T15:59:51.829374459Z","level":"INFO","msg":"stream: started","id":"fzpioxgb"}
+{"time":"2025-02-22T15:59:51.829586559Z","level":"INFO","msg":"writer: Do: started","stream_id":"fzpioxgb"}
+{"time":"2025-02-22T15:59:51.829736554Z","level":"INFO","msg":"sender: started","stream_id":"fzpioxgb"}
+{"time":"2025-02-22T15:59:51.829632561Z","level":"INFO","msg":"handler: started","stream_id":"fzpioxgb"}
+{"time":"2025-02-22T15:59:51.938023771Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-22T17:16:22.090677595Z","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-22T18:04:09.458228121Z","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/fzpioxgb/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-02-23T07:24:51.997965144Z","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/fzpioxgb/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}
+{"time":"2025-02-23T11:39:24.111321381Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T11:39:24.112691831Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T11:39:24.52272679Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-23T11:39:24.617259535Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-02-23T11:39:25.626580805Z","level":"INFO","msg":"stream: closing","id":"fzpioxgb"}
+{"time":"2025-02-23T11:39:25.626605268Z","level":"INFO","msg":"handler: closed","stream_id":"fzpioxgb"}
+{"time":"2025-02-23T11:39:25.626622248Z","level":"INFO","msg":"writer: Close: closed","stream_id":"fzpioxgb"}
+{"time":"2025-02-23T11:39:25.626693472Z","level":"INFO","msg":"sender: closed","stream_id":"fzpioxgb"}
+{"time":"2025-02-23T11:39:25.626705152Z","level":"INFO","msg":"stream: closed","id":"fzpioxgb"}
