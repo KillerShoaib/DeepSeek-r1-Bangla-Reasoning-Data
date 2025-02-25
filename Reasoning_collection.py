@@ -226,11 +226,6 @@ def main(dataset,set_name,start_index,end_index,run_name=None):
     start_index = int(start_index)
     end_index = int(end_index)
 
-    print(set_name)
-    print(start_index,type(start_index))
-    print(end_index,type(end_index))
-    print(run_name)
-
     # wandb run start if necessary
     if run_name is not None:
         run = wandb.init(project="DeepSeek-r1-bangla-reasoning-data",name=run_name)
@@ -266,7 +261,7 @@ def main(dataset,set_name,start_index,end_index,run_name=None):
                 log_token_count(response_json,sample_no,set_name,Token_Counter_log_csv_name,run)
             else:
                 # didn't get the right response need to log
-                log_fail(sample_no,set_name,format_question_sample['id'],run)
+                log_fail(sample_no,set_name,format_question_sample['id'],failed_log_csv_name,run)
         
         except:
             # logging the error
