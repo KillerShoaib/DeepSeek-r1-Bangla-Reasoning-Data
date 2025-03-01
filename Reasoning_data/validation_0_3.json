@@ -1,0 +1,44 @@
+[
+    {
+        "id": "4c6b8f9d-93a9-4f46-a90b-6717a42597ae-70221",
+        "question": "∛-8 এর মান কত?",
+        "options": [
+            "-2",
+            "2i",
+            "-2, 1 ± i√3",
+            "-2, 1 ± i√2"
+        ],
+        "answer": "C",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: ∛-8 এর মান কত?\n    Options in Bangla: {'A': '-2', 'B': '2i', 'C': '-2, 1 ± i√3', 'D': '-2, 1 ± i√2'}",
+        "reason": "<think>Okay, let's see. The question is asking for the value of the cube root of -8. Hmm, in Bangla, it's written as ∛-8. The options are A: -2, B: 2i, C: -2, 1 ± i√3, and D: -2, 1 ± i√2. \n\nFirst, I remember that the cube root of a negative number is possible. For real numbers, the cube root of -8 should be -2 because (-2)^3 = -8. So option A is definitely one of the answers. But wait, the options C and D have multiple values. Oh right, when dealing with complex numbers, there are three cube roots for any number. So maybe the question is considering complex roots as well.\n\nIn the real number system, the principal cube root of -8 is -2. But if we consider complex roots, we need to find all three cube roots. The cube roots of a number can be found using De Moivre's theorem. Let me recall. For a complex number in polar form, r*(cosθ + i sinθ), the nth roots are given by r^(1/n) [cos((θ + 2πk)/n) + i sin((θ + 2πk)/n)] for k = 0, 1, ..., n-1.\n\nSo, -8 in polar form is 8 (cos π + i sin π), since it's on the negative real axis. The cube roots would have a modulus of 8^(1/3) = 2. The angles would be (π + 2πk)/3 for k=0,1,2.\n\nCalculating for k=0: angle π/3. So cos(π/3) = 0.5, sin(π/3) = √3/2. So root is 2*(0.5 + i*(√3/2)) = 1 + i√3.\n\nk=1: angle (π + 2π)/3 = π. So cos(π) = -1, sin(π)=0. So root is 2*(-1 + 0i) = -2. That's the real root.\n\nk=2: angle (π + 4π)/3 = 5π/3. Cos(5π/3) is 0.5, sin(5π/3) is -√3/2. So root is 2*(0.5 - i√3/2) = 1 - i√3.\n\nSo the three cube roots are -2, 1 + i√3, and 1 - i√3. Looking at the options, option C is \"-2, 1 ± i√3\", which matches. Option D has √2 instead of √3, which is incorrect. So the correct answer should be C.\n\nBut wait, the question is in Bangla. The user might be expecting only the real root, but the options include multiple answers. Since the question is about ∛-8, which in real numbers is -2. But if the context is complex numbers, then all three roots are valid. The options given include C and D with multiple roots. So the answer depends on whether the question is in real or complex context. \n\nBut in standard mathematics, the cube root symbol ∛ usually refers to the principal root, which for real numbers is the real root. However, if the question is considering complex roots, then all three roots are needed. The presence of options with multiple answers suggests that the question is expecting all cube roots. So the correct answer would be option C. Let me check the options again. Option C is \"-2, 1 ± i√3\", which is exactly what we calculated. So the answer is C.\n</think>",
+        "gen_ans": "The cube root of -8 (∛-8) has three solutions in the complex plane. The real root is -2, and the other two complex roots are \\(1 \\pm i\\sqrt{3}\\). These roots are derived using De Moivre’s theorem for complex numbers. Among the options, **C (-2, 1 ± i√3)** correctly lists all three cube roots. \n\n**Answer:** C"
+    },
+    {
+        "id": "d9807015-5c96-4e6f-8646-d50fba1e7932-62264",
+        "question": "নিচের কোনটিতে মেটামারিজম অনুপস্থিত?",
+        "options": [
+            "সেকেন্ডারি অ্যামিন",
+            "কিটোন",
+            "অ্যালকোহল",
+            "ইথার"
+        ],
+        "answer": "C",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: নিচের কোনটিতে মেটামারিজম অনুপস্থিত?\n    Options in Bangla: {'A': 'সেকেন্ডারি অ্যামিন', 'B': 'কিটোন', 'C': 'অ্যালকোহল', 'D': 'ইথার'}",
+        "reason": "<think>Okay, let's see. The question is asking which of the following does not exhibit metamerism. The options are A: Secondary amine, B: Ketone, C: Alcohol, D: Ether. \n\nFirst, I need to remember what metamerism is. From what I recall, metamerism is a type of structural isomerism where compounds have the same molecular formula but different alkyl groups attached to the same functional group. This usually happens in compounds like ethers, amines, ketones, etc., where the functional group allows for different arrangements of alkyl chains.\n\nSo, let's go through each option. \n\nOption A: Secondary amine. Secondary amines have the structure R2NH. Since the two R groups can be different, they can exhibit metamerism. For example, diethylamine and methylpropylamine are metamers. So A can have metamerism.\n\nOption B: Ketone. Ketones have the structure R-CO-R'. The R and R' groups can vary, leading to metamerism. For instance, pentan-2-one and 3-methylbutan-2-one might be metamers. So B can have metamerism.\n\nOption C: Alcohol. Alcohols have the structure R-OH. The functional group is -OH, and the rest is an alkyl group. But metamerism requires different alkyl groups around the same functional group. However, in alcohols, the position of the -OH group leads to position isomerism, not metamerism. Wait, but wait. Metamerism is about different alkyl chains attached to the same functional group. For example, in ethers (R-O-R'), the two R groups can be different. But in alcohols, there's only one R group attached to the -OH. So changing the structure of that R group would lead to chain isomerism, not metamerism. So alcohols don't exhibit metamerism. \n\nOption D: Ether. Ethers are R-O-R'. The two R groups can be different, so they can have metamerism. For example, methoxypropane and ethoxyethane are metamers. So D can have metamerism.\n\nTherefore, the correct answer should be option C: Alcohol, as it doesn't exhibit metamerism.\n</think>",
+        "gen_ans": "The correct answer is **C: অ্যালকোহল** (Alcohol)। মেটামারিজম সাধারণত ইথার, কিটোন বা সেকেন্ডারি অ্যামিনের মতো যৌগে দেখা যায়, যেখানে একই কার্যকরী গ্রুপের সাথে বিভিন্ন অ্যালকাইল গ্রুপ যুক্ত থাকে। অ্যালকোহলে শুধুমাত্র একটি অ্যালকাইল গ্রুপ থাকে (-OH গ্রুপের সাথে), তাই এখানে মেটামারিজম সম্ভব নয়। বাকি অপশনগুলিতে (ইথার, কিটোন, সেকেন্ডারি অ্যামিন) মেটামারিজম দেখা যায়।"
+    },
+    {
+        "id": "121f9350-c377-4386-90a3-b04a37a7de09-90198",
+        "question": "একটি গোলকের ব্যাসার্ধ হল 9 × 109 m . গোলকটির ধারকত্ব হল ?",
+        "options": [
+            "1μF",
+            "1σF",
+            "10 F",
+            "1 F"
+        ],
+        "answer": "D",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: একটি গোলকের ব্যাসার্ধ হল 9 × 109 m . গোলকটির ধারকত্ব হল ?\n    Options in Bangla: {'A': '1μF', 'B': '1σF', 'C': '10 F', 'D': '1 F'}",
+        "reason": "<think>Okay, let's see. The question is about finding the capacitance of a sphere with a radius of 9 × 10^9 meters. Hmm, I remember that the formula for the capacitance of an isolated sphere is something like C = 4πε₀r, right? Wait, yeah, because for a sphere, the capacitance formula is different from a parallel plate capacitor. So, ε₀ is the vacuum permittivity, which is approximately 8.85 × 10^-12 F/m. The radius given here is 9 × 10^9 m. Let me plug in the numbers.\n\nSo, C = 4π * 8.85e-12 F/m * 9e9 m. Let me calculate that. First, multiply 4 and π. 4 * 3.1416 ≈ 12.566. Then multiply that by 8.85e-12: 12.566 * 8.85e-12 ≈ 1.112e-10. Then multiply by 9e9: 1.112e-10 * 9e9 = 1.0008 F. Oh, that's approximately 1 Farad. So the answer should be D: 1 F. Let me check the options again. Option D is 1 F. That makes sense. The other options are μF which is a millionth, σF I'm not sure what that is, maybe a typo for pF or something else, but the calculation gives 1 F. So the correct answer is D.\n</think>",
+        "gen_ans": "The capacitance of an isolated sphere is calculated using the formula \\( C = 4\\pi\\epsilon_0 r \\), where \\( \\epsilon_0 \\) (vacuum permittivity) is approximately \\( 8.85 \\times 10^{-12} \\, \\text{F/m} \\), and \\( r \\) is the radius. Plugging in \\( r = 9 \\times 10^9 \\, \\text{m} \\):\n\n\\[\nC = 4\\pi \\times 8.85 \\times 10^{-12} \\times 9 \\times 10^9 \\approx 1 \\, \\text{F}.\n\\]\n\n**Answer:** D) 1 F"
+    }
+]

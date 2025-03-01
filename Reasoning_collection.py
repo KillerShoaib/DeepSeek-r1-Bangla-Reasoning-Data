@@ -260,11 +260,15 @@ def main(dataset,set_name,start_index,end_index,run_name=None):
                 # logging the token count
                 log_token_count(response_json,sample_no,set_name,Token_Counter_log_csv_name,run)
             else:
+                print(response_json)
                 # didn't get the right response need to log
                 log_fail(sample_no,set_name,format_question_sample['id'],failed_log_csv_name,run)
         
-        except:
+        except Exception as e:
             # logging the error
+            print(e)
+            # print(response_json['choices'][0]['message']['content'])
+            # print(response_json)
             log_fail(sample_no,set_name,format_question_sample['id'],failed_log_csv_name,run)
     
     if run is not None:
@@ -278,11 +282,12 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Process some arguments.')
     parser.add_argument('-t', '--set_name', type=str, help='Name of the set', required=True)
-    parser.add_argument('-r', '--run_name', type=str, help='Name of the set', required=False, default=None)
+    parser.add_argument('-r', '--run_name', type=str, help='Wandb run name (optional)', required=False, default=None)
     parser.add_argument('-b', '--start_index', type=str, help='Starting Index', required=True)
     parser.add_argument('-e', '--end_index', type=str, help='Ending Index', required=True)
 
     # calling the function
+    # python Reasoning_collection.py --set_name "test" --start_index 20 --end_index 200
     args = parser.parse_args()
     main(dataset,args.set_name,args.start_index,args.end_index,args.run_name)
     # stop_lightningStudio() ### only for lightning studio

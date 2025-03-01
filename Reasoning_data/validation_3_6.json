@@ -1,0 +1,44 @@
+[
+    {
+        "id": "050d609a-af96-414b-8c01-8472da785762-110428",
+        "question": "আন্তর্জাতিক শিক্ষক দিবস পালিত হয়-",
+        "options": [
+            "৫ সেপ্টেম্বর",
+            "১৫ সেপ্টেম্বর",
+            "৫ অক্টোবর",
+            "১৫ অক্টোবর"
+        ],
+        "answer": "C",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: আন্তর্জাতিক শিক্ষক দিবস পালিত হয়-\n    Options in Bangla: {'A': '৫ সেপ্টেম্বর', 'B': '১৫ সেপ্টেম্বর', 'C': '৫ অক্টোবর', 'D': '১৫ অক্টোবর'}",
+        "reason": "<think>Okay, let's see. The question is asking about International Teachers' Day and when it's celebrated. The options are in September and October. Hmm, I remember there's a World Teachers' Day, but I need to recall the exact date. Wait, I think it's in October. But which day? The options are 5th October (Option C) and 15th October (Option D). Let me think. I've heard that UNESCO declared October 5th as World Teachers' Day. Yeah, that's right. It was established in 1994. So the correct answer should be option C, 5th October. Let me double-check. Some countries might have their own Teachers' Day on different dates, like India celebrates on 5th September. But the international one is definitely October 5. So the answer is C.\n</think>",
+        "gen_ans": "The correct answer is C: ৫ অক্টোবর। আন্তর্জাতিক শিক্ষক দিবস প্রতিবছর ৫ অক্টোবর পালিত হয়। ইউনেস্কো কর্তৃক ১৯৯৪ সাল থেকে এই দিনটি বিশ্বব্যাপী শিক্ষকদের সম্মান জানাতে উদযাপন করা হয়। অন্য দেশে ভিন্ন তারিখে শিক্ষক দিবস পালিত হতে পারে (যেমন ভারত ৫ সেপ্টেম্বর), তবে আন্তর্জাতিকভাবে স্বীকৃত তারিখটি ৫ অক্টোবর।"
+    },
+    {
+        "id": "c05a9537-59e6-47e8-a0b9-15de3b5910ef-61492",
+        "question": "কোন স্থানে চুম্বক ক্ষেত্রের অনুভুমিক ও উলম্ব উপাংশের মান সমান হলে ঐ স্থানের বিনতি কোণের মান কত?",
+        "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+        ],
+        "answer": "B",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: কোন স্থানে চুম্বক ক্ষেত্রের অনুভুমিক ও উলম্ব উপাংশের মান সমান হলে ঐ স্থানের বিনতি কোণের মান কত?\n    Options in Bangla: {'A': '30°', 'B': '45°', 'C': '60°', 'D': '90°'}",
+        "reason": "<think>Okay, let's see. The question is about the angle of dip where the horizontal and vertical components of the Earth's magnetic field are equal. Hmm, angle of dip, also known as the inclination angle. I remember that the angle of dip (θ) is related to the horizontal component (H) and the vertical component (V) of the Earth's magnetic field. The formula is tanθ = V/H. \n\nWait, the problem states that the horizontal and vertical components are equal. So if H equals V, then tanθ = V/H = 1. What angle has a tangent of 1? Oh right, that's 45 degrees. So the angle of dip should be 45 degrees. Let me check the options. Option B is 45°, so the answer should be B.\n\nBut wait, let me make sure I didn't mix up the components. The horizontal component is H and vertical is V. Yes, tanθ is V/H. If they are equal, tanθ = 1, θ = 45°. Yeah, that makes sense. So the correct answer is B.\n</think>",
+        "gen_ans": "The angle of dip (বিনতি কোণ) is given by tanθ = V/H, where V is the vertical component and H is the horizontal component of the Earth's magnetic field. When V and H are equal, tanθ = 1, which corresponds to θ = 45°. \n\n**Answer: B. 45°**"
+    },
+    {
+        "id": "dd2599c3-c1d7-4694-b29a-b6f3c042d949-27718",
+        "question": "a+1/a=4 হলে a2 + 1/a2 এর মান কত?",
+        "options": [
+            "14",
+            "12",
+            "16",
+            "18"
+        ],
+        "answer": "A",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: a+1/a=4 হলে a2 + 1/a2 এর মান কত?\n    Options in Bangla: {'A': '14', 'B': '12', 'C': '16', 'D': '18'}",
+        "reason": "<think>Okay, let's see. The problem is: If a + 1/a = 4, then what is the value of a² + 1/a²? The options are A:14, B:12, C:16, D:18. Hmm, I need to figure this out step by step.\n\nFirst, I remember that when you have an expression like a + 1/a, squaring both sides might help. Let me try that. So, if I square the left side, (a + 1/a)², that should equal 4², which is 16. Expanding the left side, (a + 1/a)² equals a² + 2*(a)*(1/a) + (1/a)². Simplifying the middle term, 2*(a)*(1/a) is 2*1, which is 2. So the equation becomes a² + 2 + 1/a² = 16. \n\nNow, if I subtract 2 from both sides to isolate the terms I need, that would give me a² + 1/a² = 16 - 2. So 16 minus 2 is 14. Therefore, the value of a² + 1/a² should be 14. Looking at the options, option A is 14. So the correct answer must be A. \n\nWait, let me double-check. Did I make any mistakes in the algebra? Squaring (a + 1/a) gives a² + 2 + 1/a², right? Yes, because (a + b)² is a² + 2ab + b². Here, b is 1/a, so the cross term is 2*a*(1/a) = 2. So yes, subtracting 2 gives 14. That seems correct. So the answer is A.\n</think>",
+        "gen_ans": "The correct answer is **A: 14**. \n\n**Explanation:**  \nGiven, \\( a + \\frac{1}{a} = 4 \\).  \nSquaring both sides:  \n\\[\n\\left( a + \\frac{1}{a} \\right)^2 = 4^2 \\implies a^2 + 2 \\cdot a \\cdot \\frac{1}{a} + \\frac{1}{a^2} = 16.  \n\\]  \nSimplifying the middle term:  \n\\[\na^2 + 2 + \\frac{1}{a^2} = 16 \\implies a^2 + \\frac{1}{a^2} = 16 - 2 = 14.  \n\\]  \nThus, the value of \\( a^2 + \\frac{1}{a^2} \\) is **14** (Option A)."
+    }
+]
