@@ -1,0 +1,15 @@
+{"time":"2025-03-01T19:11:00.53555772+06:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/wandb/run-20250301_191100-lp82ue35/logs/debug-core.log"}
+{"time":"2025-03-01T19:11:00.647327936+06:00","level":"INFO","msg":"created new stream","id":"lp82ue35"}
+{"time":"2025-03-01T19:11:00.647456244+06:00","level":"INFO","msg":"stream: started","id":"lp82ue35"}
+{"time":"2025-03-01T19:11:00.647498825+06:00","level":"INFO","msg":"handler: started","stream_id":"lp82ue35"}
+{"time":"2025-03-01T19:11:00.647532002+06:00","level":"INFO","msg":"sender: started","stream_id":"lp82ue35"}
+{"time":"2025-03-01T19:11:00.647605557+06:00","level":"INFO","msg":"writer: Do: started","stream_id":"lp82ue35"}
+{"time":"2025-03-01T19:11:01.235084444+06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T21:16:31.549398381+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.31.185:33002->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-02T01:25:46.782878802+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-02T01:26:18.877618201+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-03-02T01:26:35.432147243+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/lp82ue35/file_stream\": dial tcp 35.186.228.49:443: connect: network is unreachable"}
+{"time":"2025-03-02T01:26:37.780683161+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/lp82ue35/file_stream\": dial tcp 35.186.228.49:443: connect: network is unreachable"}
+{"time":"2025-03-02T01:26:42.419128545+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/lp82ue35/file_stream\": dial tcp 35.186.228.49:443: connect: network is unreachable"}
+{"time":"2025-03-02T01:26:50.990258194+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/lp82ue35/file_stream\": dial tcp 35.186.228.49:443: connect: network is unreachable"}
+{"time":"2025-03-02T01:26:53.421640129+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}

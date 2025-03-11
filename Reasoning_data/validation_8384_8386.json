@@ -1,0 +1,30 @@
+[
+    {
+        "id": "85df861c-de5e-4838-8bdb-261edb53513c-107263",
+        "question": "নাইট্রিক এসিডের ব্যবহার নয় কোনটি?",
+        "options": [
+            "কৃত্রিম রং তৈরিতে",
+            "বিস্ফোরক তৈরিতে",
+            "স্বর্ন থেকে খাদ দূর করতে",
+            "দিয়াশলাই তৈরিতে"
+        ],
+        "answer": "A",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: নাইট্রিক এসিডের ব্যবহার নয় কোনটি?\n    Options in Bangla: {'A': 'কৃত্রিম রং তৈরিতে', 'B': 'বিস্ফোরক তৈরিতে', 'C': 'স্বর্ন থেকে খাদ দূর করতে', 'D': 'দিয়াশলাই তৈরিতে'}",
+        "reason": "<think>Okay, let's see. The question is asking which one is not a use of nitric acid. The options are A, B, C, D.\n\nFirst, I need to recall the uses of nitric acid. Nitric acid is a strong acid and has several industrial applications. Let me think. \n\nOption A says \"কৃত্রিম রং তৈরিতে\" which translates to \"in the production of artificial colors.\" I remember that nitric acid is used in making dyes and artificial colors, so A is a valid use. \n\nOption B is \"বিস্ফোরক তৈরিতে\" meaning \"in making explosives.\" Nitric acid is used in the production of explosives like TNT and nitroglycerin. So B is correct. \n\nOption C is \"স্বর্ন থেকে খাদ দূর করতে\" which means \"to remove impurities from gold.\" Wait, nitric acid is often used in the purification of gold. Gold is dissolved in aqua regia, a mixture of nitric acid and hydrochloric acid. So C is a valid use. \n\nOption D is \"দিয়াশলাই তৈরিতে\" meaning \"in making matches.\" I'm trying to remember. Matches typically use phosphorus, sulfur, and other chemicals. Maybe red phosphorus in the striking surface. But does nitric acid play a role here? Alternatively, maybe in some types of matches. Wait, I think sulfuric acid is sometimes used, but nitric acid? Or perhaps in the past, but I'm not sure. Alternatively, maybe for the treatment of the matchstick tips. Wait, another thought: nitric acid is used in the production of fertilizers, but matches? Let me check. \n\nWait, another angle: diyashalai (matches) production. Safety matches usually involve potassium chlorate in the match head and red phosphorus on the striking surface. Strike-anywhere matches might use phosphorus sesquisulfide. I don't recall nitric acid being directly involved in match production. Maybe in the past for some component, but I'm not sure. Alternatively, maybe in the preparation of some chemicals used in matches. But if I have to choose which is NOT a use, then D might be the answer here. Because the other three (A, B, C) are definitely uses of nitric acid. So D is the one that's not a use. \n\nSo the correct answer should be D.\n</think>",
+        "gen_ans": "The correct answer is **D: দিয়াশলাই তৈরিতে**।  \nনাইট্রিক এসিড কৃত্রিম রং, বিস্ফোরক এবং স্বর্ণ পরিশোধনে ব্যবহৃত হয়। তবে দিয়াশলাই তৈরিতে সাধারণত ফসফরাস, পটাসিয়াম ক্লোরেট ইত্যাদি ব্যবহৃত হয়, নাইট্রিক এসিড নয়।"
+    },
+    {
+        "id": "9fb66297-445b-40e6-92d8-011f61860e03-24841",
+        "question": "ওয়েল অব ভিট্রিওল কি?",
+        "options": [
+            "HNO3",
+            "H2SO4",
+            "HCI",
+            "H3PO4"
+        ],
+        "answer": "B",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: ওয়েল অব ভিট্রিওল কি?\n    Options in Bangla: {'A': 'HNO3', 'B': 'H2SO4', 'C': 'HCI', 'D': 'H3PO4'}",
+        "reason": "<think>Okay, let's see. The question is asking \"ওয়েল অব ভিট্রিওল কি?\" which translates to \"What is the Well of Vitriol?\" I need to figure out which chemical compound corresponds to that name.\n\nFirst, I remember that vitriol is an old term used in chemistry. There are different types of vitriol, like green vitriol, blue vitriol, etc. But the Well of Vitriol specifically... Hmm. Wait, \"Vitriol\" in historical contexts often refers to sulfuric acid. The term \"oil of vitriol\" is a common old name for concentrated sulfuric acid, H2SO4. So maybe \"Well of Vitriol\" is the same thing? Or perhaps a variation due to translation?\n\nLooking at the options: A is HNO3 (nitric acid), B is H2SO4 (sulfuric acid), C is HCl (hydrochloric acid), D is H3PO4 (phosphoric acid). Since oil of vitriol is H2SO4, the answer should be option B. I think the confusion might be between \"oil\" and \"well,\" but maybe it's a translation difference. In Bangla, \"ওয়েল\" could be transliterated from \"oil,\" so \"ওয়েল অব ভিট্রিওল\" would be Oil of Vitriol, which is sulfuric acid. So the correct answer is B.\n</think>",
+        "gen_ans": "The correct answer is **B: H2SO4**.  \n\n**ব্যাখ্যা:** \"ওয়েল অব ভিট্রিওল\" হলো \"Oil of Vitriol\" এর বাংলা প্রতিবর্ণীকরণ। ঐতিহাসিকভাবে, \"Oil of Vitriol\" বলতে গাঢ় সালফিউরিক অ্যাসিড (H2SO4) কে বোঝায়। রসায়নের প্রাচীন পরিভাষায় বিভিন্ন ধরনের ভিট্রিওলের উল্লেখ থাকলেও \"ওয়েল/অয়েল অব ভিট্রিওল\" সরাসরি H2SO4 এর সাথে সম্পর্কিত। তাই সঠিক উত্তর হলো বিকল্প **B**।"
+    }
+]

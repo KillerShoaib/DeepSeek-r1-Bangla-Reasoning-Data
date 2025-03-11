@@ -1,0 +1,1225 @@
+2025-03-10 18:36:26,543 - INFO - Total token for sample 17001 in validation = 824
+2025-03-10 18:36:46,285 - INFO - Total token for sample 17002 in validation = 471
+2025-03-10 18:37:06,205 - INFO - Total token for sample 17003 in validation = 498
+2025-03-10 18:38:00,876 - INFO - Total token for sample 17004 in validation = 731
+2025-03-10 18:38:56,737 - INFO - Total token for sample 17005 in validation = 968
+2025-03-10 18:39:47,844 - INFO - Total token for sample 17006 in validation = 1173
+2025-03-10 18:40:16,117 - INFO - Total token for sample 17007 in validation = 654
+2025-03-10 18:41:25,439 - INFO - Total token for sample 17008 in validation = 817
+2025-03-10 18:41:46,063 - INFO - Total token for sample 17009 in validation = 448
+2025-03-10 18:42:17,951 - INFO - Total token for sample 17010 in validation = 688
+2025-03-10 18:43:20,623 - INFO - Total token for sample 17011 in validation = 871
+2025-03-10 18:44:07,758 - INFO - Total token for sample 17012 in validation = 601
+2025-03-10 18:45:38,545 - INFO - Total token for sample 17013 in validation = 1926
+2025-03-10 18:46:38,183 - INFO - Total token for sample 17014 in validation = 969
+2025-03-10 18:46:47,304 - INFO - Total token for sample 17015 in validation = 790
+2025-03-10 18:47:08,456 - INFO - Total token for sample 17016 in validation = 588
+2025-03-10 18:47:50,921 - INFO - Total token for sample 17017 in validation = 800
+2025-03-10 18:49:50,800 - INFO - Total token for sample 17018 in validation = 1870
+2025-03-10 18:50:47,655 - INFO - Total token for sample 17019 in validation = 635
+2025-03-10 18:51:39,323 - INFO - Total token for sample 17020 in validation = 586
+2025-03-10 18:52:32,351 - INFO - Total token for sample 17021 in validation = 965
+2025-03-10 18:52:56,536 - INFO - Total token for sample 17022 in validation = 487
+2025-03-10 18:53:12,685 - INFO - Total token for sample 17023 in validation = 384
+2025-03-10 18:53:49,124 - INFO - Total token for sample 17024 in validation = 870
+2025-03-10 18:55:35,379 - INFO - Total token for sample 17025 in validation = 1830
+2025-03-10 18:56:12,497 - INFO - Total token for sample 17026 in validation = 794
+2025-03-10 18:56:30,045 - INFO - Total token for sample 17027 in validation = 478
+2025-03-10 18:57:05,738 - INFO - Total token for sample 17028 in validation = 755
+2025-03-10 18:57:34,057 - INFO - Total token for sample 17029 in validation = 525
+2025-03-10 18:57:53,781 - INFO - Total token for sample 17030 in validation = 385
+2025-03-10 18:58:40,404 - INFO - Total token for sample 17031 in validation = 1098
+2025-03-10 18:59:04,458 - INFO - Total token for sample 17032 in validation = 626
+2025-03-10 18:59:46,272 - INFO - Total token for sample 17033 in validation = 1082
+2025-03-10 19:01:56,914 - INFO - Total token for sample 17034 in validation = 2009
+2025-03-10 19:02:29,851 - INFO - Total token for sample 17035 in validation = 648
+2025-03-10 19:03:04,669 - INFO - Total token for sample 17036 in validation = 741
+2025-03-10 19:03:49,906 - INFO - Total token for sample 17037 in validation = 605
+2025-03-10 19:05:00,240 - INFO - Total token for sample 17038 in validation = 702
+2025-03-10 19:06:25,332 - INFO - Total token for sample 17039 in validation = 1353
+2025-03-10 19:06:52,567 - INFO - Total token for sample 17040 in validation = 525
+2025-03-10 19:07:17,217 - INFO - Total token for sample 17041 in validation = 546
+2025-03-10 19:08:00,168 - INFO - Total token for sample 17042 in validation = 1001
+2025-03-10 19:08:43,501 - INFO - Total token for sample 17043 in validation = 663
+2025-03-10 19:09:17,803 - INFO - Total token for sample 17044 in validation = 591
+2025-03-10 19:09:41,170 - INFO - Total token for sample 17045 in validation = 667
+2025-03-10 19:09:59,908 - INFO - Total token for sample 17046 in validation = 497
+2025-03-10 19:10:27,817 - INFO - Total token for sample 17047 in validation = 463
+2025-03-10 19:10:47,199 - INFO - Total token for sample 17048 in validation = 423
+2025-03-10 19:11:18,687 - INFO - Total token for sample 17049 in validation = 667
+2025-03-10 19:12:35,226 - INFO - Total token for sample 17050 in validation = 851
+2025-03-10 19:13:00,738 - INFO - Total token for sample 17051 in validation = 525
+2025-03-10 19:13:39,016 - INFO - Total token for sample 17052 in validation = 654
+2025-03-10 19:13:41,965 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 19:13:41,976 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 19:13:41,976 - INFO - Failed to get response for sameple no = 17053 in validation set
+2025-03-10 19:14:06,350 - INFO - Total token for sample 17054 in validation = 486
+2025-03-10 19:14:29,583 - INFO - Total token for sample 17055 in validation = 503
+2025-03-10 19:14:31,596 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 19:14:31,611 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 19:14:31,612 - INFO - Failed to get response for sameple no = 17056 in validation set
+2025-03-10 19:14:51,780 - INFO - Total token for sample 17057 in validation = 518
+2025-03-10 19:15:25,852 - INFO - Total token for sample 17058 in validation = 806
+2025-03-10 19:17:50,722 - INFO - Total token for sample 17059 in validation = 1892
+2025-03-10 19:18:15,952 - INFO - Total token for sample 17060 in validation = 424
+2025-03-10 19:19:11,685 - INFO - Total token for sample 17061 in validation = 520
+2025-03-10 19:19:57,223 - INFO - Total token for sample 17062 in validation = 358
+2025-03-10 19:20:22,145 - INFO - Total token for sample 17063 in validation = 641
+2025-03-10 19:20:47,757 - INFO - Total token for sample 17064 in validation = 461
+2025-03-10 19:21:30,293 - INFO - Total token for sample 17065 in validation = 704
+2025-03-10 19:22:14,781 - INFO - Total token for sample 17066 in validation = 837
+2025-03-10 19:23:08,439 - INFO - Total token for sample 17067 in validation = 713
+2025-03-10 19:23:27,505 - INFO - Total token for sample 17068 in validation = 582
+2025-03-10 19:23:59,953 - INFO - Total token for sample 17069 in validation = 617
+2025-03-10 19:24:20,372 - INFO - Total token for sample 17070 in validation = 386
+2025-03-10 19:24:40,739 - INFO - Total token for sample 17071 in validation = 431
+2025-03-10 19:25:38,835 - INFO - Total token for sample 17072 in validation = 1140
+2025-03-10 19:26:48,275 - INFO - Total token for sample 17073 in validation = 1032
+2025-03-10 19:27:05,753 - INFO - Total token for sample 17074 in validation = 444
+2025-03-10 19:29:48,534 - INFO - Total token for sample 17075 in validation = 2748
+2025-03-10 19:30:19,378 - INFO - Total token for sample 17076 in validation = 748
+2025-03-10 19:30:40,151 - INFO - Total token for sample 17077 in validation = 423
+2025-03-10 19:31:28,297 - INFO - Total token for sample 17078 in validation = 485
+2025-03-10 19:31:51,000 - INFO - Total token for sample 17079 in validation = 540
+2025-03-10 19:34:03,148 - INFO - Total token for sample 17080 in validation = 2082
+2025-03-10 19:34:26,925 - INFO - Total token for sample 17081 in validation = 596
+2025-03-10 19:34:50,169 - INFO - Total token for sample 17082 in validation = 428
+2025-03-10 19:34:50,849 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 19:34:50,864 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 19:34:50,865 - INFO - Failed to get response for sameple no = 17083 in validation set
+2025-03-10 19:34:51,754 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 19:34:51,770 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 19:34:51,770 - INFO - Failed to get response for sameple no = 17084 in validation set
+2025-03-10 19:35:27,319 - INFO - Total token for sample 17085 in validation = 498
+2025-03-10 19:40:27,722 - INFO - Timeout occurred skipping this sample
+2025-03-10 19:41:19,186 - INFO - Total token for sample 17087 in validation = 773
+2025-03-10 19:43:09,876 - INFO - Total token for sample 17088 in validation = 1395
+2025-03-10 19:44:39,489 - INFO - Total token for sample 17089 in validation = 1058
+2025-03-10 19:45:44,997 - INFO - Total token for sample 17090 in validation = 955
+2025-03-10 19:46:05,982 - INFO - Total token for sample 17091 in validation = 410
+2025-03-10 19:46:42,356 - INFO - Total token for sample 17092 in validation = 678
+2025-03-10 19:47:17,229 - INFO - Total token for sample 17093 in validation = 658
+2025-03-10 19:47:49,060 - INFO - Total token for sample 17094 in validation = 589
+2025-03-10 19:49:16,866 - INFO - Total token for sample 17095 in validation = 1044
+2025-03-10 19:50:16,665 - INFO - Total token for sample 17096 in validation = 678
+2025-03-10 19:50:56,396 - INFO - Total token for sample 17097 in validation = 506
+2025-03-10 19:51:38,972 - INFO - Total token for sample 17098 in validation = 630
+2025-03-10 19:52:51,324 - INFO - Total token for sample 17099 in validation = 945
+2025-03-10 19:53:17,859 - INFO - Total token for sample 17100 in validation = 603
+2025-03-10 19:58:18,723 - INFO - Timeout occurred skipping this sample
+2025-03-10 20:00:48,297 - INFO - Total token for sample 17102 in validation = 2018
+2025-03-10 20:02:20,950 - INFO - Total token for sample 17103 in validation = 1144
+2025-03-10 20:02:56,790 - INFO - Total token for sample 17104 in validation = 549
+2025-03-10 20:03:48,240 - INFO - Total token for sample 17105 in validation = 780
+2025-03-10 20:06:44,389 - INFO - Total token for sample 17106 in validation = 1909
+2025-03-10 20:07:24,790 - INFO - Total token for sample 17107 in validation = 457
+2025-03-10 20:07:32,265 - INFO - Total token for sample 17108 in validation = 664
+2025-03-10 20:07:42,217 - INFO - Total token for sample 17109 in validation = 529
+2025-03-10 20:08:15,442 - INFO - Total token for sample 17110 in validation = 576
+2025-03-10 20:08:51,001 - INFO - Total token for sample 17111 in validation = 694
+2025-03-10 20:09:27,227 - INFO - Total token for sample 17112 in validation = 726
+2025-03-10 20:09:57,531 - INFO - Total token for sample 17113 in validation = 632
+2025-03-10 20:11:05,877 - INFO - Total token for sample 17114 in validation = 926
+2025-03-10 20:14:10,517 - INFO - Got a 502 error. Skipping this sample...
+2025-03-10 20:14:19,251 - INFO - Total token for sample 17116 in validation = 771
+2025-03-10 20:15:09,036 - INFO - Total token for sample 17117 in validation = 836
+2025-03-10 20:15:36,815 - INFO - Total token for sample 17118 in validation = 436
+2025-03-10 20:16:19,891 - INFO - Total token for sample 17119 in validation = 691
+2025-03-10 20:21:20,722 - INFO - Timeout occurred skipping this sample
+2025-03-10 20:22:01,946 - INFO - Total token for sample 17121 in validation = 525
+2025-03-10 20:23:15,081 - INFO - Total token for sample 17122 in validation = 742
+2025-03-10 20:24:07,102 - INFO - Total token for sample 17123 in validation = 783
+2025-03-10 20:24:49,682 - INFO - Total token for sample 17124 in validation = 1640
+2025-03-10 20:25:20,191 - INFO - Total token for sample 17125 in validation = 472
+2025-03-10 20:25:48,457 - INFO - Total token for sample 17126 in validation = 565
+2025-03-10 20:27:57,309 - INFO - Total token for sample 17127 in validation = 1497
+2025-03-10 20:29:51,234 - INFO - Total token for sample 17128 in validation = 1489
+2025-03-10 20:30:23,997 - INFO - Total token for sample 17129 in validation = 608
+2025-03-10 20:31:16,241 - INFO - Total token for sample 17130 in validation = 722
+2025-03-10 20:32:04,245 - INFO - Total token for sample 17131 in validation = 858
+2025-03-10 20:33:39,413 - INFO - Total token for sample 17132 in validation = 1748
+2025-03-10 20:33:58,665 - INFO - Total token for sample 17133 in validation = 433
+2025-03-10 20:34:57,675 - INFO - Total token for sample 17134 in validation = 658
+2025-03-10 20:35:36,767 - INFO - Total token for sample 17135 in validation = 590
+2025-03-10 20:36:42,210 - INFO - Total token for sample 17136 in validation = 930
+2025-03-10 20:37:24,322 - INFO - Total token for sample 17137 in validation = 416
+2025-03-10 20:37:48,490 - INFO - Total token for sample 17138 in validation = 600
+2025-03-10 20:37:56,330 - INFO - Total token for sample 17139 in validation = 579
+2025-03-10 20:38:28,267 - INFO - Total token for sample 17140 in validation = 527
+2025-03-10 20:38:56,398 - INFO - Total token for sample 17141 in validation = 558
+2025-03-10 20:39:39,525 - INFO - Total token for sample 17142 in validation = 810
+2025-03-10 20:40:12,016 - INFO - Total token for sample 17143 in validation = 680
+2025-03-10 20:40:43,874 - INFO - Total token for sample 17144 in validation = 461
+2025-03-10 20:41:09,884 - INFO - Total token for sample 17145 in validation = 435
+2025-03-10 20:41:41,019 - INFO - Total token for sample 17146 in validation = 464
+2025-03-10 20:41:46,537 - INFO - Total token for sample 17147 in validation = 423
+2025-03-10 20:42:54,393 - INFO - Total token for sample 17148 in validation = 1464
+2025-03-10 20:43:18,460 - INFO - Total token for sample 17149 in validation = 437
+2025-03-10 20:43:34,559 - INFO - Total token for sample 17150 in validation = 435
+2025-03-10 20:44:08,066 - INFO - Total token for sample 17151 in validation = 441
+2025-03-10 20:44:38,192 - INFO - Total token for sample 17152 in validation = 586
+2025-03-10 20:45:23,816 - INFO - Total token for sample 17153 in validation = 566
+2025-03-10 20:45:54,130 - INFO - Total token for sample 17154 in validation = 1529
+2025-03-10 20:46:19,479 - INFO - Total token for sample 17155 in validation = 427
+2025-03-10 20:48:06,746 - INFO - Total token for sample 17156 in validation = 1671
+2025-03-10 20:48:15,864 - INFO - Total token for sample 17157 in validation = 614
+2025-03-10 20:49:03,835 - INFO - Total token for sample 17158 in validation = 600
+2025-03-10 20:52:49,536 - INFO - Total token for sample 17159 in validation = 3646
+2025-03-10 20:53:05,383 - INFO - Got a 502 error. Skipping this sample...
+2025-03-10 20:53:42,101 - INFO - Total token for sample 17161 in validation = 1224
+2025-03-10 20:54:12,878 - INFO - Total token for sample 17162 in validation = 514
+2025-03-10 20:54:40,904 - INFO - Total token for sample 17163 in validation = 536
+2025-03-10 20:55:21,874 - INFO - Total token for sample 17164 in validation = 463
+2025-03-10 20:56:06,787 - INFO - Total token for sample 17165 in validation = 672
+2025-03-10 20:56:42,453 - INFO - Total token for sample 17166 in validation = 518
+2025-03-10 20:57:36,276 - INFO - Total token for sample 17167 in validation = 808
+2025-03-10 20:58:19,577 - INFO - Total token for sample 17168 in validation = 703
+2025-03-10 20:58:26,759 - INFO - Total token for sample 17169 in validation = 515
+2025-03-10 20:59:03,273 - INFO - Total token for sample 17170 in validation = 646
+2025-03-10 21:01:54,675 - INFO - Total token for sample 17171 in validation = 2050
+2025-03-10 21:02:18,397 - INFO - Total token for sample 17172 in validation = 447
+2025-03-10 21:02:54,578 - INFO - Total token for sample 17173 in validation = 800
+2025-03-10 21:03:16,200 - INFO - Total token for sample 17174 in validation = 413
+2025-03-10 21:04:10,430 - INFO - Total token for sample 17175 in validation = 604
+2025-03-10 21:04:28,743 - INFO - Total token for sample 17176 in validation = 465
+2025-03-10 21:05:04,521 - INFO - Total token for sample 17177 in validation = 805
+2025-03-10 21:05:49,260 - INFO - Total token for sample 17178 in validation = 708
+2025-03-10 21:10:49,722 - INFO - Timeout occurred skipping this sample
+2025-03-10 21:11:10,632 - INFO - Total token for sample 17180 in validation = 483
+2025-03-10 21:14:49,658 - INFO - Total token for sample 17181 in validation = 3153
+2025-03-10 21:19:50,722 - INFO - Timeout occurred skipping this sample
+2025-03-10 21:20:32,706 - INFO - Total token for sample 17183 in validation = 1520
+2025-03-10 21:21:02,375 - INFO - Total token for sample 17184 in validation = 482
+2025-03-10 21:21:43,908 - INFO - Total token for sample 17185 in validation = 951
+2025-03-10 21:22:16,266 - INFO - Total token for sample 17186 in validation = 773
+2025-03-10 21:22:48,304 - INFO - Total token for sample 17187 in validation = 1053
+2025-03-10 21:23:08,994 - INFO - Total token for sample 17188 in validation = 646
+2025-03-10 21:23:46,374 - INFO - Total token for sample 17189 in validation = 930
+2025-03-10 21:25:14,073 - INFO - Total token for sample 17190 in validation = 779
+2025-03-10 21:25:22,423 - INFO - Total token for sample 17191 in validation = 574
+2025-03-10 21:25:27,914 - INFO - Total token for sample 17192 in validation = 393
+2025-03-10 21:26:04,002 - INFO - Total token for sample 17193 in validation = 657
+2025-03-10 21:28:06,267 - INFO - Total token for sample 17194 in validation = 3368
+2025-03-10 21:28:45,587 - INFO - Total token for sample 17195 in validation = 734
+2025-03-10 21:29:17,538 - INFO - Total token for sample 17196 in validation = 601
+2025-03-10 21:29:49,767 - INFO - Total token for sample 17197 in validation = 532
+2025-03-10 21:30:22,573 - INFO - Total token for sample 17198 in validation = 911
+2025-03-10 21:31:03,336 - INFO - Total token for sample 17199 in validation = 672
+2025-03-10 21:31:24,119 - INFO - Total token for sample 17200 in validation = 727
+2025-03-10 21:31:48,832 - INFO - Total token for sample 17201 in validation = 582
+2025-03-10 21:32:16,147 - INFO - Total token for sample 17202 in validation = 588
+2025-03-10 21:36:09,364 - INFO - Total token for sample 17203 in validation = 7240
+2025-03-10 21:36:21,952 - INFO - Total token for sample 17204 in validation = 462
+2025-03-10 21:36:22,984 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 21:36:23,012 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 21:36:23,014 - INFO - Failed to get response for sameple no = 17205 in validation set
+2025-03-10 21:36:47,036 - INFO - Got a 502 error. Skipping this sample...
+2025-03-10 21:37:14,215 - INFO - Total token for sample 17207 in validation = 929
+2025-03-10 21:38:00,501 - INFO - Total token for sample 17208 in validation = 1455
+2025-03-10 21:39:31,650 - INFO - Total token for sample 17209 in validation = 1738
+2025-03-10 21:39:46,692 - INFO - Total token for sample 17210 in validation = 523
+2025-03-10 21:40:25,630 - INFO - Total token for sample 17211 in validation = 674
+2025-03-10 21:41:39,671 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 21:41:39,684 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 21:41:39,685 - INFO - Failed to get response for sameple no = 17212 in validation set
+2025-03-10 21:42:16,913 - INFO - Total token for sample 17213 in validation = 451
+2025-03-10 21:42:35,490 - INFO - Total token for sample 17214 in validation = 692
+2025-03-10 21:43:26,075 - INFO - Total token for sample 17215 in validation = 1165
+2025-03-10 21:43:52,286 - INFO - Total token for sample 17216 in validation = 865
+2025-03-10 21:44:46,872 - INFO - Total token for sample 17217 in validation = 663
+2025-03-10 21:45:28,805 - INFO - Total token for sample 17218 in validation = 725
+2025-03-10 21:46:05,919 - INFO - Total token for sample 17219 in validation = 1247
+2025-03-10 21:46:39,420 - INFO - Total token for sample 17220 in validation = 707
+2025-03-10 21:47:03,258 - INFO - Total token for sample 17221 in validation = 482
+2025-03-10 21:47:16,227 - INFO - Total token for sample 17222 in validation = 458
+2025-03-10 21:48:00,832 - INFO - Total token for sample 17223 in validation = 539
+2025-03-10 21:48:18,436 - INFO - Total token for sample 17224 in validation = 493
+2025-03-10 21:48:34,579 - INFO - Total token for sample 17225 in validation = 604
+2025-03-10 21:49:30,589 - INFO - Total token for sample 17226 in validation = 1943
+2025-03-10 21:54:23,269 - INFO - Total token for sample 17227 in validation = 3812
+2025-03-10 21:54:43,674 - INFO - Total token for sample 17228 in validation = 560
+2025-03-10 21:55:28,194 - INFO - Total token for sample 17229 in validation = 1501
+2025-03-10 21:56:04,630 - INFO - Total token for sample 17230 in validation = 873
+2025-03-10 21:56:29,876 - INFO - Total token for sample 17231 in validation = 872
+2025-03-10 21:56:43,548 - INFO - Total token for sample 17232 in validation = 510
+2025-03-10 21:57:01,753 - INFO - Total token for sample 17233 in validation = 707
+2025-03-10 21:58:29,232 - INFO - Total token for sample 17234 in validation = 1680
+2025-03-10 21:59:00,487 - INFO - Total token for sample 17235 in validation = 577
+2025-03-10 22:01:34,037 - INFO - Total token for sample 17236 in validation = 2408
+2025-03-10 22:02:01,631 - INFO - Total token for sample 17237 in validation = 568
+2025-03-10 22:02:19,005 - INFO - Total token for sample 17238 in validation = 414
+2025-03-10 22:03:06,729 - INFO - Total token for sample 17239 in validation = 770
+2025-03-10 22:03:30,445 - INFO - Total token for sample 17240 in validation = 878
+2025-03-10 22:03:43,088 - INFO - Total token for sample 17241 in validation = 489
+2025-03-10 22:05:37,841 - INFO - Total token for sample 17242 in validation = 3417
+2025-03-10 22:05:49,518 - INFO - Total token for sample 17243 in validation = 473
+2025-03-10 22:06:08,638 - INFO - Total token for sample 17244 in validation = 702
+2025-03-10 22:06:25,265 - INFO - Total token for sample 17245 in validation = 704
+2025-03-10 22:06:40,187 - INFO - Total token for sample 17246 in validation = 570
+2025-03-10 22:07:18,666 - INFO - Total token for sample 17247 in validation = 735
+2025-03-10 22:07:37,161 - INFO - Total token for sample 17248 in validation = 713
+2025-03-10 22:08:17,697 - INFO - Total token for sample 17249 in validation = 637
+2025-03-10 22:08:33,901 - INFO - Total token for sample 17250 in validation = 593
+2025-03-10 22:09:15,060 - INFO - Total token for sample 17251 in validation = 1265
+2025-03-10 22:09:28,580 - INFO - Total token for sample 17252 in validation = 518
+2025-03-10 22:10:13,418 - INFO - Total token for sample 17253 in validation = 893
+2025-03-10 22:10:48,489 - INFO - Total token for sample 17254 in validation = 651
+2025-03-10 22:11:10,816 - INFO - Total token for sample 17255 in validation = 590
+2025-03-10 22:12:03,053 - INFO - Total token for sample 17256 in validation = 1843
+2025-03-10 22:12:04,342 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 22:12:04,359 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 22:12:04,359 - INFO - Failed to get response for sameple no = 17257 in validation set
+2025-03-10 22:13:26,853 - INFO - Total token for sample 17258 in validation = 998
+2025-03-10 22:14:05,600 - INFO - Total token for sample 17259 in validation = 1303
+2025-03-10 22:19:05,709 - INFO - Timeout occurred skipping this sample
+2025-03-10 22:19:59,618 - INFO - Total token for sample 17261 in validation = 985
+2025-03-10 22:20:16,035 - INFO - Total token for sample 17262 in validation = 372
+2025-03-10 22:20:41,256 - INFO - Total token for sample 17263 in validation = 434
+2025-03-10 22:21:06,442 - INFO - Total token for sample 17264 in validation = 585
+2025-03-10 22:21:29,251 - INFO - Total token for sample 17265 in validation = 578
+2025-03-10 22:23:01,779 - INFO - Total token for sample 17266 in validation = 995
+2025-03-10 22:23:22,855 - INFO - Total token for sample 17267 in validation = 810
+2025-03-10 22:25:29,951 - INFO - Total token for sample 17268 in validation = 2818
+2025-03-10 22:25:54,588 - INFO - Total token for sample 17269 in validation = 900
+2025-03-10 22:26:17,915 - INFO - Total token for sample 17270 in validation = 529
+2025-03-10 22:26:55,255 - INFO - Total token for sample 17271 in validation = 559
+2025-03-10 22:27:05,975 - INFO - Total token for sample 17272 in validation = 499
+2025-03-10 22:27:27,842 - INFO - Total token for sample 17273 in validation = 512
+2025-03-10 22:27:28,974 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 22:27:28,991 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 22:27:28,991 - INFO - Failed to get response for sameple no = 17274 in validation set
+2025-03-10 22:27:29,959 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 22:27:29,975 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 22:27:29,976 - INFO - Failed to get response for sameple no = 17275 in validation set
+2025-03-10 22:27:43,861 - INFO - Total token for sample 17276 in validation = 491
+2025-03-10 22:28:26,553 - INFO - Total token for sample 17277 in validation = 686
+2025-03-10 22:28:39,439 - INFO - Total token for sample 17278 in validation = 995
+2025-03-10 22:28:48,912 - INFO - Total token for sample 17279 in validation = 370
+2025-03-10 22:29:10,532 - INFO - Total token for sample 17280 in validation = 509
+2025-03-10 22:30:08,196 - INFO - Total token for sample 17281 in validation = 463
+2025-03-10 22:30:09,209 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 22:30:09,227 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 22:30:09,228 - INFO - Failed to get response for sameple no = 17282 in validation set
+2025-03-10 22:30:49,444 - INFO - Total token for sample 17283 in validation = 1032
+2025-03-10 22:31:12,435 - INFO - Total token for sample 17284 in validation = 405
+2025-03-10 22:31:29,404 - INFO - Total token for sample 17285 in validation = 430
+2025-03-10 22:31:58,885 - INFO - Total token for sample 17286 in validation = 708
+2025-03-10 22:32:47,098 - INFO - Total token for sample 17287 in validation = 909
+2025-03-10 22:34:21,466 - INFO - Total token for sample 17288 in validation = 1886
+2025-03-10 22:35:08,812 - INFO - Total token for sample 17289 in validation = 1717
+2025-03-10 22:35:41,416 - INFO - Total token for sample 17290 in validation = 516
+2025-03-10 22:36:00,380 - INFO - Total token for sample 17291 in validation = 677
+2025-03-10 22:36:08,116 - INFO - Total token for sample 17292 in validation = 324
+2025-03-10 22:37:40,580 - INFO - Total token for sample 17293 in validation = 3434
+2025-03-10 22:38:11,563 - INFO - Total token for sample 17294 in validation = 1121
+2025-03-10 22:38:58,215 - INFO - Total token for sample 17295 in validation = 437
+2025-03-10 22:40:13,273 - INFO - Total token for sample 17296 in validation = 1329
+2025-03-10 22:40:36,420 - INFO - Total token for sample 17297 in validation = 872
+2025-03-10 22:40:54,457 - INFO - Total token for sample 17298 in validation = 718
+2025-03-10 22:41:18,902 - INFO - Total token for sample 17299 in validation = 827
+2025-03-10 22:42:18,217 - INFO - Total token for sample 17300 in validation = 1350
+2025-03-10 22:42:50,526 - INFO - Total token for sample 17301 in validation = 619
+2025-03-10 22:43:43,259 - INFO - Total token for sample 17302 in validation = 940
+2025-03-10 22:43:56,038 - INFO - Total token for sample 17303 in validation = 521
+2025-03-10 22:44:26,350 - INFO - Total token for sample 17304 in validation = 536
+2025-03-10 22:45:36,833 - INFO - Total token for sample 17305 in validation = 1159
+2025-03-10 22:46:37,887 - INFO - Total token for sample 17306 in validation = 603
+2025-03-10 22:47:33,305 - INFO - Total token for sample 17307 in validation = 1104
+2025-03-10 22:47:45,471 - INFO - Total token for sample 17308 in validation = 512
+2025-03-10 22:48:11,498 - INFO - Total token for sample 17309 in validation = 980
+2025-03-10 22:48:21,311 - INFO - Total token for sample 17310 in validation = 429
+2025-03-10 22:48:42,943 - INFO - Total token for sample 17311 in validation = 435
+2025-03-10 22:48:55,919 - INFO - Total token for sample 17312 in validation = 535
+2025-03-10 22:49:12,013 - INFO - Total token for sample 17313 in validation = 609
+2025-03-10 22:50:28,856 - INFO - Total token for sample 17314 in validation = 1032
+2025-03-10 22:50:48,563 - INFO - Total token for sample 17315 in validation = 484
+2025-03-10 22:52:51,534 - INFO - Total token for sample 17316 in validation = 1006
+2025-03-10 22:53:19,208 - INFO - Total token for sample 17317 in validation = 607
+2025-03-10 22:53:44,040 - INFO - Total token for sample 17318 in validation = 906
+2025-03-10 22:54:06,097 - INFO - Total token for sample 17319 in validation = 511
+2025-03-10 22:54:53,507 - INFO - Total token for sample 17320 in validation = 591
+2025-03-10 22:57:50,953 - INFO - Total token for sample 17321 in validation = 2564
+2025-03-10 22:58:47,202 - INFO - Total token for sample 17322 in validation = 1033
+2025-03-10 23:01:43,768 - INFO - Got a 502 error. Skipping this sample...
+2025-03-10 23:03:24,994 - INFO - Total token for sample 17324 in validation = 1289
+2025-03-10 23:03:59,399 - INFO - Total token for sample 17325 in validation = 634
+2025-03-10 23:07:41,951 - INFO - Total token for sample 17326 in validation = 2631
+2025-03-10 23:08:03,273 - INFO - Total token for sample 17327 in validation = 752
+2025-03-10 23:08:39,523 - INFO - Total token for sample 17328 in validation = 583
+2025-03-10 23:08:57,514 - INFO - Total token for sample 17329 in validation = 481
+2025-03-10 23:09:48,367 - INFO - Total token for sample 17330 in validation = 829
+2025-03-10 23:10:12,455 - INFO - Total token for sample 17331 in validation = 896
+2025-03-10 23:10:33,490 - INFO - Total token for sample 17332 in validation = 502
+2025-03-10 23:11:09,020 - INFO - Total token for sample 17333 in validation = 1504
+2025-03-10 23:11:28,398 - INFO - Total token for sample 17334 in validation = 394
+2025-03-10 23:12:10,666 - INFO - Total token for sample 17335 in validation = 636
+2025-03-10 23:12:32,069 - INFO - Total token for sample 17336 in validation = 391
+2025-03-10 23:14:18,691 - INFO - Total token for sample 17337 in validation = 2132
+2025-03-10 23:14:35,659 - INFO - Total token for sample 17338 in validation = 736
+2025-03-10 23:15:02,657 - INFO - Total token for sample 17339 in validation = 500
+2025-03-10 23:20:03,121 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-10 23:20:03,122 - INFO - Failed to get response for sameple no = 17340 in validation set
+2025-03-10 23:20:12,538 - INFO - Total token for sample 17341 in validation = 432
+2025-03-10 23:20:26,511 - INFO - Total token for sample 17342 in validation = 689
+2025-03-10 23:21:04,643 - INFO - Total token for sample 17343 in validation = 576
+2025-03-10 23:26:05,092 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-10 23:26:05,093 - INFO - Failed to get response for sameple no = 17344 in validation set
+2025-03-10 23:26:20,600 - INFO - Total token for sample 17345 in validation = 437
+2025-03-10 23:31:20,723 - INFO - Timeout occurred skipping this sample
+2025-03-10 23:32:09,586 - INFO - Total token for sample 17347 in validation = 1029
+2025-03-10 23:33:09,791 - INFO - Total token for sample 17348 in validation = 1331
+2025-03-10 23:33:28,496 - INFO - Total token for sample 17349 in validation = 1043
+2025-03-10 23:33:40,091 - INFO - Total token for sample 17350 in validation = 558
+2025-03-10 23:33:50,773 - INFO - Total token for sample 17351 in validation = 521
+2025-03-10 23:34:20,547 - INFO - Total token for sample 17352 in validation = 640
+2025-03-10 23:35:15,152 - INFO - Total token for sample 17353 in validation = 598
+2025-03-10 23:35:44,699 - INFO - Total token for sample 17354 in validation = 603
+2025-03-10 23:35:55,215 - INFO - Total token for sample 17355 in validation = 465
+2025-03-10 23:36:07,368 - INFO - Total token for sample 17356 in validation = 973
+2025-03-10 23:36:31,636 - INFO - Total token for sample 17357 in validation = 587
+2025-03-10 23:37:00,545 - INFO - Total token for sample 17358 in validation = 506
+2025-03-10 23:37:10,345 - INFO - Total token for sample 17359 in validation = 481
+2025-03-10 23:37:39,795 - INFO - Total token for sample 17360 in validation = 547
+2025-03-10 23:38:06,116 - INFO - Total token for sample 17361 in validation = 647
+2025-03-10 23:38:15,317 - INFO - Total token for sample 17362 in validation = 775
+2025-03-10 23:38:45,905 - INFO - Total token for sample 17363 in validation = 595
+2025-03-10 23:40:15,361 - INFO - Total token for sample 17364 in validation = 1000
+2025-03-10 23:40:16,274 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 23:40:16,292 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 23:40:16,292 - INFO - Failed to get response for sameple no = 17365 in validation set
+2025-03-10 23:40:16,953 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 23:40:16,959 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 23:40:16,959 - INFO - Failed to get response for sameple no = 17366 in validation set
+2025-03-10 23:40:44,145 - INFO - Total token for sample 17367 in validation = 620
+2025-03-10 23:41:20,520 - INFO - Total token for sample 17368 in validation = 584
+2025-03-10 23:41:58,662 - INFO - Total token for sample 17369 in validation = 848
+2025-03-10 23:42:13,993 - INFO - Total token for sample 17370 in validation = 756
+2025-03-10 23:42:51,983 - INFO - Total token for sample 17371 in validation = 489
+2025-03-10 23:43:06,580 - INFO - Total token for sample 17372 in validation = 606
+2025-03-10 23:43:44,682 - INFO - Total token for sample 17373 in validation = 954
+2025-03-10 23:44:53,265 - INFO - Total token for sample 17374 in validation = 856
+2025-03-10 23:44:57,243 - INFO - Total token for sample 17375 in validation = 362
+2025-03-10 23:45:18,497 - INFO - Total token for sample 17376 in validation = 539
+2025-03-10 23:47:12,042 - INFO - Total token for sample 17377 in validation = 2064
+2025-03-10 23:47:39,897 - INFO - Total token for sample 17378 in validation = 609
+2025-03-10 23:47:49,045 - INFO - Total token for sample 17379 in validation = 454
+2025-03-10 23:49:30,036 - INFO - Total token for sample 17380 in validation = 1535
+2025-03-10 23:49:31,535 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-10 23:49:31,553 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-10 23:49:31,554 - INFO - Failed to get response for sameple no = 17381 in validation set
+2025-03-10 23:49:54,465 - INFO - Total token for sample 17382 in validation = 636
+2025-03-10 23:50:04,946 - INFO - Total token for sample 17383 in validation = 448
+2025-03-10 23:50:45,014 - INFO - Total token for sample 17384 in validation = 869
+2025-03-10 23:51:01,521 - INFO - Total token for sample 17385 in validation = 438
+2025-03-10 23:51:08,237 - INFO - Total token for sample 17386 in validation = 766
+2025-03-10 23:52:58,109 - INFO - Total token for sample 17387 in validation = 4574
+2025-03-10 23:54:38,672 - INFO - Total token for sample 17388 in validation = 1394
+2025-03-10 23:55:10,065 - INFO - Total token for sample 17389 in validation = 551
+2025-03-10 23:56:02,118 - INFO - Total token for sample 17390 in validation = 924
+2025-03-10 23:56:29,909 - INFO - Total token for sample 17391 in validation = 513
+2025-03-10 23:57:10,961 - INFO - Total token for sample 17392 in validation = 635
+2025-03-10 23:57:26,901 - INFO - Total token for sample 17393 in validation = 691
+2025-03-10 23:58:04,685 - INFO - Total token for sample 17394 in validation = 596
+2025-03-10 23:58:20,514 - INFO - Total token for sample 17395 in validation = 382
+2025-03-10 23:59:20,795 - INFO - Total token for sample 17396 in validation = 888
+2025-03-10 23:59:32,059 - INFO - Total token for sample 17397 in validation = 539
+2025-03-10 23:59:56,703 - INFO - Total token for sample 17398 in validation = 1142
+2025-03-11 00:02:01,450 - INFO - Total token for sample 17399 in validation = 1513
+2025-03-11 00:02:14,930 - INFO - Total token for sample 17400 in validation = 590
+2025-03-11 00:03:00,593 - INFO - Total token for sample 17401 in validation = 1874
+2025-03-11 00:03:19,112 - INFO - Total token for sample 17402 in validation = 910
+2025-03-11 00:03:59,850 - INFO - Total token for sample 17403 in validation = 647
+2025-03-11 00:04:19,170 - INFO - Total token for sample 17404 in validation = 429
+2025-03-11 00:05:43,858 - INFO - Total token for sample 17405 in validation = 1478
+2025-03-11 00:06:28,911 - INFO - Total token for sample 17406 in validation = 1019
+2025-03-11 00:07:09,924 - INFO - Total token for sample 17407 in validation = 566
+2025-03-11 00:09:55,846 - INFO - Total token for sample 17408 in validation = 2809
+2025-03-11 00:10:15,231 - INFO - Total token for sample 17409 in validation = 948
+2025-03-11 00:10:25,713 - INFO - Total token for sample 17410 in validation = 556
+2025-03-11 00:10:39,606 - INFO - Total token for sample 17411 in validation = 360
+2025-03-11 00:11:02,122 - INFO - Total token for sample 17412 in validation = 504
+2025-03-11 00:11:18,310 - INFO - Total token for sample 17413 in validation = 784
+2025-03-11 00:12:18,344 - INFO - Total token for sample 17414 in validation = 1257
+2025-03-11 00:12:31,822 - INFO - Total token for sample 17415 in validation = 584
+2025-03-11 00:17:32,723 - INFO - Timeout occurred skipping this sample
+2025-03-11 00:22:33,199 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-11 00:22:33,200 - INFO - Failed to get response for sameple no = 17417 in validation set
+2025-03-11 00:22:58,263 - INFO - Total token for sample 17418 in validation = 502
+2025-03-11 00:23:29,836 - INFO - Total token for sample 17419 in validation = 615
+2025-03-11 00:23:43,426 - INFO - Total token for sample 17420 in validation = 672
+2025-03-11 00:25:35,682 - INFO - Total token for sample 17421 in validation = 1526
+2025-03-11 00:25:49,387 - INFO - Total token for sample 17422 in validation = 635
+2025-03-11 00:26:18,018 - INFO - Total token for sample 17423 in validation = 1303
+2025-03-11 00:28:25,960 - INFO - Total token for sample 17424 in validation = 2001
+2025-03-11 00:29:07,982 - INFO - Total token for sample 17425 in validation = 756
+2025-03-11 00:29:34,384 - INFO - Total token for sample 17426 in validation = 681
+2025-03-11 00:29:44,063 - INFO - Total token for sample 17427 in validation = 520
+2025-03-11 00:30:20,329 - INFO - Total token for sample 17428 in validation = 727
+2025-03-11 00:30:21,959 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 00:30:21,976 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 00:30:21,977 - INFO - Failed to get response for sameple no = 17429 in validation set
+2025-03-11 00:30:32,628 - INFO - Total token for sample 17430 in validation = 612
+2025-03-11 00:30:55,287 - INFO - Total token for sample 17431 in validation = 476
+2025-03-11 00:31:41,224 - INFO - Total token for sample 17432 in validation = 1011
+2025-03-11 00:33:49,083 - INFO - Total token for sample 17433 in validation = 2047
+2025-03-11 00:34:52,125 - INFO - Total token for sample 17434 in validation = 915
+2025-03-11 00:35:35,255 - INFO - Total token for sample 17435 in validation = 539
+2025-03-11 00:36:11,380 - INFO - Total token for sample 17436 in validation = 1585
+2025-03-11 00:38:10,325 - INFO - Total token for sample 17437 in validation = 1539
+2025-03-11 00:38:59,955 - INFO - Total token for sample 17438 in validation = 1127
+2025-03-11 00:39:49,140 - INFO - Total token for sample 17439 in validation = 642
+2025-03-11 00:40:14,365 - INFO - Total token for sample 17440 in validation = 2351
+2025-03-11 00:40:30,559 - INFO - Total token for sample 17441 in validation = 440
+2025-03-11 00:40:40,652 - INFO - Total token for sample 17442 in validation = 516
+2025-03-11 00:41:07,091 - INFO - Total token for sample 17443 in validation = 505
+2025-03-11 00:41:16,627 - INFO - Total token for sample 17444 in validation = 494
+2025-03-11 00:41:33,680 - INFO - Total token for sample 17445 in validation = 801
+2025-03-11 00:42:15,526 - INFO - Total token for sample 17446 in validation = 661
+2025-03-11 00:45:01,874 - INFO - Total token for sample 17447 in validation = 1544
+2025-03-11 00:45:37,438 - INFO - Total token for sample 17448 in validation = 539
+2025-03-11 00:46:02,577 - INFO - Total token for sample 17449 in validation = 704
+2025-03-11 00:46:31,268 - INFO - Total token for sample 17450 in validation = 745
+2025-03-11 00:47:25,823 - INFO - Total token for sample 17451 in validation = 1450
+2025-03-11 00:47:48,353 - INFO - Total token for sample 17452 in validation = 500
+2025-03-11 00:48:04,854 - INFO - Total token for sample 17453 in validation = 832
+2025-03-11 00:48:12,658 - INFO - Total token for sample 17454 in validation = 467
+2025-03-11 00:48:24,533 - INFO - Total token for sample 17455 in validation = 367
+2025-03-11 00:48:34,174 - INFO - Total token for sample 17456 in validation = 509
+2025-03-11 00:48:42,853 - INFO - Total token for sample 17457 in validation = 614
+2025-03-11 00:48:44,848 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 00:48:44,869 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 00:48:44,870 - INFO - Failed to get response for sameple no = 17458 in validation set
+2025-03-11 00:52:31,653 - INFO - Total token for sample 17459 in validation = 2789
+2025-03-11 00:52:56,586 - INFO - Total token for sample 17460 in validation = 573
+2025-03-11 00:53:04,037 - INFO - Total token for sample 17461 in validation = 433
+2025-03-11 00:53:16,783 - INFO - Total token for sample 17462 in validation = 1059
+2025-03-11 00:53:33,974 - INFO - Total token for sample 17463 in validation = 487
+2025-03-11 00:53:46,657 - INFO - Total token for sample 17464 in validation = 795
+2025-03-11 00:54:49,595 - INFO - Total token for sample 17465 in validation = 993
+2025-03-11 00:55:02,820 - INFO - Total token for sample 17466 in validation = 628
+2025-03-11 00:55:33,469 - INFO - Total token for sample 17467 in validation = 534
+2025-03-11 00:55:46,134 - INFO - Total token for sample 17468 in validation = 656
+2025-03-11 00:56:03,936 - INFO - Total token for sample 17469 in validation = 463
+2025-03-11 00:56:05,540 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 00:56:05,554 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 00:56:05,554 - INFO - Failed to get response for sameple no = 17470 in validation set
+2025-03-11 00:56:32,127 - INFO - Total token for sample 17471 in validation = 613
+2025-03-11 00:57:18,286 - INFO - Total token for sample 17472 in validation = 483
+2025-03-11 01:02:18,723 - INFO - Timeout occurred skipping this sample
+2025-03-11 01:03:25,303 - INFO - Total token for sample 17474 in validation = 1131
+2025-03-11 01:03:42,102 - INFO - Total token for sample 17475 in validation = 774
+2025-03-11 01:03:53,221 - INFO - Total token for sample 17476 in validation = 670
+2025-03-11 01:04:41,655 - INFO - Total token for sample 17477 in validation = 999
+2025-03-11 01:04:53,900 - INFO - Total token for sample 17478 in validation = 527
+2025-03-11 01:05:08,774 - INFO - Total token for sample 17479 in validation = 693
+2025-03-11 01:05:35,361 - INFO - Total token for sample 17480 in validation = 542
+2025-03-11 01:06:12,230 - INFO - Total token for sample 17481 in validation = 663
+2025-03-11 01:06:22,895 - INFO - Total token for sample 17482 in validation = 547
+2025-03-11 01:06:31,435 - INFO - Total token for sample 17483 in validation = 459
+2025-03-11 01:07:37,434 - INFO - Total token for sample 17484 in validation = 858
+2025-03-11 01:08:04,567 - INFO - Total token for sample 17485 in validation = 547
+2025-03-11 01:08:06,311 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 01:08:06,329 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 01:08:06,330 - INFO - Failed to get response for sameple no = 17486 in validation set
+2025-03-11 01:08:08,175 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 01:08:08,193 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 01:08:08,194 - INFO - Failed to get response for sameple no = 17487 in validation set
+2025-03-11 01:09:12,033 - INFO - Total token for sample 17488 in validation = 1078
+2025-03-11 01:09:31,837 - INFO - Total token for sample 17489 in validation = 1005
+2025-03-11 01:09:33,793 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 01:09:33,806 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 01:09:33,806 - INFO - Failed to get response for sameple no = 17490 in validation set
+2025-03-11 01:09:35,544 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 01:09:35,562 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 01:09:35,563 - INFO - Failed to get response for sameple no = 17491 in validation set
+2025-03-11 01:10:24,346 - INFO - Total token for sample 17492 in validation = 1112
+2025-03-11 01:10:42,019 - INFO - Total token for sample 17493 in validation = 890
+2025-03-11 01:11:02,784 - INFO - Total token for sample 17494 in validation = 1478
+2025-03-11 01:11:45,411 - INFO - Total token for sample 17495 in validation = 947
+2025-03-11 01:12:14,946 - INFO - Total token for sample 17496 in validation = 656
+2025-03-11 01:13:09,423 - INFO - Total token for sample 17497 in validation = 861
+2025-03-11 01:13:42,672 - INFO - Total token for sample 17498 in validation = 562
+2025-03-11 01:14:07,134 - INFO - Total token for sample 17499 in validation = 708
+2025-03-11 01:14:19,857 - INFO - Total token for sample 17500 in validation = 579
+2025-03-11 01:14:29,210 - INFO - Total token for sample 17501 in validation = 529
+2025-03-11 01:14:30,106 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 01:14:30,127 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 01:14:30,128 - INFO - Failed to get response for sameple no = 17502 in validation set
+2025-03-11 01:14:58,835 - INFO - Total token for sample 17503 in validation = 646
+2025-03-11 01:18:15,929 - INFO - Total token for sample 17504 in validation = 3225
+2025-03-11 01:18:51,289 - INFO - Total token for sample 17505 in validation = 669
+2025-03-11 01:22:50,935 - INFO - Total token for sample 17506 in validation = 5417
+2025-03-11 01:23:03,162 - INFO - Total token for sample 17507 in validation = 581
+2025-03-11 01:23:33,143 - INFO - Total token for sample 17508 in validation = 691
+2025-03-11 01:24:11,402 - INFO - Total token for sample 17509 in validation = 566
+2025-03-11 01:24:38,041 - INFO - Total token for sample 17510 in validation = 585
+2025-03-11 01:24:48,663 - INFO - Total token for sample 17511 in validation = 514
+2025-03-11 01:29:49,693 - INFO - Timeout occurred skipping this sample
+2025-03-11 01:30:09,710 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:30:09,710 - INFO - Failed to get response for sameple no = 17513 in validation set
+2025-03-11 01:30:29,731 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:30:29,732 - INFO - Failed to get response for sameple no = 17514 in validation set
+2025-03-11 01:30:49,752 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:30:49,752 - INFO - Failed to get response for sameple no = 17515 in validation set
+2025-03-11 01:31:09,775 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:31:09,775 - INFO - Failed to get response for sameple no = 17516 in validation set
+2025-03-11 01:31:29,793 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:31:29,794 - INFO - Failed to get response for sameple no = 17517 in validation set
+2025-03-11 01:31:49,814 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:31:49,815 - INFO - Failed to get response for sameple no = 17518 in validation set
+2025-03-11 01:32:09,829 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:32:09,829 - INFO - Failed to get response for sameple no = 17519 in validation set
+2025-03-11 01:32:29,851 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:32:29,852 - INFO - Failed to get response for sameple no = 17520 in validation set
+2025-03-11 01:32:49,874 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:32:49,875 - INFO - Failed to get response for sameple no = 17521 in validation set
+2025-03-11 01:33:09,891 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:33:09,891 - INFO - Failed to get response for sameple no = 17522 in validation set
+2025-03-11 01:33:29,913 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:33:29,914 - INFO - Failed to get response for sameple no = 17523 in validation set
+2025-03-11 01:33:49,936 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:33:49,937 - INFO - Failed to get response for sameple no = 17524 in validation set
+2025-03-11 01:34:09,959 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:34:09,960 - INFO - Failed to get response for sameple no = 17525 in validation set
+2025-03-11 01:34:29,982 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:34:29,983 - INFO - Failed to get response for sameple no = 17526 in validation set
+2025-03-11 01:34:50,003 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:34:50,004 - INFO - Failed to get response for sameple no = 17527 in validation set
+2025-03-11 01:35:10,027 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:35:10,027 - INFO - Failed to get response for sameple no = 17528 in validation set
+2025-03-11 01:35:30,051 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:35:30,051 - INFO - Failed to get response for sameple no = 17529 in validation set
+2025-03-11 01:35:50,073 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:35:50,074 - INFO - Failed to get response for sameple no = 17530 in validation set
+2025-03-11 01:36:10,096 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:36:10,097 - INFO - Failed to get response for sameple no = 17531 in validation set
+2025-03-11 01:36:30,118 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:36:30,119 - INFO - Failed to get response for sameple no = 17532 in validation set
+2025-03-11 01:36:50,138 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:36:50,138 - INFO - Failed to get response for sameple no = 17533 in validation set
+2025-03-11 01:37:10,156 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:37:10,156 - INFO - Failed to get response for sameple no = 17534 in validation set
+2025-03-11 01:37:30,174 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:37:30,175 - INFO - Failed to get response for sameple no = 17535 in validation set
+2025-03-11 01:37:50,197 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:37:50,198 - INFO - Failed to get response for sameple no = 17536 in validation set
+2025-03-11 01:38:10,216 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:38:10,217 - INFO - Failed to get response for sameple no = 17537 in validation set
+2025-03-11 01:38:30,239 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:38:30,240 - INFO - Failed to get response for sameple no = 17538 in validation set
+2025-03-11 01:38:50,259 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:38:50,260 - INFO - Failed to get response for sameple no = 17539 in validation set
+2025-03-11 01:39:10,282 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:39:10,283 - INFO - Failed to get response for sameple no = 17540 in validation set
+2025-03-11 01:39:30,305 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:39:30,306 - INFO - Failed to get response for sameple no = 17541 in validation set
+2025-03-11 01:39:50,327 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:39:50,328 - INFO - Failed to get response for sameple no = 17542 in validation set
+2025-03-11 01:40:10,347 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:40:10,347 - INFO - Failed to get response for sameple no = 17543 in validation set
+2025-03-11 01:40:30,367 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:40:30,367 - INFO - Failed to get response for sameple no = 17544 in validation set
+2025-03-11 01:40:50,391 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:40:50,391 - INFO - Failed to get response for sameple no = 17545 in validation set
+2025-03-11 01:41:10,415 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:41:10,416 - INFO - Failed to get response for sameple no = 17546 in validation set
+2025-03-11 01:41:30,438 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:41:30,439 - INFO - Failed to get response for sameple no = 17547 in validation set
+2025-03-11 01:41:50,462 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:41:50,462 - INFO - Failed to get response for sameple no = 17548 in validation set
+2025-03-11 01:42:10,481 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:42:10,482 - INFO - Failed to get response for sameple no = 17549 in validation set
+2025-03-11 01:42:30,504 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:42:30,505 - INFO - Failed to get response for sameple no = 17550 in validation set
+2025-03-11 01:42:50,528 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:42:50,529 - INFO - Failed to get response for sameple no = 17551 in validation set
+2025-03-11 01:43:10,553 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:43:10,554 - INFO - Failed to get response for sameple no = 17552 in validation set
+2025-03-11 01:43:30,573 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:43:30,573 - INFO - Failed to get response for sameple no = 17553 in validation set
+2025-03-11 01:43:50,596 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:43:50,597 - INFO - Failed to get response for sameple no = 17554 in validation set
+2025-03-11 01:44:10,617 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-11 01:44:10,617 - INFO - Failed to get response for sameple no = 17555 in validation set
+2025-03-11 01:44:11,177 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:11,177 - INFO - Failed to get response for sameple no = 17556 in validation set
+2025-03-11 01:44:11,557 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:11,558 - INFO - Failed to get response for sameple no = 17557 in validation set
+2025-03-11 01:44:11,825 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:11,825 - INFO - Failed to get response for sameple no = 17558 in validation set
+2025-03-11 01:44:12,025 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:12,025 - INFO - Failed to get response for sameple no = 17559 in validation set
+2025-03-11 01:44:12,258 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:12,258 - INFO - Failed to get response for sameple no = 17560 in validation set
+2025-03-11 01:44:12,461 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:12,462 - INFO - Failed to get response for sameple no = 17561 in validation set
+2025-03-11 01:44:12,673 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:12,674 - INFO - Failed to get response for sameple no = 17562 in validation set
+2025-03-11 01:44:12,879 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:12,880 - INFO - Failed to get response for sameple no = 17563 in validation set
+2025-03-11 01:44:13,088 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:13,089 - INFO - Failed to get response for sameple no = 17564 in validation set
+2025-03-11 01:44:13,292 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:13,293 - INFO - Failed to get response for sameple no = 17565 in validation set
+2025-03-11 01:44:13,497 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:13,498 - INFO - Failed to get response for sameple no = 17566 in validation set
+2025-03-11 01:44:13,708 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:13,708 - INFO - Failed to get response for sameple no = 17567 in validation set
+2025-03-11 01:44:13,912 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:13,913 - INFO - Failed to get response for sameple no = 17568 in validation set
+2025-03-11 01:44:14,117 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:14,118 - INFO - Failed to get response for sameple no = 17569 in validation set
+2025-03-11 01:44:14,317 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:14,318 - INFO - Failed to get response for sameple no = 17570 in validation set
+2025-03-11 01:44:14,529 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:14,530 - INFO - Failed to get response for sameple no = 17571 in validation set
+2025-03-11 01:44:14,737 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:14,738 - INFO - Failed to get response for sameple no = 17572 in validation set
+2025-03-11 01:44:14,944 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:14,944 - INFO - Failed to get response for sameple no = 17573 in validation set
+2025-03-11 01:44:15,149 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:15,150 - INFO - Failed to get response for sameple no = 17574 in validation set
+2025-03-11 01:44:15,354 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:15,354 - INFO - Failed to get response for sameple no = 17575 in validation set
+2025-03-11 01:44:15,563 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:15,564 - INFO - Failed to get response for sameple no = 17576 in validation set
+2025-03-11 01:44:15,865 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:15,866 - INFO - Failed to get response for sameple no = 17577 in validation set
+2025-03-11 01:44:16,103 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:16,103 - INFO - Failed to get response for sameple no = 17578 in validation set
+2025-03-11 01:44:16,318 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:16,318 - INFO - Failed to get response for sameple no = 17579 in validation set
+2025-03-11 01:44:16,602 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:16,602 - INFO - Failed to get response for sameple no = 17580 in validation set
+2025-03-11 01:44:16,890 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:16,891 - INFO - Failed to get response for sameple no = 17581 in validation set
+2025-03-11 01:44:17,310 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:17,311 - INFO - Failed to get response for sameple no = 17582 in validation set
+2025-03-11 01:44:17,703 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:17,704 - INFO - Failed to get response for sameple no = 17583 in validation set
+2025-03-11 01:44:18,072 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:18,073 - INFO - Failed to get response for sameple no = 17584 in validation set
+2025-03-11 01:44:18,465 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:18,466 - INFO - Failed to get response for sameple no = 17585 in validation set
+2025-03-11 01:44:18,707 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:18,708 - INFO - Failed to get response for sameple no = 17586 in validation set
+2025-03-11 01:44:18,915 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:18,916 - INFO - Failed to get response for sameple no = 17587 in validation set
+2025-03-11 01:44:19,117 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:19,118 - INFO - Failed to get response for sameple no = 17588 in validation set
+2025-03-11 01:44:19,333 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:19,334 - INFO - Failed to get response for sameple no = 17589 in validation set
+2025-03-11 01:44:19,523 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:19,524 - INFO - Failed to get response for sameple no = 17590 in validation set
+2025-03-11 01:44:19,743 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:19,744 - INFO - Failed to get response for sameple no = 17591 in validation set
+2025-03-11 01:44:19,945 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:19,945 - INFO - Failed to get response for sameple no = 17592 in validation set
+2025-03-11 01:44:20,150 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:20,150 - INFO - Failed to get response for sameple no = 17593 in validation set
+2025-03-11 01:44:20,357 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:20,358 - INFO - Failed to get response for sameple no = 17594 in validation set
+2025-03-11 01:44:20,552 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:20,552 - INFO - Failed to get response for sameple no = 17595 in validation set
+2025-03-11 01:44:20,766 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:20,767 - INFO - Failed to get response for sameple no = 17596 in validation set
+2025-03-11 01:44:20,970 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:20,971 - INFO - Failed to get response for sameple no = 17597 in validation set
+2025-03-11 01:44:21,174 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:21,175 - INFO - Failed to get response for sameple no = 17598 in validation set
+2025-03-11 01:44:21,383 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:21,384 - INFO - Failed to get response for sameple no = 17599 in validation set
+2025-03-11 01:44:21,587 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:21,588 - INFO - Failed to get response for sameple no = 17600 in validation set
+2025-03-11 01:44:21,805 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:21,805 - INFO - Failed to get response for sameple no = 17601 in validation set
+2025-03-11 01:44:22,019 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:22,020 - INFO - Failed to get response for sameple no = 17602 in validation set
+2025-03-11 01:44:22,230 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:22,231 - INFO - Failed to get response for sameple no = 17603 in validation set
+2025-03-11 01:44:22,432 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:22,432 - INFO - Failed to get response for sameple no = 17604 in validation set
+2025-03-11 01:44:22,669 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:22,670 - INFO - Failed to get response for sameple no = 17605 in validation set
+2025-03-11 01:44:22,876 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:22,877 - INFO - Failed to get response for sameple no = 17606 in validation set
+2025-03-11 01:44:23,081 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:23,082 - INFO - Failed to get response for sameple no = 17607 in validation set
+2025-03-11 01:44:23,302 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:23,303 - INFO - Failed to get response for sameple no = 17608 in validation set
+2025-03-11 01:44:23,508 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:23,509 - INFO - Failed to get response for sameple no = 17609 in validation set
+2025-03-11 01:44:23,726 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:23,726 - INFO - Failed to get response for sameple no = 17610 in validation set
+2025-03-11 01:44:23,931 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:23,932 - INFO - Failed to get response for sameple no = 17611 in validation set
+2025-03-11 01:44:24,135 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:24,136 - INFO - Failed to get response for sameple no = 17612 in validation set
+2025-03-11 01:44:24,341 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:24,342 - INFO - Failed to get response for sameple no = 17613 in validation set
+2025-03-11 01:44:24,544 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:24,545 - INFO - Failed to get response for sameple no = 17614 in validation set
+2025-03-11 01:44:24,764 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:24,764 - INFO - Failed to get response for sameple no = 17615 in validation set
+2025-03-11 01:44:24,963 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:24,963 - INFO - Failed to get response for sameple no = 17616 in validation set
+2025-03-11 01:44:25,172 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:25,173 - INFO - Failed to get response for sameple no = 17617 in validation set
+2025-03-11 01:44:25,372 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:25,373 - INFO - Failed to get response for sameple no = 17618 in validation set
+2025-03-11 01:44:25,578 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:25,579 - INFO - Failed to get response for sameple no = 17619 in validation set
+2025-03-11 01:44:25,800 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:25,801 - INFO - Failed to get response for sameple no = 17620 in validation set
+2025-03-11 01:44:26,002 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:26,002 - INFO - Failed to get response for sameple no = 17621 in validation set
+2025-03-11 01:44:26,198 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:26,198 - INFO - Failed to get response for sameple no = 17622 in validation set
+2025-03-11 01:44:26,402 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:26,403 - INFO - Failed to get response for sameple no = 17623 in validation set
+2025-03-11 01:44:26,607 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:26,608 - INFO - Failed to get response for sameple no = 17624 in validation set
+2025-03-11 01:44:26,823 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:26,824 - INFO - Failed to get response for sameple no = 17625 in validation set
+2025-03-11 01:44:27,026 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:27,026 - INFO - Failed to get response for sameple no = 17626 in validation set
+2025-03-11 01:44:27,303 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:27,303 - INFO - Failed to get response for sameple no = 17627 in validation set
+2025-03-11 01:44:27,555 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:27,556 - INFO - Failed to get response for sameple no = 17628 in validation set
+2025-03-11 01:44:27,920 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:27,921 - INFO - Failed to get response for sameple no = 17629 in validation set
+2025-03-11 01:44:28,415 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:28,415 - INFO - Failed to get response for sameple no = 17630 in validation set
+2025-03-11 01:44:28,755 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:28,755 - INFO - Failed to get response for sameple no = 17631 in validation set
+2025-03-11 01:44:29,176 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:29,177 - INFO - Failed to get response for sameple no = 17632 in validation set
+2025-03-11 01:44:29,469 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:29,469 - INFO - Failed to get response for sameple no = 17633 in validation set
+2025-03-11 01:44:29,734 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:29,734 - INFO - Failed to get response for sameple no = 17634 in validation set
+2025-03-11 01:44:30,105 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:30,105 - INFO - Failed to get response for sameple no = 17635 in validation set
+2025-03-11 01:44:30,512 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-11 01:44:30,513 - INFO - Failed to get response for sameple no = 17636 in validation set
+2025-03-11 01:44:51,915 - INFO - Total token for sample 17637 in validation = 450
+2025-03-11 01:45:13,655 - INFO - Total token for sample 17638 in validation = 494
+2025-03-11 01:45:54,665 - INFO - Total token for sample 17639 in validation = 1814
+2025-03-11 01:46:11,274 - INFO - Total token for sample 17640 in validation = 767
+2025-03-11 01:46:32,471 - INFO - Total token for sample 17641 in validation = 610
+2025-03-11 01:47:10,414 - INFO - Got a 502 error. Skipping this sample...
+2025-03-11 01:47:24,407 - INFO - Total token for sample 17643 in validation = 785
+2025-03-11 01:47:47,637 - INFO - Total token for sample 17644 in validation = 437
+2025-03-11 01:48:02,942 - INFO - Total token for sample 17645 in validation = 730
+2025-03-11 01:48:11,633 - INFO - Total token for sample 17646 in validation = 492
+2025-03-11 01:48:26,138 - INFO - Total token for sample 17647 in validation = 734
+2025-03-11 01:48:57,575 - INFO - Total token for sample 17648 in validation = 562
+2025-03-11 01:49:05,944 - INFO - Total token for sample 17649 in validation = 586
+2025-03-11 01:49:17,973 - INFO - Total token for sample 17650 in validation = 627
+2025-03-11 01:49:50,145 - INFO - Total token for sample 17651 in validation = 698
+2025-03-11 01:50:11,527 - INFO - Total token for sample 17652 in validation = 432
+2025-03-11 01:50:35,486 - INFO - Total token for sample 17653 in validation = 598
+2025-03-11 01:51:04,724 - INFO - Total token for sample 17654 in validation = 568
+2025-03-11 01:53:22,056 - INFO - Total token for sample 17655 in validation = 6580
+2025-03-11 01:53:38,807 - INFO - Total token for sample 17656 in validation = 741
+2025-03-11 01:54:00,659 - INFO - Total token for sample 17657 in validation = 526
+2025-03-11 01:54:15,424 - INFO - Total token for sample 17658 in validation = 758
+2025-03-11 01:54:37,181 - INFO - Total token for sample 17659 in validation = 389
+2025-03-11 01:55:02,639 - INFO - Total token for sample 17660 in validation = 664
+2025-03-11 01:56:03,725 - INFO - Total token for sample 17661 in validation = 735
+2025-03-11 01:56:51,282 - INFO - Total token for sample 17662 in validation = 847
+2025-03-11 01:57:17,040 - INFO - Total token for sample 17663 in validation = 545
+2025-03-11 01:58:04,572 - INFO - Total token for sample 17664 in validation = 878
+2025-03-11 01:58:26,037 - INFO - Total token for sample 17665 in validation = 491
+2025-03-11 01:58:50,639 - INFO - Total token for sample 17666 in validation = 494
+2025-03-11 01:59:03,702 - INFO - Total token for sample 17667 in validation = 673
+2025-03-11 01:59:21,039 - INFO - Total token for sample 17668 in validation = 808
+2025-03-11 02:00:27,887 - INFO - Total token for sample 17669 in validation = 3162
+2025-03-11 02:01:05,796 - INFO - Total token for sample 17670 in validation = 671
+2025-03-11 02:01:38,868 - INFO - Total token for sample 17671 in validation = 673
+2025-03-11 02:04:23,875 - INFO - Total token for sample 17672 in validation = 1880
+2025-03-11 02:05:22,684 - INFO - Total token for sample 17673 in validation = 1292
+2025-03-11 02:05:49,345 - INFO - Total token for sample 17674 in validation = 476
+2025-03-11 02:10:49,723 - INFO - Timeout occurred skipping this sample
+2025-03-11 02:15:50,724 - INFO - Timeout occurred skipping this sample
+2025-03-11 02:16:14,041 - INFO - Total token for sample 17677 in validation = 485
+2025-03-11 02:17:24,823 - INFO - Total token for sample 17678 in validation = 991
+2025-03-11 02:17:42,416 - INFO - Total token for sample 17679 in validation = 438
+2025-03-11 02:18:02,865 - INFO - Total token for sample 17680 in validation = 537
+2025-03-11 02:21:11,245 - INFO - Total token for sample 17681 in validation = 2856
+2025-03-11 02:21:20,108 - INFO - Total token for sample 17682 in validation = 440
+2025-03-11 02:21:31,359 - INFO - Total token for sample 17683 in validation = 587
+2025-03-11 02:21:53,676 - INFO - Total token for sample 17684 in validation = 1078
+2025-03-11 02:22:11,540 - INFO - Total token for sample 17685 in validation = 430
+2025-03-11 02:23:11,358 - INFO - Total token for sample 17686 in validation = 2567
+2025-03-11 02:24:00,554 - INFO - Total token for sample 17687 in validation = 1008
+2025-03-11 02:24:10,370 - INFO - Total token for sample 17688 in validation = 487
+2025-03-11 02:25:32,019 - INFO - Total token for sample 17689 in validation = 1666
+2025-03-11 02:26:01,965 - INFO - Total token for sample 17690 in validation = 393
+2025-03-11 02:26:09,924 - INFO - Total token for sample 17691 in validation = 461
+2025-03-11 02:29:48,050 - INFO - Total token for sample 17692 in validation = 9739
+2025-03-11 02:30:14,325 - INFO - Total token for sample 17693 in validation = 508
+2025-03-11 02:30:20,926 - INFO - Total token for sample 17694 in validation = 569
+2025-03-11 02:30:31,287 - INFO - Total token for sample 17695 in validation = 551
+2025-03-11 02:30:39,268 - INFO - Total token for sample 17696 in validation = 738
+2025-03-11 02:32:56,389 - INFO - Total token for sample 17697 in validation = 2228
+2025-03-11 02:33:42,176 - INFO - Total token for sample 17698 in validation = 1160
+2025-03-11 02:34:52,853 - INFO - Total token for sample 17699 in validation = 1339
+2025-03-11 02:36:09,987 - INFO - Total token for sample 17700 in validation = 1191
+2025-03-11 02:36:31,339 - INFO - Total token for sample 17701 in validation = 575
+2025-03-11 02:36:48,688 - INFO - Total token for sample 17702 in validation = 361
+2025-03-11 02:37:28,380 - INFO - Total token for sample 17703 in validation = 798
+2025-03-11 02:37:41,517 - INFO - Total token for sample 17704 in validation = 1562
+2025-03-11 02:38:49,068 - INFO - Total token for sample 17705 in validation = 750
+2025-03-11 02:38:57,725 - INFO - Total token for sample 17706 in validation = 419
+2025-03-11 02:39:30,522 - INFO - Total token for sample 17707 in validation = 628
+2025-03-11 02:42:41,550 - INFO - Total token for sample 17708 in validation = 3097
+2025-03-11 02:43:03,418 - INFO - Total token for sample 17709 in validation = 475
+2025-03-11 02:43:19,506 - INFO - Total token for sample 17710 in validation = 436
+2025-03-11 02:43:54,333 - INFO - Total token for sample 17711 in validation = 2000
+2025-03-11 02:43:56,007 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 02:43:56,027 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 02:43:56,028 - INFO - Failed to get response for sameple no = 17712 in validation set
+2025-03-11 02:44:28,486 - INFO - Total token for sample 17713 in validation = 791
+2025-03-11 02:44:40,004 - INFO - Total token for sample 17714 in validation = 556
+2025-03-11 02:44:48,927 - INFO - Total token for sample 17715 in validation = 561
+2025-03-11 02:45:06,280 - INFO - Total token for sample 17716 in validation = 836
+2025-03-11 02:45:15,125 - INFO - Total token for sample 17717 in validation = 505
+2025-03-11 02:45:23,445 - INFO - Total token for sample 17718 in validation = 562
+2025-03-11 02:47:24,819 - INFO - Total token for sample 17719 in validation = 1558
+2025-03-11 02:47:40,984 - INFO - Total token for sample 17720 in validation = 436
+2025-03-11 02:50:18,733 - INFO - Total token for sample 17721 in validation = 7413
+2025-03-11 02:51:41,028 - INFO - Total token for sample 17722 in validation = 1602
+2025-03-11 02:53:25,046 - INFO - Total token for sample 17723 in validation = 2123
+2025-03-11 02:53:55,672 - INFO - Total token for sample 17724 in validation = 584
+2025-03-11 02:54:15,172 - INFO - Total token for sample 17725 in validation = 556
+2025-03-11 02:54:31,772 - INFO - Total token for sample 17726 in validation = 862
+2025-03-11 02:54:39,927 - INFO - Total token for sample 17727 in validation = 591
+2025-03-11 02:54:49,341 - INFO - Total token for sample 17728 in validation = 564
+2025-03-11 02:59:49,682 - INFO - Timeout occurred skipping this sample
+2025-03-11 03:00:23,171 - INFO - Total token for sample 17730 in validation = 556
+2025-03-11 03:00:31,914 - INFO - Total token for sample 17731 in validation = 461
+2025-03-11 03:00:53,400 - INFO - Total token for sample 17732 in validation = 428
+2025-03-11 03:05:34,377 - INFO - Total token for sample 17733 in validation = 4994
+2025-03-11 03:07:15,703 - INFO - Total token for sample 17734 in validation = 1912
+2025-03-11 03:07:37,050 - INFO - Total token for sample 17735 in validation = 530
+2025-03-11 03:07:49,229 - INFO - Total token for sample 17736 in validation = 552
+2025-03-11 03:08:35,759 - INFO - Total token for sample 17737 in validation = 1081
+2025-03-11 03:09:34,575 - INFO - Total token for sample 17738 in validation = 3780
+2025-03-11 03:09:53,839 - INFO - Total token for sample 17739 in validation = 912
+2025-03-11 03:10:00,294 - INFO - Total token for sample 17740 in validation = 345
+2025-03-11 03:10:16,757 - INFO - Total token for sample 17741 in validation = 888
+2025-03-11 03:12:57,587 - INFO - Total token for sample 17742 in validation = 3338
+2025-03-11 03:13:19,138 - INFO - Total token for sample 17743 in validation = 1385
+2025-03-11 03:14:37,014 - INFO - Total token for sample 17744 in validation = 1739
+2025-03-11 03:15:00,693 - INFO - Total token for sample 17745 in validation = 486
+2025-03-11 03:15:32,377 - INFO - Total token for sample 17746 in validation = 573
+2025-03-11 03:15:42,846 - INFO - Total token for sample 17747 in validation = 871
+2025-03-11 03:15:55,888 - INFO - Total token for sample 17748 in validation = 695
+2025-03-11 03:16:18,037 - INFO - Total token for sample 17749 in validation = 471
+2025-03-11 03:16:26,473 - INFO - Total token for sample 17750 in validation = 431
+2025-03-11 03:16:36,798 - INFO - Total token for sample 17751 in validation = 565
+2025-03-11 03:17:01,777 - INFO - Total token for sample 17752 in validation = 376
+2025-03-11 03:17:30,682 - INFO - Total token for sample 17753 in validation = 503
+2025-03-11 03:17:39,698 - INFO - Total token for sample 17754 in validation = 646
+2025-03-11 03:18:03,418 - INFO - Total token for sample 17755 in validation = 1386
+2025-03-11 03:18:24,832 - INFO - Total token for sample 17756 in validation = 474
+2025-03-11 03:19:03,312 - INFO - Total token for sample 17757 in validation = 554
+2025-03-11 03:19:15,124 - INFO - Total token for sample 17758 in validation = 594
+2025-03-11 03:19:54,962 - INFO - Total token for sample 17759 in validation = 2077
+2025-03-11 03:20:17,070 - INFO - Total token for sample 17760 in validation = 500
+2025-03-11 03:20:41,505 - INFO - Total token for sample 17761 in validation = 485
+2025-03-11 03:22:55,693 - INFO - Total token for sample 17762 in validation = 2211
+2025-03-11 03:23:35,182 - INFO - Total token for sample 17763 in validation = 609
+2025-03-11 03:23:44,267 - INFO - Total token for sample 17764 in validation = 587
+2025-03-11 03:25:00,172 - INFO - Total token for sample 17765 in validation = 1071
+2025-03-11 03:26:34,893 - INFO - Total token for sample 17766 in validation = 981
+2025-03-11 03:27:06,685 - INFO - Total token for sample 17767 in validation = 574
+2025-03-11 03:27:14,260 - INFO - Total token for sample 17768 in validation = 847
+2025-03-11 03:27:23,637 - INFO - Total token for sample 17769 in validation = 686
+2025-03-11 03:27:54,577 - INFO - Total token for sample 17770 in validation = 1616
+2025-03-11 03:28:08,865 - INFO - Total token for sample 17771 in validation = 825
+2025-03-11 03:28:20,323 - INFO - Total token for sample 17772 in validation = 663
+2025-03-11 03:33:20,718 - INFO - Timeout occurred skipping this sample
+2025-03-11 03:33:51,845 - INFO - Total token for sample 17774 in validation = 637
+2025-03-11 03:33:59,657 - INFO - Total token for sample 17775 in validation = 470
+2025-03-11 03:34:14,164 - INFO - Total token for sample 17776 in validation = 354
+2025-03-11 03:34:25,104 - INFO - Total token for sample 17777 in validation = 1413
+2025-03-11 03:34:53,905 - INFO - Total token for sample 17778 in validation = 640
+2025-03-11 03:35:09,314 - INFO - Total token for sample 17779 in validation = 434
+2025-03-11 03:36:42,064 - INFO - Total token for sample 17780 in validation = 1941
+2025-03-11 03:38:23,607 - INFO - Total token for sample 17781 in validation = 2414
+2025-03-11 03:38:46,704 - INFO - Total token for sample 17782 in validation = 556
+2025-03-11 03:40:22,612 - INFO - Total token for sample 17783 in validation = 1645
+2025-03-11 03:40:53,712 - INFO - Total token for sample 17784 in validation = 1695
+2025-03-11 03:41:02,495 - INFO - Total token for sample 17785 in validation = 564
+2025-03-11 03:41:30,313 - INFO - Total token for sample 17786 in validation = 654
+2025-03-11 03:41:45,997 - INFO - Total token for sample 17787 in validation = 889
+2025-03-11 03:42:28,267 - INFO - Total token for sample 17788 in validation = 564
+2025-03-11 03:42:44,961 - INFO - Total token for sample 17789 in validation = 899
+2025-03-11 03:43:35,288 - INFO - Total token for sample 17790 in validation = 965
+2025-03-11 03:43:37,608 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 03:43:37,630 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 03:43:37,632 - INFO - Failed to get response for sameple no = 17791 in validation set
+2025-03-11 03:43:53,743 - INFO - Total token for sample 17792 in validation = 909
+2025-03-11 03:45:00,408 - INFO - Total token for sample 17793 in validation = 1604
+2025-03-11 03:48:10,426 - INFO - Total token for sample 17794 in validation = 2339
+2025-03-11 03:48:37,708 - INFO - Total token for sample 17795 in validation = 690
+2025-03-11 03:49:08,679 - INFO - Total token for sample 17796 in validation = 710
+2025-03-11 03:49:17,901 - INFO - Total token for sample 17797 in validation = 550
+2025-03-11 03:49:33,253 - INFO - Total token for sample 17798 in validation = 746
+2025-03-11 03:50:26,803 - INFO - Total token for sample 17799 in validation = 1091
+2025-03-11 03:51:04,835 - INFO - Total token for sample 17800 in validation = 595
+2025-03-11 03:51:22,521 - INFO - Total token for sample 17801 in validation = 364
+2025-03-11 03:51:32,775 - INFO - Total token for sample 17802 in validation = 601
+2025-03-11 03:52:27,019 - INFO - Total token for sample 17803 in validation = 1397
+2025-03-11 03:53:02,583 - INFO - Total token for sample 17804 in validation = 540
+2025-03-11 03:53:21,156 - INFO - Total token for sample 17805 in validation = 1462
+2025-03-11 03:54:28,310 - INFO - Total token for sample 17806 in validation = 1272
+2025-03-11 03:54:53,088 - INFO - Total token for sample 17807 in validation = 569
+2025-03-11 03:55:09,213 - INFO - Total token for sample 17808 in validation = 438
+2025-03-11 03:55:21,782 - INFO - Total token for sample 17809 in validation = 703
+2025-03-11 03:55:22,587 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-11 03:55:22,601 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-11 03:55:22,602 - INFO - Failed to get response for sameple no = 17810 in validation set
+2025-03-11 03:55:34,073 - INFO - Total token for sample 17811 in validation = 639
+2025-03-11 03:55:59,731 - INFO - Total token for sample 17812 in validation = 673
+2025-03-11 03:56:10,188 - INFO - Total token for sample 17813 in validation = 602
+2025-03-11 04:00:30,672 - INFO - Total token for sample 17814 in validation = 3226
+2025-03-11 04:01:33,866 - INFO - Total token for sample 17815 in validation = 1625
+2025-03-11 04:03:30,996 - INFO - Total token for sample 17816 in validation = 2056
+2025-03-11 04:03:57,631 - INFO - Total token for sample 17817 in validation = 1518
+2025-03-11 04:04:14,402 - INFO - Total token for sample 17818 in validation = 410
+2025-03-11 04:04:44,874 - INFO - Total token for sample 17819 in validation = 725
+2025-03-11 04:04:50,406 - INFO - Total token for sample 17820 in validation = 401
+2025-03-11 04:05:20,240 - INFO - Total token for sample 17821 in validation = 672
+2025-03-11 04:09:17,674 - INFO - Total token for sample 17822 in validation = 3047
+2025-03-11 04:09:32,028 - INFO - Total token for sample 17823 in validation = 758
+2025-03-11 04:09:46,737 - INFO - Total token for sample 17824 in validation = 842
+2025-03-11 04:10:00,246 - INFO - Total token for sample 17825 in validation = 769
+2025-03-11 04:10:05,165 - INFO - Total token for sample 17826 in validation = 405
+2025-03-11 04:10:13,669 - INFO - Total token for sample 17827 in validation = 472
+2025-03-11 04:10:19,838 - INFO - Total token for sample 17828 in validation = 514
+2025-03-11 04:10:36,585 - INFO - Total token for sample 17829 in validation = 1216
+2025-03-11 04:10:49,120 - INFO - Total token for sample 17830 in validation = 932
+2025-03-11 04:10:56,558 - INFO - Total token for sample 17831 in validation = 500
+2025-03-11 04:11:06,177 - INFO - Total token for sample 17832 in validation = 575
+2025-03-11 04:11:13,862 - INFO - Total token for sample 17833 in validation = 541
+2025-03-11 04:11:22,546 - INFO - Total token for sample 17834 in validation = 715
+2025-03-11 04:11:42,109 - INFO - Total token for sample 17835 in validation = 1204
+2025-03-11 04:12:04,222 - INFO - Total token for sample 17836 in validation = 698
+2025-03-11 04:12:05,205 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:12:05,206 - INFO - Failed to get response for sameple no = 17837 in validation set
+2025-03-11 04:12:05,496 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:12:05,497 - INFO - Failed to get response for sameple no = 17838 in validation set
+2025-03-11 04:12:05,786 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:12:05,787 - INFO - Failed to get response for sameple no = 17839 in validation set
+2025-03-11 04:12:12,845 - INFO - Total token for sample 17840 in validation = 638
+2025-03-11 04:12:32,227 - INFO - Total token for sample 17841 in validation = 1007
+2025-03-11 04:12:41,685 - INFO - Total token for sample 17842 in validation = 741
+2025-03-11 04:13:04,767 - INFO - Total token for sample 17843 in validation = 1622
+2025-03-11 04:13:15,111 - INFO - Total token for sample 17844 in validation = 575
+2025-03-11 04:13:51,515 - INFO - Total token for sample 17845 in validation = 1840
+2025-03-11 04:14:43,202 - INFO - Total token for sample 17846 in validation = 3099
+2025-03-11 04:14:52,687 - INFO - Total token for sample 17847 in validation = 728
+2025-03-11 04:17:47,439 - INFO - Total token for sample 17848 in validation = 7897
+2025-03-11 04:17:53,480 - INFO - Total token for sample 17849 in validation = 430
+2025-03-11 04:18:02,495 - INFO - Total token for sample 17850 in validation = 646
+2025-03-11 04:18:37,223 - INFO - Total token for sample 17851 in validation = 1779
+2025-03-11 04:18:54,098 - INFO - Total token for sample 17852 in validation = 1222
+2025-03-11 04:19:03,587 - INFO - Total token for sample 17853 in validation = 797
+2025-03-11 04:19:11,982 - INFO - Total token for sample 17854 in validation = 490
+2025-03-11 04:19:20,648 - INFO - Total token for sample 17855 in validation = 510
+2025-03-11 04:19:54,948 - INFO - Total token for sample 17856 in validation = 1747
+2025-03-11 04:20:06,382 - INFO - Total token for sample 17857 in validation = 669
+2025-03-11 04:22:00,426 - INFO - Total token for sample 17858 in validation = 5988
+2025-03-11 04:22:07,011 - INFO - Total token for sample 17859 in validation = 528
+2025-03-11 04:22:26,323 - INFO - Total token for sample 17860 in validation = 1021
+2025-03-11 04:22:33,094 - INFO - Total token for sample 17861 in validation = 604
+2025-03-11 04:22:41,143 - INFO - Total token for sample 17862 in validation = 618
+2025-03-11 04:22:48,424 - INFO - Total token for sample 17863 in validation = 590
+2025-03-11 04:23:02,916 - INFO - Total token for sample 17864 in validation = 1193
+2025-03-11 04:23:08,542 - INFO - Total token for sample 17865 in validation = 409
+2025-03-11 04:23:18,990 - INFO - Total token for sample 17866 in validation = 561
+2025-03-11 04:25:37,395 - INFO - Total token for sample 17867 in validation = 6133
+2025-03-11 04:25:49,103 - INFO - Total token for sample 17868 in validation = 847
+2025-03-11 04:25:59,670 - INFO - Total token for sample 17869 in validation = 850
+2025-03-11 04:26:12,843 - INFO - Total token for sample 17870 in validation = 981
+2025-03-11 04:26:22,746 - INFO - Total token for sample 17871 in validation = 724
+2025-03-11 04:26:36,939 - INFO - Total token for sample 17872 in validation = 733
+2025-03-11 04:26:45,885 - INFO - Total token for sample 17873 in validation = 782
+2025-03-11 04:26:53,707 - INFO - Total token for sample 17874 in validation = 585
+2025-03-11 04:27:01,478 - INFO - Total token for sample 17875 in validation = 671
+2025-03-11 04:27:26,535 - INFO - Total token for sample 17876 in validation = 1841
+2025-03-11 04:27:39,877 - INFO - Total token for sample 17877 in validation = 742
+2025-03-11 04:28:28,084 - INFO - Total token for sample 17878 in validation = 2219
+2025-03-11 04:28:59,487 - INFO - Total token for sample 17879 in validation = 1837
+2025-03-11 04:29:13,360 - INFO - Total token for sample 17880 in validation = 1094
+2025-03-11 04:29:19,145 - INFO - Total token for sample 17881 in validation = 514
+2025-03-11 04:29:28,514 - INFO - Total token for sample 17882 in validation = 1045
+2025-03-11 04:29:37,627 - INFO - Total token for sample 17883 in validation = 743
+2025-03-11 04:29:47,289 - INFO - Total token for sample 17884 in validation = 673
+2025-03-11 04:29:47,576 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:47,576 - INFO - Failed to get response for sameple no = 17885 in validation set
+2025-03-11 04:29:47,868 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:47,869 - INFO - Failed to get response for sameple no = 17886 in validation set
+2025-03-11 04:29:48,163 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:48,164 - INFO - Failed to get response for sameple no = 17887 in validation set
+2025-03-11 04:29:49,295 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:49,296 - INFO - Failed to get response for sameple no = 17888 in validation set
+2025-03-11 04:29:49,588 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:49,589 - INFO - Failed to get response for sameple no = 17889 in validation set
+2025-03-11 04:29:50,974 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:50,974 - INFO - Failed to get response for sameple no = 17890 in validation set
+2025-03-11 04:29:51,269 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:51,269 - INFO - Failed to get response for sameple no = 17891 in validation set
+2025-03-11 04:29:51,559 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:51,560 - INFO - Failed to get response for sameple no = 17892 in validation set
+2025-03-11 04:29:51,864 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:51,865 - INFO - Failed to get response for sameple no = 17893 in validation set
+2025-03-11 04:29:52,172 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:52,173 - INFO - Failed to get response for sameple no = 17894 in validation set
+2025-03-11 04:29:52,466 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:52,466 - INFO - Failed to get response for sameple no = 17895 in validation set
+2025-03-11 04:29:52,770 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:52,771 - INFO - Failed to get response for sameple no = 17896 in validation set
+2025-03-11 04:29:53,059 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:53,060 - INFO - Failed to get response for sameple no = 17897 in validation set
+2025-03-11 04:29:53,362 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:53,363 - INFO - Failed to get response for sameple no = 17898 in validation set
+2025-03-11 04:29:53,656 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:53,656 - INFO - Failed to get response for sameple no = 17899 in validation set
+2025-03-11 04:29:53,944 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:53,944 - INFO - Failed to get response for sameple no = 17900 in validation set
+2025-03-11 04:29:54,248 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:54,248 - INFO - Failed to get response for sameple no = 17901 in validation set
+2025-03-11 04:29:54,540 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:54,541 - INFO - Failed to get response for sameple no = 17902 in validation set
+2025-03-11 04:29:54,836 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:54,836 - INFO - Failed to get response for sameple no = 17903 in validation set
+2025-03-11 04:29:55,128 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:55,129 - INFO - Failed to get response for sameple no = 17904 in validation set
+2025-03-11 04:29:56,089 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:56,089 - INFO - Failed to get response for sameple no = 17905 in validation set
+2025-03-11 04:29:57,636 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:29:57,637 - INFO - Failed to get response for sameple no = 17906 in validation set
+2025-03-11 04:30:06,587 - INFO - Total token for sample 17907 in validation = 678
+2025-03-11 04:30:31,513 - INFO - Total token for sample 17908 in validation = 1913
+2025-03-11 04:31:11,872 - INFO - Total token for sample 17909 in validation = 2736
+2025-03-11 04:31:36,164 - INFO - Total token for sample 17910 in validation = 1231
+2025-03-11 04:31:54,020 - INFO - Total token for sample 17911 in validation = 783
+2025-03-11 04:32:26,658 - INFO - Total token for sample 17912 in validation = 1414
+2025-03-11 04:32:57,332 - INFO - Didn't get the right response for this json {'object': 'error', 'message': 'Internal Error', 'type': '', 'param': None, 'code': 500}
+2025-03-11 04:32:57,332 - INFO - Failed to get response for sameple no = 17913 in validation set
+2025-03-11 04:33:38,167 - INFO - Total token for sample 17914 in validation = 646
+2025-03-11 04:34:13,052 - INFO - Total token for sample 17915 in validation = 446
+2025-03-11 04:35:13,148 - INFO - Total token for sample 17916 in validation = 1512
+2025-03-11 04:35:55,344 - INFO - Total token for sample 17917 in validation = 693
+2025-03-11 04:36:38,683 - INFO - Total token for sample 17918 in validation = 588
+2025-03-11 04:41:39,718 - INFO - Timeout occurred skipping this sample
+2025-03-11 04:41:53,069 - INFO - Total token for sample 17920 in validation = 858
+2025-03-11 04:42:01,126 - INFO - Total token for sample 17921 in validation = 548
+2025-03-11 04:42:05,680 - INFO - Total token for sample 17922 in validation = 444
+2025-03-11 04:42:12,352 - INFO - Total token for sample 17923 in validation = 543
+2025-03-11 04:42:28,045 - INFO - Total token for sample 17924 in validation = 1187
+2025-03-11 04:42:40,626 - INFO - Total token for sample 17925 in validation = 665
+2025-03-11 04:42:46,025 - INFO - Total token for sample 17926 in validation = 414
+2025-03-11 04:42:59,177 - INFO - Total token for sample 17927 in validation = 969
+2025-03-11 04:43:09,813 - INFO - Total token for sample 17928 in validation = 1076
+2025-03-11 04:43:16,097 - INFO - Total token for sample 17929 in validation = 464
+2025-03-11 04:43:27,361 - INFO - Total token for sample 17930 in validation = 915
+2025-03-11 04:44:22,718 - INFO - Total token for sample 17931 in validation = 2443
+2025-03-11 04:45:01,036 - INFO - Total token for sample 17932 in validation = 1800
+2025-03-11 04:45:08,440 - INFO - Total token for sample 17933 in validation = 521
+2025-03-11 04:45:20,548 - INFO - Total token for sample 17934 in validation = 1220
+2025-03-11 04:45:36,416 - INFO - Total token for sample 17935 in validation = 1193
+2025-03-11 04:46:42,348 - INFO - Total token for sample 17936 in validation = 2904
+2025-03-11 04:46:54,068 - INFO - Total token for sample 17937 in validation = 857
+2025-03-11 04:47:00,496 - INFO - Total token for sample 17938 in validation = 542
+2025-03-11 04:47:07,041 - INFO - Total token for sample 17939 in validation = 523
+2025-03-11 04:47:16,461 - INFO - Total token for sample 17940 in validation = 477
+2025-03-11 04:47:24,190 - INFO - Total token for sample 17941 in validation = 578
+2025-03-11 04:47:40,075 - INFO - Total token for sample 17942 in validation = 1308
+2025-03-11 04:47:48,673 - INFO - Total token for sample 17943 in validation = 453
+2025-03-11 04:47:57,904 - INFO - Total token for sample 17944 in validation = 477
+2025-03-11 04:48:09,016 - INFO - Total token for sample 17945 in validation = 610
+2025-03-11 04:48:15,003 - INFO - Total token for sample 17946 in validation = 791
+2025-03-11 04:48:19,984 - INFO - Total token for sample 17947 in validation = 390
+2025-03-11 04:48:50,605 - INFO - Total token for sample 17948 in validation = 980
+2025-03-11 04:49:04,372 - INFO - Total token for sample 17949 in validation = 714
+2025-03-11 04:49:14,422 - INFO - Total token for sample 17950 in validation = 791
+2025-03-11 04:49:22,474 - INFO - Total token for sample 17951 in validation = 659
+2025-03-11 04:49:30,576 - INFO - Total token for sample 17952 in validation = 593
+2025-03-11 04:52:11,169 - INFO - Total token for sample 17953 in validation = 6967
+2025-03-11 04:52:18,485 - INFO - Total token for sample 17954 in validation = 597
+2025-03-11 04:52:28,783 - INFO - Total token for sample 17955 in validation = 811
+2025-03-11 04:52:41,103 - INFO - Total token for sample 17956 in validation = 579
+2025-03-11 04:52:55,702 - INFO - Total token for sample 17957 in validation = 695
+2025-03-11 04:53:09,991 - INFO - Total token for sample 17958 in validation = 708
+2025-03-11 04:53:18,805 - INFO - Total token for sample 17959 in validation = 513
+2025-03-11 04:53:35,575 - INFO - Total token for sample 17960 in validation = 1425
+2025-03-11 04:53:47,889 - INFO - Total token for sample 17961 in validation = 590
+2025-03-11 04:53:55,634 - INFO - Total token for sample 17962 in validation = 652
+2025-03-11 04:54:03,656 - INFO - Total token for sample 17963 in validation = 719
+2025-03-11 04:54:03,934 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:03,935 - INFO - Failed to get response for sameple no = 17964 in validation set
+2025-03-11 04:54:04,351 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:04,352 - INFO - Failed to get response for sameple no = 17965 in validation set
+2025-03-11 04:54:04,668 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:04,668 - INFO - Failed to get response for sameple no = 17966 in validation set
+2025-03-11 04:54:04,967 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:04,967 - INFO - Failed to get response for sameple no = 17967 in validation set
+2025-03-11 04:54:05,282 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:05,283 - INFO - Failed to get response for sameple no = 17968 in validation set
+2025-03-11 04:54:05,615 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:05,615 - INFO - Failed to get response for sameple no = 17969 in validation set
+2025-03-11 04:54:05,976 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:05,976 - INFO - Failed to get response for sameple no = 17970 in validation set
+2025-03-11 04:54:06,274 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:06,274 - INFO - Failed to get response for sameple no = 17971 in validation set
+2025-03-11 04:54:06,582 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:06,583 - INFO - Failed to get response for sameple no = 17972 in validation set
+2025-03-11 04:54:06,889 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:06,890 - INFO - Failed to get response for sameple no = 17973 in validation set
+2025-03-11 04:54:07,194 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:07,194 - INFO - Failed to get response for sameple no = 17974 in validation set
+2025-03-11 04:54:07,489 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:07,490 - INFO - Failed to get response for sameple no = 17975 in validation set
+2025-03-11 04:54:07,792 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:07,793 - INFO - Failed to get response for sameple no = 17976 in validation set
+2025-03-11 04:54:08,102 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:08,103 - INFO - Failed to get response for sameple no = 17977 in validation set
+2025-03-11 04:54:08,389 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:08,390 - INFO - Failed to get response for sameple no = 17978 in validation set
+2025-03-11 04:54:08,695 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:08,695 - INFO - Failed to get response for sameple no = 17979 in validation set
+2025-03-11 04:54:08,991 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:08,991 - INFO - Failed to get response for sameple no = 17980 in validation set
+2025-03-11 04:54:09,302 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:09,302 - INFO - Failed to get response for sameple no = 17981 in validation set
+2025-03-11 04:54:09,867 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:09,867 - INFO - Failed to get response for sameple no = 17982 in validation set
+2025-03-11 04:54:10,297 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 04:54:10,297 - INFO - Failed to get response for sameple no = 17983 in validation set
+2025-03-11 04:54:15,515 - INFO - Total token for sample 17984 in validation = 421
+2025-03-11 04:54:22,859 - INFO - Total token for sample 17985 in validation = 633
+2025-03-11 04:55:32,783 - INFO - Total token for sample 17986 in validation = 4246
+2025-03-11 04:55:42,833 - INFO - Total token for sample 17987 in validation = 499
+2025-03-11 04:56:01,183 - INFO - Total token for sample 17988 in validation = 1375
+2025-03-11 04:56:05,593 - INFO - Total token for sample 17989 in validation = 389
+2025-03-11 04:56:11,214 - INFO - Total token for sample 17990 in validation = 472
+2025-03-11 04:56:15,255 - INFO - Total token for sample 17991 in validation = 607
+2025-03-11 05:01:15,546 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-11 05:01:15,546 - INFO - Failed to get response for sameple no = 17992 in validation set
+2025-03-11 05:01:24,016 - INFO - Total token for sample 17993 in validation = 613
+2025-03-11 05:01:34,316 - INFO - Total token for sample 17994 in validation = 716
+2025-03-11 05:01:43,222 - INFO - Total token for sample 17995 in validation = 698
+2025-03-11 05:01:55,821 - INFO - Total token for sample 17996 in validation = 718
+2025-03-11 05:02:09,290 - INFO - Total token for sample 17997 in validation = 588
+2025-03-11 05:02:09,905 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 05:02:09,905 - INFO - Failed to get response for sameple no = 17998 in validation set
+2025-03-11 05:02:10,968 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 05:02:10,969 - INFO - Failed to get response for sameple no = 17999 in validation set
+2025-03-11 05:02:12,012 - INFO - Didn't get the right response for this json {'detail': 'Too Many Requests'}
+2025-03-11 05:02:12,012 - INFO - Failed to get response for sameple no = 18000 in validation set

@@ -1,0 +1,22 @@
+{"time":"2025-03-05T09:13:08.127772735+06:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/wandb/run-20250305_091308-14wyjgop/logs/debug-core.log"}
+{"time":"2025-03-05T09:13:08.237545983+06:00","level":"INFO","msg":"created new stream","id":"14wyjgop"}
+{"time":"2025-03-05T09:13:08.237641007+06:00","level":"INFO","msg":"stream: started","id":"14wyjgop"}
+{"time":"2025-03-05T09:13:08.239448133+06:00","level":"INFO","msg":"writer: Do: started","stream_id":"14wyjgop"}
+{"time":"2025-03-05T09:13:08.239663616+06:00","level":"INFO","msg":"handler: started","stream_id":"14wyjgop"}
+{"time":"2025-03-05T09:13:08.239832068+06:00","level":"INFO","msg":"sender: started","stream_id":"14wyjgop"}
+{"time":"2025-03-05T09:13:08.946038695+06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T14:32:04.979711075+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/14wyjgop/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:46322->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-05T14:32:16.984417149+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/14wyjgop/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:51861->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-05T14:32:24.381712446+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-05T14:32:31.740647543+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/14wyjgop/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:36936->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-05T14:32:50.975229319+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/killershoaib/DeepSeek-r1-bangla-reasoning-data/14wyjgop/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:41582->127.0.0.53:53: i/o timeout"}
+{"time":"2025-03-05T14:32:56.616547469+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-05T14:33:31.130781481+06:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-03-05T16:36:54.187923974+06:00","level":"INFO","msg":"stream: closing","id":"14wyjgop"}
+{"time":"2025-03-05T16:36:54.187969263+06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T16:36:54.204293071+06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T16:36:55.51612876+06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T16:36:56.006971118+06:00","level":"INFO","msg":"handler: closed","stream_id":"14wyjgop"}
+{"time":"2025-03-05T16:36:56.007015483+06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"14wyjgop"}
+{"time":"2025-03-05T16:36:56.007100643+06:00","level":"INFO","msg":"sender: closed","stream_id":"14wyjgop"}
+{"time":"2025-03-05T16:36:56.007252706+06:00","level":"INFO","msg":"stream: closed","id":"14wyjgop"}

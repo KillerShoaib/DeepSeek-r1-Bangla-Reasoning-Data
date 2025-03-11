@@ -9,7 +9,46 @@ import os
 import json
 import argparse
 import wandb
+import logging
+import asyncio
+import aiohttp  # Import aiohttp
+from datetime import datetime
 load_dotenv()
+
+# Configure logging - Now includes unique file names and logs directory
+def setup_logger(set_name, start_index, end_index):
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+
+    logs_dir = "logs"
+    os.makedirs(logs_dir, exist_ok=True)
+
+    # Create a unique log file name based on set_name and indices
+    timestamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    log_file_name = f"api_call_{set_name}_{start_index}_{end_index}_{timestamp}.log"
+
+    log_file_path = os.path.join(logs_dir, log_file_name)
+    
+    # Create file handler with unique name
+    file_handler = logging.FileHandler(log_file_path)
+    file_handler.setLevel(logging.INFO)
+
+    # Create console handler
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
+
+    # Create formatter and add it to the handlers
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    file_handler.setFormatter(formatter)
+    console_handler.setFormatter(formatter)
+
+    # Add the handlers to the logger
+    logger.addHandler(file_handler)
+    logger.addHandler(console_handler)
+    
+    return logger
+
+
 
 DEEPSEEK_API = os.environ['DEEPSEEK_API']
 
@@ -59,8 +98,9 @@ def format_question(sample: Dict) -> Dict:
     return sample_with_formated_question
 
 
-def api_calling(sample):
+async def api_calling(sample):
     
+
     formated_question = sample['formated_question']
     url = "https://api.hyperbolic.xyz/v1/chat/completions"
     headers = {
@@ -80,13 +120,36 @@ def api_calling(sample):
                 "content": formated_question
             }
         ],
-        "model": "deepseek-ai/DeepSeek-R1",
+        "model": "deepseek-ai/DeepSeek-R1", # change from r1 to QwQ
+        # "model": "Qwen/QwQ-32B",
         "temperature": 0.1,
         "top_p": 0.2
     }
     
-    response = requests.post(url, headers=headers, json=data)
-    return response.json()
+    # response = requests.post(url, headers=headers, json=data)
+    # print("Got response from api function")
+    # return response.json()
+
+    async with aiohttp.ClientSession() as session:  # Create a session
+        async with session.post(url, headers=headers, json=data) as response:
+            # print("Got response from api function")
+
+            if response.status == 502: # handling 502 error
+                show_logs("Got a 502 error. Skipping this sample...")
+                # await asyncio.sleep(2) # wait 2 second
+                return None
+
+            # response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
+            return await response.json()  # Return the JSON response
+
+async def call_with_timeout(sample,timeout):
+    try:
+        
+        result = await asyncio.wait_for(api_calling(sample), timeout=timeout)
+        return result
+    except asyncio.TimeoutError:
+        log_msg = f"Timeout occurred skipping this sample"
+        show_logs(log_msg) ## showing and saving the log
 
 
 def log_fail(sample_no:int, set_name:str, sample_id:str, log_file_name:str, run=None):
@@ -112,22 +175,44 @@ def log_fail(sample_no:int, set_name:str, sample_id:str, log_file_name:str, run=
                 "sample_no":sample_no,
             }
         )
-    print(f"Failed to get response for sameple no = {sample_no} in {set_name} set")
+    
+    log_msg = f"Failed to get response for sameple no = {sample_no} in {set_name} set"
+    show_logs(log_msg) ## showing and saving the log
     
 
-def split_think_reason(respons_string:str):
+def split_think_reason(response_json):
     # Use regular expression to find the content within the <think> tag
-    think_content = re.search(r'<think>(.*?)</think>', respons_string, re.DOTALL).group(0)
-    
-    # Remove the <think> tag and its content from the original prompt
-    ans_content = re.sub(r'<think>(.*?)</think>', '', respons_string, flags=re.DOTALL).strip()
+    response_string = response_json['choices'][0]['message']['content']
+    try:
+        think_content = re.search(r'<think>(.*?)</think>', response_string, re.DOTALL).group(0)
+        
+        # Remove the <think> tag and its content from the original prompt
+        ans_content = re.sub(r'<think>(.*?)</think>', '', response_string, flags=re.DOTALL).strip()
 
-    think_ans_response = {
-        'think': think_content,
-        'ans': ans_content
-    }
+        think_ans_response = {
+            'think': think_content,
+            'ans': ans_content
+        }
 
-    return think_ans_response
+        return think_ans_response
+    except Exception as e:
+        log_msg = f"Error occurred: {e} saving to the outlier file"
+        show_logs(log_msg) ## showing and saving the log
+
+        os.makedirs("Outlier_response",exist_ok=True)
+        filename = "Outlier_response/outliers.json"
+        if os.path.exists(filename):
+            try:
+                with open(filename,'r') as file:
+                    data = json.load(file)
+            except json.JSONDecodeError:
+                data = []
+        else:
+            data = []
+        
+        with open(filename,'w') as file:
+            data.append(response_json)
+            json.dump(data,file,indent=4,ensure_ascii=False)
 
 
 def log_token_count(usage:Dict,sample_no:int,set_name:str,file_name:str,run=None):
@@ -159,7 +244,10 @@ def log_token_count(usage:Dict,sample_no:int,set_name:str,file_name:str,run=None
                 "total_token":total_token
             }
         )
-    print(f"Total token for sample {sample_no} in {set_name} = {total_token}")
+    
+    ## calling the log function
+    logging_msg = f"Total token for sample {sample_no} in {set_name} = {total_token}"
+    show_logs(logging_msg)
 
 
 def create_sample_json(think_response:Dict, formated_question:Dict):
@@ -183,8 +271,7 @@ def create_sample_json(think_response:Dict, formated_question:Dict):
     }
 
 def save_new_data(data_list:List, file_name:str):
-    # file_name = "reasoning_bangla_r1_synthetic_data.json"
-    if not (os.path.exists("Reasoning_data")):
+    if not (os.path.exists("Reasoning_data")): # added qwq prefix for all qwq synthetic data
         os.makedirs("Reasoning_data")
     
     file_name = f"Reasoning_data/{file_name}"
@@ -192,7 +279,21 @@ def save_new_data(data_list:List, file_name:str):
         try:
             json.dump(data_list,file,indent=4,ensure_ascii=False)
         except:
-            print("Error while saving to json file")
+            show_logs("Error while saving to json file")
+
+    # if not (os.path.exists("Reasoning_data_qwq")): # added qwq prefix for all qwq synthetic data
+    #     os.makedirs("Reasoning_data_qwq")
+    
+    # file_name = f"Reasoning_data_qwq/{file_name}"
+    # with open(file_name,'w') as file:
+    #     try:
+    #         json.dump(data_list,file,indent=4,ensure_ascii=False)
+    #     except:
+    #         show_logs("Error while saving to json file")
+
+# logging function
+def show_logs(msg:str):
+    logging.info(msg)
 
 
 # only for lignting studio
@@ -219,12 +320,18 @@ def stop_lightningStudio()-> None:
 
 ## building the main pipeline
 
-def main(dataset,set_name,start_index,end_index,run_name=None):
+async def main(dataset,set_name,start_index,end_index,run_name=None):
     
 
     # Converting to int object
     start_index = int(start_index)
     end_index = int(end_index)
+
+    # making the logger global variable so that show log can access it
+    global logger
+
+    # Setup the logger with unique file name
+    logger = setup_logger(set_name, start_index, end_index)
 
     # wandb run start if necessary
     if run_name is not None:
@@ -245,12 +352,17 @@ def main(dataset,set_name,start_index,end_index,run_name=None):
 
         # now calling the api
         try:
-            response_json  = api_calling(format_question_sample)
+            response_json  = await call_with_timeout(format_question_sample,timeout=15*60) # 15min timeout period
+
+            if response_json is None:
+                continue
+
+            # print("got response from api")
 
             # now checking if we got the proper response from it or not
             if('choices' in response_json and isinstance(response_json['choices'], list)):
                 # splitting the think and ans from the generated ans
-                split_think = split_think_reason(response_json['choices'][0]['message']['content'])
+                split_think = split_think_reason(response_json)
                 new_data_sample = create_sample_json(split_think,format_question_sample)
                 all_new_data_list.append(new_data_sample) # appending to the list
 
@@ -260,15 +372,15 @@ def main(dataset,set_name,start_index,end_index,run_name=None):
                 # logging the token count
                 log_token_count(response_json,sample_no,set_name,Token_Counter_log_csv_name,run)
             else:
-                print(response_json)
+                log_msg = f"Didn't get the right response for this json {response_json}"
+                show_logs(log_msg)
                 # didn't get the right response need to log
                 log_fail(sample_no,set_name,format_question_sample['id'],failed_log_csv_name,run)
         
         except Exception as e:
             # logging the error
-            print(e)
-            # print(response_json['choices'][0]['message']['content'])
-            # print(response_json)
+            log_msg = f"Error occurred: {e}"
+            show_logs(log_msg) ## showing and saving the log
             log_fail(sample_no,set_name,format_question_sample['id'],failed_log_csv_name,run)
     
     if run is not None:
@@ -289,5 +401,5 @@ if __name__ == "__main__":
     # calling the function
     # python Reasoning_collection.py --set_name "test" --start_index 20 --end_index 200
     args = parser.parse_args()
-    main(dataset,args.set_name,args.start_index,args.end_index,args.run_name)
+    asyncio.run(main(dataset,args.set_name,args.start_index,args.end_index,args.run_name))
     # stop_lightningStudio() ### only for lightning studio

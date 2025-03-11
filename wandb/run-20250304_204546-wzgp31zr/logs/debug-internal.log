@@ -1,0 +1,15 @@
+{"time":"2025-03-04T20:45:46.082338796+06:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/wandb/run-20250304_204546-wzgp31zr/logs/debug-core.log"}
+{"time":"2025-03-04T20:45:46.189976227+06:00","level":"INFO","msg":"created new stream","id":"wzgp31zr"}
+{"time":"2025-03-04T20:45:46.190019351+06:00","level":"INFO","msg":"stream: started","id":"wzgp31zr"}
+{"time":"2025-03-04T20:45:46.190076446+06:00","level":"INFO","msg":"writer: Do: started","stream_id":"wzgp31zr"}
+{"time":"2025-03-04T20:45:46.190083267+06:00","level":"INFO","msg":"sender: started","stream_id":"wzgp31zr"}
+{"time":"2025-03-04T20:45:46.19015992+06:00","level":"INFO","msg":"handler: started","stream_id":"wzgp31zr"}
+{"time":"2025-03-04T20:45:47.046463117+06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-04T20:47:04.637074522+06:00","level":"INFO","msg":"stream: closing","id":"wzgp31zr"}
+{"time":"2025-03-04T20:47:04.637167123+06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-04T20:47:04.645615826+06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-04T20:47:05.846082665+06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-04T20:47:06.331858896+06:00","level":"INFO","msg":"handler: closed","stream_id":"wzgp31zr"}
+{"time":"2025-03-04T20:47:06.332089632+06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wzgp31zr"}
+{"time":"2025-03-04T20:47:06.334310451+06:00","level":"INFO","msg":"sender: closed","stream_id":"wzgp31zr"}
+{"time":"2025-03-04T20:47:06.339571028+06:00","level":"INFO","msg":"stream: closed","id":"wzgp31zr"}

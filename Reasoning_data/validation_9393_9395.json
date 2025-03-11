@@ -1,0 +1,30 @@
+[
+    {
+        "id": "5584b51a-8bf6-4c27-88a0-c7d5719088b6-49732",
+        "question": "কোন কবিতা জুড়ে রয়েছে বিষাদময় রিক্ততার সুর ?",
+        "options": [
+            "ঐকতান",
+            "তাহারেই পড়ে মনে",
+            "সেই অস্ত্র",
+            "ফেব্রুয়ারি ১৯৬৯"
+        ],
+        "answer": "B",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: কোন কবিতা জুড়ে রয়েছে বিষাদময় রিক্ততার সুর ?\n    Options in Bangla: {'A': 'ঐকতান', 'B': 'তাহারেই পড়ে মনে', 'C': 'সেই অস্ত্র', 'D': 'ফেব্রুয়ারি ১৯৬৯'}",
+        "reason": "<think>Okay, let's see. The question is asking which poem has a melancholic and empty tone throughout. The options are A to D.\n\nFirst, I need to recall the poems mentioned. The options are \"ঐকতান\", \"তাহারেই পড়ে মনে\", \"সেই অস্ত্র\", and \"ফেব্রুয়ারি ১৯৬৯\". These are all Bengali poems, probably by well-known poets. \n\nI remember that \"ফেব্রুয়ারি ১৯৬৯\" is a poem by Shamsur Rahman. It's about the mass uprising in 1969 in East Pakistan (now Bangladesh), which was a significant political movement. The tone here might be more revolutionary or passionate rather than melancholic.\n\n\"সেই অস্ত্র\" by Sukanta Bhattacharya. Sukanta's works often deal with revolution and social justice. The title translates to \"That Weapon,\" which suggests themes of struggle or resistance. Maybe not the saddest tone.\n\n\"তাহারেই পড়ে মনে\" by Rabindranath Tagore. Tagore's poems often explore deep emotions. The title means \"Remembering Him/Her,\" which could be nostalgic or melancholic. This might fit the question's description of a sorrowful, empty tone.\n\n\"ঐকতান\" by Jibanananda Das. Jibanananda is known for his melancholic and imagery-rich poetry. \"ঐকতান\" translates to \"Harmony,\" but his style often includes a sense of desolation and emptiness. This could be a strong candidate too.\n\nWait, the question specifies a sustained melancholic and empty tone throughout the poem. Jibanananda's \"ঐকতান\" is famous for its depiction of desolation and the emptiness of urban life. The poem uses imagery of a broken harmonium, symbolizing decay and loss. That fits the \"বিষাদময় রিক্ততার সুর\" mentioned in the question.\n\nOn the other hand, \"তাহারেই পড়ে মনে\" by Tagore is more about longing and memory, but maybe not as consistently empty or desolate as Jibanananda's work. \n\nSo, the correct answer is likely option A: ঐকতান.\n</think>",
+        "gen_ans": "The correct answer is: **A. ঐকতান**\n\n**Explanation:**  \nজীবনানন্দ দাশের \"ঐকতান\" কবিতাটিতে নগরজীবনের বিষাদময় রিক্ততা ও শূন্যতার চিত্র ফুটে উঠেছে। কবিতাটিতে ভাঙা হারমোনিয়ামের মাধ্যমে ধ্বংসস্তূপ, নিষ্প্রাণতা ও মানবিক সম্পর্কের অবক্ষয়ের মূর্ত প্রকাশ ঘটেছে, যা কবিতাটিতে একটানা বিষাদময় রিক্ততার সুর বজায় রাখে। অন্যান্য বিকল্পগুলোর মধ্যে \"তাহারেই পড়ে মনে\" (রবীন্দ্রনাথ) মূলত স্মৃতিকাতরতা ও \"ফেব্রুয়ারি ১৯৬৯\" (শামসুর রাহমান) রাজনৈতিক আবেগকে প্রকাশ করে, যা প্রশ্নোক্ত ভাবধারার সাথে পুরোপুরি মেলে না।"
+    },
+    {
+        "id": "c2c7d6cc-91ab-48a9-bd6f-841c8e7ceb04-16687",
+        "question": "1০, 20, 30 অ্যালকোহলের সনাক্তরণে কী ব্যবহার করা হয়?",
+        "options": [
+            "2, 4 - DNPH",
+            "Lucas reagent",
+            "Tollen's reagent",
+            "Fehling's solution"
+        ],
+        "answer": "B",
+        "formated_question": "Below there is a Bangla multiple choice question with 4 option, you need to find the correct option for the question.\n    Question in Bangla: 1০, 20, 30 অ্যালকোহলের সনাক্তরণে কী ব্যবহার করা হয়?\n    Options in Bangla: {'A': '2, 4 - DNPH', 'B': 'Lucas reagent', 'C': \"Tollen's reagent\", 'D': \"Fehling's solution\"}",
+        "reason": "<think>Okay, let's tackle this question. The question is asking which reagent is used to identify 10°, 20°, and 30° alcohols. The options are DNPH, Lucas reagent, Tollen's reagent, and Fehling's solution.\n\nFirst, I need to recall what each reagent does. DNPH (2,4-Dinitrophenylhydrazine) is typically used to test for carbonyl groups, like ketones and aldehydes. It forms a precipitate with those, so maybe not for alcohols directly. \n\nLucas reagent is something I remember is related to alcohols. I think it's used to differentiate between primary, secondary, and tertiary alcohols. The reaction involves HCl and zinc chloride. Tertiary alcohols react fastest, forming a cloudy solution quickly, secondary take a bit longer, and primary might not react much at room temperature. So Lucas reagent helps in distinguishing the classes of alcohols based on their reaction rates. That seems relevant here since the question is about identifying 10°, 20°, 30° alcohols. \n\nTollen's reagent is for aldehydes. It's the silver mirror test. Fehling's solution is also for aldehydes, specifically aliphatic ones, and turns from blue to red precipitate. Neither of these are for alcohols. \n\nSo putting it all together, the correct answer should be B, Lucas reagent.\n</think>",
+        "gen_ans": "The correct answer is **B: Lucas reagent**. \n\nLucas reagent (HCl with ZnCl₂) is used to distinguish between primary (10°), secondary (20°), and tertiary (30°) alcohols based on their reaction rates. Tertiary alcohols react immediately, secondary alcohols react within a few minutes, while primary alcohols do not react significantly at room temperature. Other reagents like DNPH, Tollen's, or Fehling's are used for different functional groups (carbonyl compounds or aldehydes), not alcohols. \n\n**Answer:** B"
+    }
+]

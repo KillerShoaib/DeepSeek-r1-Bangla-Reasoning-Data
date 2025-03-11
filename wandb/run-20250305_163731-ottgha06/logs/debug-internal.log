@@ -1,0 +1,16 @@
+{"time":"2025-03-05T16:37:31.849457936+06:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/wandb/run-20250305_163731-ottgha06/logs/debug-core.log"}
+{"time":"2025-03-05T16:37:31.96112952+06:00","level":"INFO","msg":"created new stream","id":"ottgha06"}
+{"time":"2025-03-05T16:37:31.961277202+06:00","level":"INFO","msg":"writer: Do: started","stream_id":"ottgha06"}
+{"time":"2025-03-05T16:37:31.961416778+06:00","level":"INFO","msg":"handler: started","stream_id":"ottgha06"}
+{"time":"2025-03-05T16:37:31.961515535+06:00","level":"INFO","msg":"sender: started","stream_id":"ottgha06"}
+{"time":"2025-03-05T16:37:31.961613752+06:00","level":"INFO","msg":"stream: started","id":"ottgha06"}
+{"time":"2025-03-05T16:37:32.508737656+06:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T16:59:48.442175498+06:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T16:59:48.4437157+06:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T16:59:49.445945086+06:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.290469368,"progress":"967B/967B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.290456988,"progress":"172B/172B"}],"total_operations":2}}
+{"time":"2025-03-05T16:59:49.866005325+06:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T16:59:51.362342577+06:00","level":"INFO","msg":"stream: closing","id":"ottgha06"}
+{"time":"2025-03-05T16:59:51.362426725+06:00","level":"INFO","msg":"handler: closed","stream_id":"ottgha06"}
+{"time":"2025-03-05T16:59:51.362499471+06:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ottgha06"}
+{"time":"2025-03-05T16:59:51.362773037+06:00","level":"INFO","msg":"sender: closed","stream_id":"ottgha06"}
+{"time":"2025-03-05T16:59:51.362831235+06:00","level":"INFO","msg":"stream: closed","id":"ottgha06"}

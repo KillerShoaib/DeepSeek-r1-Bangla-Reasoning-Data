@@ -1,0 +1,115 @@
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2001 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2002 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2003 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2004 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2005 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2006 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2007 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2008 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2009 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2010 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2011 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2012 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2013 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2014 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2015 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2016 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2017 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2018 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2019 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2020 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2021 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2022 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2023 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2024 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2025 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2026 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2027 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2028 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2029 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2030 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2031 in validation set
+{'detail': 'Too Many Requests'}
+Failed to get response for sameple no = 2032 in validation set
+Traceback (most recent call last):
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/Reasoning_collection.py", line 292, in <module>
+    main(dataset,args.set_name,args.start_index,args.end_index,args.run_name)
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/Reasoning_collection.py", line 248, in main
+    response_json  = api_calling(format_question_sample)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/Reasoning_collection.py", line 88, in api_calling
+    response = requests.post(url, headers=headers, json=data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/lib/python3.12/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/anaconda3/lib/python3.12/http/client.py", line 1428, in getresponse
+    response.begin()
+  File "/home/shoaiboffice/anaconda3/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/anaconda3/lib/python3.12/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/anaconda3/lib/python3.12/socket.py", line 708, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/anaconda3/lib/python3.12/ssl.py", line 1252, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shoaiboffice/anaconda3/lib/python3.12/ssl.py", line 1104, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

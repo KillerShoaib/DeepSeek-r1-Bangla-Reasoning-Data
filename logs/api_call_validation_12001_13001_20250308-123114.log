@@ -1,0 +1,1351 @@
+2025-03-08 12:31:33,871 - INFO - Total token for sample 12001 in validation = 418
+2025-03-08 12:31:52,082 - INFO - Total token for sample 12002 in validation = 1334
+2025-03-08 12:34:41,884 - INFO - Total token for sample 12003 in validation = 2985
+2025-03-08 12:35:00,140 - INFO - Total token for sample 12004 in validation = 518
+2025-03-08 12:35:41,866 - INFO - Total token for sample 12005 in validation = 827
+2025-03-08 12:37:39,945 - INFO - Total token for sample 12006 in validation = 1943
+2025-03-08 12:38:18,108 - INFO - Total token for sample 12007 in validation = 945
+2025-03-08 12:39:17,576 - INFO - Total token for sample 12008 in validation = 989
+2025-03-08 12:39:22,263 - INFO - Total token for sample 12009 in validation = 436
+2025-03-08 12:40:09,961 - INFO - Total token for sample 12010 in validation = 1129
+2025-03-08 12:41:10,027 - INFO - Total token for sample 12011 in validation = 1453
+2025-03-08 12:44:25,237 - INFO - Total token for sample 12012 in validation = 3525
+2025-03-08 12:45:02,632 - INFO - Total token for sample 12013 in validation = 978
+2025-03-08 12:46:34,347 - INFO - Total token for sample 12014 in validation = 490
+2025-03-08 12:47:11,385 - INFO - Total token for sample 12015 in validation = 797
+2025-03-08 12:47:35,121 - INFO - Total token for sample 12016 in validation = 508
+2025-03-08 12:49:05,385 - INFO - Total token for sample 12017 in validation = 1737
+2025-03-08 12:49:24,274 - INFO - Total token for sample 12018 in validation = 519
+2025-03-08 12:49:52,229 - INFO - Total token for sample 12019 in validation = 656
+2025-03-08 12:49:57,681 - INFO - Total token for sample 12020 in validation = 531
+2025-03-08 12:50:22,197 - INFO - Total token for sample 12021 in validation = 503
+2025-03-08 12:51:50,410 - INFO - Total token for sample 12022 in validation = 578
+2025-03-08 12:52:15,813 - INFO - Total token for sample 12023 in validation = 541
+2025-03-08 12:52:41,317 - INFO - Total token for sample 12024 in validation = 464
+2025-03-08 12:52:55,688 - INFO - Total token for sample 12025 in validation = 424
+2025-03-08 12:53:06,326 - INFO - Total token for sample 12026 in validation = 330
+2025-03-08 12:53:25,814 - INFO - Total token for sample 12027 in validation = 566
+2025-03-08 12:54:05,534 - INFO - Total token for sample 12028 in validation = 771
+2025-03-08 12:54:21,115 - INFO - Total token for sample 12029 in validation = 447
+2025-03-08 12:54:44,822 - INFO - Total token for sample 12030 in validation = 670
+2025-03-08 12:55:00,788 - INFO - Total token for sample 12031 in validation = 417
+2025-03-08 12:55:08,870 - INFO - Total token for sample 12032 in validation = 681
+2025-03-08 12:56:18,718 - INFO - Total token for sample 12033 in validation = 951
+2025-03-08 12:56:40,780 - INFO - Total token for sample 12034 in validation = 519
+2025-03-08 12:57:02,879 - INFO - Total token for sample 12035 in validation = 574
+2025-03-08 12:58:55,285 - INFO - Total token for sample 12036 in validation = 757
+2025-03-08 12:59:31,554 - INFO - Total token for sample 12037 in validation = 837
+2025-03-08 12:59:42,328 - INFO - Total token for sample 12038 in validation = 346
+2025-03-08 13:00:03,768 - INFO - Total token for sample 12039 in validation = 613
+2025-03-08 13:05:04,196 - INFO - Timeout occurred skipping this sample
+2025-03-08 13:05:41,887 - INFO - Total token for sample 12041 in validation = 900
+2025-03-08 13:06:04,486 - INFO - Total token for sample 12042 in validation = 472
+2025-03-08 13:06:34,785 - INFO - Total token for sample 12043 in validation = 761
+2025-03-08 13:10:53,490 - INFO - Total token for sample 12044 in validation = 4061
+2025-03-08 13:11:07,773 - INFO - Total token for sample 12045 in validation = 428
+2025-03-08 13:11:22,748 - INFO - Total token for sample 12046 in validation = 606
+2025-03-08 13:11:42,953 - INFO - Total token for sample 12047 in validation = 461
+2025-03-08 13:12:02,962 - INFO - Total token for sample 12048 in validation = 441
+2025-03-08 13:12:25,155 - INFO - Total token for sample 12049 in validation = 620
+2025-03-08 13:13:27,201 - INFO - Total token for sample 12050 in validation = 1287
+2025-03-08 13:18:27,643 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-08 13:18:27,644 - INFO - Failed to get response for sameple no = 12051 in validation set
+2025-03-08 13:19:07,289 - INFO - Total token for sample 12052 in validation = 963
+2025-03-08 13:19:35,858 - INFO - Total token for sample 12053 in validation = 705
+2025-03-08 13:20:36,437 - INFO - Total token for sample 12054 in validation = 612
+2025-03-08 13:21:30,582 - INFO - Total token for sample 12055 in validation = 932
+2025-03-08 13:21:51,252 - INFO - Total token for sample 12056 in validation = 411
+2025-03-08 13:22:07,981 - INFO - Total token for sample 12057 in validation = 468
+2025-03-08 13:23:37,229 - INFO - Total token for sample 12058 in validation = 1551
+2025-03-08 13:27:56,931 - INFO - Total token for sample 12059 in validation = 4329
+2025-03-08 13:28:25,204 - INFO - Total token for sample 12060 in validation = 562
+2025-03-08 13:29:20,369 - INFO - Total token for sample 12061 in validation = 1041
+2025-03-08 13:30:07,080 - INFO - Total token for sample 12062 in validation = 1144
+2025-03-08 13:30:46,505 - INFO - Total token for sample 12063 in validation = 922
+2025-03-08 13:31:45,446 - INFO - Total token for sample 12064 in validation = 558
+2025-03-08 13:32:43,936 - INFO - Total token for sample 12065 in validation = 1488
+2025-03-08 13:33:09,045 - INFO - Total token for sample 12066 in validation = 592
+2025-03-08 13:34:11,269 - INFO - Total token for sample 12067 in validation = 1042
+2025-03-08 13:35:01,093 - INFO - Total token for sample 12068 in validation = 588
+2025-03-08 13:35:16,994 - INFO - Total token for sample 12069 in validation = 430
+2025-03-08 13:35:41,202 - INFO - Total token for sample 12070 in validation = 585
+2025-03-08 13:36:08,407 - INFO - Total token for sample 12071 in validation = 653
+2025-03-08 13:36:35,430 - INFO - Total token for sample 12072 in validation = 686
+2025-03-08 13:36:53,355 - INFO - Total token for sample 12073 in validation = 550
+2025-03-08 13:38:33,753 - INFO - Total token for sample 12074 in validation = 1998
+2025-03-08 13:38:59,034 - INFO - Total token for sample 12075 in validation = 548
+2025-03-08 13:40:59,104 - INFO - Total token for sample 12076 in validation = 2832
+2025-03-08 13:44:16,228 - INFO - Total token for sample 12077 in validation = 3713
+2025-03-08 13:44:36,170 - INFO - Total token for sample 12078 in validation = 500
+2025-03-08 13:44:55,632 - INFO - Total token for sample 12079 in validation = 486
+2025-03-08 13:46:07,416 - INFO - Total token for sample 12080 in validation = 598
+2025-03-08 13:46:17,033 - INFO - Total token for sample 12081 in validation = 815
+2025-03-08 13:46:38,313 - INFO - Total token for sample 12082 in validation = 1962
+2025-03-08 13:47:51,219 - INFO - Total token for sample 12083 in validation = 1392
+2025-03-08 13:48:18,655 - INFO - Total token for sample 12084 in validation = 464
+2025-03-08 13:49:07,957 - INFO - Total token for sample 12085 in validation = 873
+2025-03-08 13:50:28,258 - INFO - Total token for sample 12086 in validation = 1672
+2025-03-08 13:51:19,942 - INFO - Total token for sample 12087 in validation = 1210
+2025-03-08 13:51:50,569 - INFO - Total token for sample 12088 in validation = 833
+2025-03-08 13:52:02,564 - INFO - Total token for sample 12089 in validation = 377
+2025-03-08 13:52:23,608 - INFO - Total token for sample 12090 in validation = 457
+2025-03-08 13:52:47,432 - INFO - Total token for sample 12091 in validation = 582
+2025-03-08 13:53:06,277 - INFO - Total token for sample 12092 in validation = 430
+2025-03-08 13:53:19,052 - INFO - Total token for sample 12093 in validation = 401
+2025-03-08 13:53:48,634 - INFO - Total token for sample 12094 in validation = 620
+2025-03-08 13:54:08,246 - INFO - Total token for sample 12095 in validation = 453
+2025-03-08 13:54:36,727 - INFO - Total token for sample 12096 in validation = 633
+2025-03-08 13:55:13,549 - INFO - Total token for sample 12097 in validation = 945
+2025-03-08 13:55:24,835 - INFO - Total token for sample 12098 in validation = 839
+2025-03-08 13:56:06,109 - INFO - Total token for sample 12099 in validation = 940
+2025-03-08 13:56:32,384 - INFO - Total token for sample 12100 in validation = 505
+2025-03-08 13:56:51,477 - INFO - Total token for sample 12101 in validation = 560
+2025-03-08 13:57:11,137 - INFO - Total token for sample 12102 in validation = 485
+2025-03-08 13:58:29,852 - INFO - Total token for sample 12103 in validation = 1268
+2025-03-08 13:58:46,072 - INFO - Total token for sample 12104 in validation = 472
+2025-03-08 13:59:12,238 - INFO - Total token for sample 12105 in validation = 1947
+2025-03-08 13:59:48,782 - INFO - Total token for sample 12106 in validation = 659
+2025-03-08 14:00:41,382 - INFO - Total token for sample 12107 in validation = 1206
+2025-03-08 14:01:04,511 - INFO - Total token for sample 12108 in validation = 689
+2025-03-08 14:01:33,708 - INFO - Total token for sample 12109 in validation = 787
+2025-03-08 14:02:01,075 - INFO - Total token for sample 12110 in validation = 690
+2025-03-08 14:03:06,108 - INFO - Total token for sample 12111 in validation = 1166
+2025-03-08 14:03:13,730 - INFO - Total token for sample 12112 in validation = 709
+2025-03-08 14:03:20,177 - INFO - Total token for sample 12113 in validation = 777
+2025-03-08 14:03:43,993 - INFO - Total token for sample 12114 in validation = 549
+2025-03-08 14:04:08,286 - INFO - Total token for sample 12115 in validation = 494
+2025-03-08 14:04:28,627 - INFO - Total token for sample 12116 in validation = 579
+2025-03-08 14:04:57,752 - INFO - Total token for sample 12117 in validation = 661
+2025-03-08 14:05:44,596 - INFO - Total token for sample 12118 in validation = 1189
+2025-03-08 14:06:23,443 - INFO - Total token for sample 12119 in validation = 642
+2025-03-08 14:06:52,547 - INFO - Total token for sample 12120 in validation = 612
+2025-03-08 14:07:11,368 - INFO - Total token for sample 12121 in validation = 458
+2025-03-08 14:07:44,971 - INFO - Total token for sample 12122 in validation = 647
+2025-03-08 14:08:01,643 - INFO - Total token for sample 12123 in validation = 456
+2025-03-08 14:08:22,350 - INFO - Total token for sample 12124 in validation = 520
+2025-03-08 14:08:44,476 - INFO - Total token for sample 12125 in validation = 525
+2025-03-08 14:09:15,054 - INFO - Total token for sample 12126 in validation = 801
+2025-03-08 14:09:42,520 - INFO - Total token for sample 12127 in validation = 543
+2025-03-08 14:10:00,361 - INFO - Total token for sample 12128 in validation = 1468
+2025-03-08 14:12:17,790 - INFO - Total token for sample 12129 in validation = 2106
+2025-03-08 14:13:27,852 - INFO - Total token for sample 12130 in validation = 1566
+2025-03-08 14:13:43,365 - INFO - Total token for sample 12131 in validation = 482
+2025-03-08 14:14:32,236 - INFO - Total token for sample 12132 in validation = 1068
+2025-03-08 14:14:58,634 - INFO - Total token for sample 12133 in validation = 553
+2025-03-08 14:15:12,108 - INFO - Total token for sample 12134 in validation = 378
+2025-03-08 14:15:41,879 - INFO - Total token for sample 12135 in validation = 817
+2025-03-08 14:15:59,575 - INFO - Total token for sample 12136 in validation = 476
+2025-03-08 14:16:30,474 - INFO - Total token for sample 12137 in validation = 678
+2025-03-08 14:21:30,788 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-08 14:21:30,789 - INFO - Failed to get response for sameple no = 12138 in validation set
+2025-03-08 14:21:55,320 - INFO - Total token for sample 12139 in validation = 601
+2025-03-08 14:22:11,880 - INFO - Total token for sample 12140 in validation = 486
+2025-03-08 14:22:34,128 - INFO - Total token for sample 12141 in validation = 571
+2025-03-08 14:24:04,084 - INFO - Total token for sample 12142 in validation = 1180
+2025-03-08 14:28:09,862 - INFO - Total token for sample 12143 in validation = 3763
+2025-03-08 14:28:56,523 - INFO - Total token for sample 12144 in validation = 1061
+2025-03-08 14:29:19,112 - INFO - Total token for sample 12145 in validation = 591
+2025-03-08 14:29:42,229 - INFO - Total token for sample 12146 in validation = 465
+2025-03-08 14:29:51,458 - INFO - Total token for sample 12147 in validation = 725
+2025-03-08 14:30:07,626 - INFO - Total token for sample 12148 in validation = 492
+2025-03-08 14:32:45,298 - INFO - Total token for sample 12149 in validation = 3163
+2025-03-08 14:33:48,512 - INFO - Total token for sample 12150 in validation = 1211
+2025-03-08 14:34:48,909 - INFO - Total token for sample 12151 in validation = 1047
+2025-03-08 14:35:15,123 - INFO - Total token for sample 12152 in validation = 639
+2025-03-08 14:35:46,630 - INFO - Total token for sample 12153 in validation = 629
+2025-03-08 14:36:29,151 - INFO - Total token for sample 12154 in validation = 1039
+2025-03-08 14:36:40,663 - INFO - Total token for sample 12155 in validation = 881
+2025-03-08 14:37:14,071 - INFO - Total token for sample 12156 in validation = 687
+2025-03-08 14:37:29,691 - INFO - Total token for sample 12157 in validation = 460
+2025-03-08 14:38:00,974 - INFO - Total token for sample 12158 in validation = 855
+2025-03-08 14:38:54,576 - INFO - Total token for sample 12159 in validation = 859
+2025-03-08 14:39:28,261 - INFO - Total token for sample 12160 in validation = 672
+2025-03-08 14:39:54,521 - INFO - Total token for sample 12161 in validation = 542
+2025-03-08 14:40:00,198 - INFO - Total token for sample 12162 in validation = 610
+2025-03-08 14:40:24,796 - INFO - Total token for sample 12163 in validation = 624
+2025-03-08 14:42:11,538 - INFO - Total token for sample 12164 in validation = 2175
+2025-03-08 14:42:27,497 - INFO - Total token for sample 12165 in validation = 323
+2025-03-08 14:43:21,403 - INFO - Total token for sample 12166 in validation = 789
+2025-03-08 14:46:25,832 - INFO - Total token for sample 12167 in validation = 3903
+2025-03-08 14:46:36,117 - INFO - Total token for sample 12168 in validation = 872
+2025-03-08 14:47:13,001 - INFO - Total token for sample 12169 in validation = 812
+2025-03-08 14:47:44,666 - INFO - Total token for sample 12170 in validation = 2365
+2025-03-08 14:48:55,724 - INFO - Total token for sample 12171 in validation = 1592
+2025-03-08 14:49:26,772 - INFO - Total token for sample 12172 in validation = 761
+2025-03-08 14:50:14,214 - INFO - Total token for sample 12173 in validation = 883
+2025-03-08 14:50:28,183 - INFO - Total token for sample 12174 in validation = 437
+2025-03-08 14:51:24,407 - INFO - Total token for sample 12175 in validation = 1138
+2025-03-08 14:51:40,829 - INFO - Total token for sample 12176 in validation = 445
+2025-03-08 14:55:29,952 - INFO - Total token for sample 12177 in validation = 3188
+2025-03-08 14:56:06,898 - INFO - Total token for sample 12178 in validation = 912
+2025-03-08 14:56:22,231 - INFO - Total token for sample 12179 in validation = 409
+2025-03-08 14:57:26,682 - INFO - Total token for sample 12180 in validation = 680
+2025-03-08 14:57:42,651 - INFO - Total token for sample 12181 in validation = 464
+2025-03-08 14:58:02,497 - INFO - Total token for sample 12182 in validation = 484
+2025-03-08 14:58:57,653 - INFO - Total token for sample 12183 in validation = 924
+2025-03-08 14:59:10,398 - INFO - Total token for sample 12184 in validation = 399
+2025-03-08 15:00:33,504 - INFO - Total token for sample 12185 in validation = 1602
+2025-03-08 15:00:57,020 - INFO - Total token for sample 12186 in validation = 566
+2025-03-08 15:01:30,505 - INFO - Total token for sample 12187 in validation = 731
+2025-03-08 15:03:17,136 - INFO - Total token for sample 12188 in validation = 1308
+2025-03-08 15:03:37,869 - INFO - Total token for sample 12189 in validation = 605
+2025-03-08 15:04:02,967 - INFO - Total token for sample 12190 in validation = 541
+2025-03-08 15:04:36,571 - INFO - Total token for sample 12191 in validation = 614
+2025-03-08 15:09:37,123 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-08 15:09:37,123 - INFO - Failed to get response for sameple no = 12192 in validation set
+2025-03-08 15:09:44,378 - INFO - Total token for sample 12193 in validation = 634
+2025-03-08 15:10:02,028 - INFO - Total token for sample 12194 in validation = 467
+2025-03-08 15:11:02,798 - INFO - Total token for sample 12195 in validation = 729
+2025-03-08 15:11:30,021 - INFO - Total token for sample 12196 in validation = 810
+2025-03-08 15:13:10,930 - INFO - Total token for sample 12197 in validation = 1377
+2025-03-08 15:14:42,223 - INFO - Total token for sample 12198 in validation = 1257
+2025-03-08 15:15:04,950 - INFO - Total token for sample 12199 in validation = 612
+2025-03-08 15:15:48,226 - INFO - Total token for sample 12200 in validation = 854
+2025-03-08 15:16:18,850 - INFO - Total token for sample 12201 in validation = 608
+2025-03-08 15:16:41,537 - INFO - Total token for sample 12202 in validation = 562
+2025-03-08 15:17:33,137 - INFO - Total token for sample 12203 in validation = 816
+2025-03-08 15:18:23,902 - INFO - Total token for sample 12204 in validation = 1129
+2025-03-08 15:19:05,091 - INFO - Total token for sample 12205 in validation = 657
+2025-03-08 15:24:05,291 - INFO - Timeout occurred skipping this sample
+2025-03-08 15:24:28,825 - INFO - Total token for sample 12207 in validation = 612
+2025-03-08 15:24:44,602 - INFO - Total token for sample 12208 in validation = 1193
+2025-03-08 15:25:16,266 - INFO - Total token for sample 12209 in validation = 725
+2025-03-08 15:25:31,119 - INFO - Total token for sample 12210 in validation = 374
+2025-03-08 15:25:49,636 - INFO - Total token for sample 12211 in validation = 468
+2025-03-08 15:26:16,799 - INFO - Total token for sample 12212 in validation = 559
+2025-03-08 15:29:46,215 - INFO - Total token for sample 12213 in validation = 3229
+2025-03-08 15:30:01,581 - INFO - Total token for sample 12214 in validation = 308
+2025-03-08 15:30:38,903 - INFO - Total token for sample 12215 in validation = 679
+2025-03-08 15:31:27,835 - INFO - Total token for sample 12216 in validation = 515
+2025-03-08 15:31:52,767 - INFO - Total token for sample 12217 in validation = 651
+2025-03-08 15:32:02,148 - INFO - Total token for sample 12218 in validation = 601
+2025-03-08 15:32:30,513 - INFO - Total token for sample 12219 in validation = 662
+2025-03-08 15:33:01,179 - INFO - Total token for sample 12220 in validation = 718
+2025-03-08 15:33:25,470 - INFO - Total token for sample 12221 in validation = 569
+2025-03-08 15:33:51,622 - INFO - Total token for sample 12222 in validation = 535
+2025-03-08 15:33:56,578 - INFO - Total token for sample 12223 in validation = 445
+2025-03-08 15:34:29,160 - INFO - Total token for sample 12224 in validation = 585
+2025-03-08 15:34:49,556 - INFO - Total token for sample 12225 in validation = 572
+2025-03-08 15:36:08,777 - INFO - Total token for sample 12226 in validation = 1123
+2025-03-08 15:36:36,540 - INFO - Total token for sample 12227 in validation = 540
+2025-03-08 15:38:03,117 - INFO - Total token for sample 12228 in validation = 717
+2025-03-08 15:38:35,334 - INFO - Total token for sample 12229 in validation = 553
+2025-03-08 15:39:06,195 - INFO - Total token for sample 12230 in validation = 734
+2025-03-08 15:39:39,084 - INFO - Total token for sample 12231 in validation = 748
+2025-03-08 15:39:58,210 - INFO - Total token for sample 12232 in validation = 533
+2025-03-08 15:40:43,693 - INFO - Total token for sample 12233 in validation = 701
+2025-03-08 15:41:14,726 - INFO - Total token for sample 12234 in validation = 867
+2025-03-08 15:41:29,241 - INFO - Total token for sample 12235 in validation = 433
+2025-03-08 15:42:04,970 - INFO - Total token for sample 12236 in validation = 964
+2025-03-08 15:42:31,432 - INFO - Total token for sample 12237 in validation = 746
+2025-03-08 15:42:55,220 - INFO - Total token for sample 12238 in validation = 664
+2025-03-08 15:43:09,464 - INFO - Total token for sample 12239 in validation = 484
+2025-03-08 15:43:14,668 - INFO - Total token for sample 12240 in validation = 573
+2025-03-08 15:43:58,765 - INFO - Total token for sample 12241 in validation = 512
+2025-03-08 15:44:54,633 - INFO - Total token for sample 12242 in validation = 1449
+2025-03-08 15:46:19,859 - INFO - Total token for sample 12243 in validation = 2010
+2025-03-08 15:46:49,129 - INFO - Total token for sample 12244 in validation = 774
+2025-03-08 15:46:59,900 - INFO - Total token for sample 12245 in validation = 454
+2025-03-08 15:47:24,693 - INFO - Total token for sample 12246 in validation = 615
+2025-03-08 15:48:20,586 - INFO - Total token for sample 12247 in validation = 1135
+2025-03-08 15:48:36,123 - INFO - Total token for sample 12248 in validation = 466
+2025-03-08 15:48:54,857 - INFO - Total token for sample 12249 in validation = 522
+2025-03-08 15:49:14,629 - INFO - Total token for sample 12250 in validation = 546
+2025-03-08 15:49:45,973 - INFO - Total token for sample 12251 in validation = 675
+2025-03-08 15:50:04,737 - INFO - Total token for sample 12252 in validation = 477
+2025-03-08 15:52:43,365 - INFO - Total token for sample 12253 in validation = 3395
+2025-03-08 15:53:01,840 - INFO - Total token for sample 12254 in validation = 365
+2025-03-08 15:58:02,291 - INFO - Timeout occurred skipping this sample
+2025-03-08 15:58:22,155 - INFO - Total token for sample 12256 in validation = 567
+2025-03-08 15:58:48,478 - INFO - Total token for sample 12257 in validation = 640
+2025-03-08 15:59:16,252 - INFO - Total token for sample 12258 in validation = 712
+2025-03-08 15:59:30,370 - INFO - Total token for sample 12259 in validation = 431
+2025-03-08 15:59:51,364 - INFO - Total token for sample 12260 in validation = 518
+2025-03-08 16:00:24,989 - INFO - Total token for sample 12261 in validation = 682
+2025-03-08 16:01:24,359 - INFO - Total token for sample 12262 in validation = 1310
+2025-03-08 16:01:44,196 - INFO - Total token for sample 12263 in validation = 587
+2025-03-08 16:01:51,318 - INFO - Total token for sample 12264 in validation = 834
+2025-03-08 16:02:11,701 - INFO - Total token for sample 12265 in validation = 505
+2025-03-08 16:02:35,296 - INFO - Total token for sample 12266 in validation = 597
+2025-03-08 16:03:28,697 - INFO - Total token for sample 12267 in validation = 1026
+2025-03-08 16:03:53,663 - INFO - Total token for sample 12268 in validation = 649
+2025-03-08 16:04:11,391 - INFO - Total token for sample 12269 in validation = 538
+2025-03-08 16:08:09,892 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-08 16:08:09,902 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-08 16:08:09,902 - INFO - Failed to get response for sameple no = 12270 in validation set
+2025-03-08 16:08:37,859 - INFO - Total token for sample 12271 in validation = 582
+2025-03-08 16:08:54,240 - INFO - Total token for sample 12272 in validation = 461
+2025-03-08 16:09:21,940 - INFO - Total token for sample 12273 in validation = 527
+2025-03-08 16:09:38,957 - INFO - Total token for sample 12274 in validation = 1369
+2025-03-08 16:14:39,291 - INFO - Timeout occurred skipping this sample
+2025-03-08 16:17:19,401 - INFO - Total token for sample 12276 in validation = 2834
+2025-03-08 16:17:45,670 - INFO - Total token for sample 12277 in validation = 540
+2025-03-08 16:18:53,499 - INFO - Total token for sample 12278 in validation = 674
+2025-03-08 16:19:24,550 - INFO - Total token for sample 12279 in validation = 635
+2025-03-08 16:20:10,672 - INFO - Total token for sample 12280 in validation = 607
+2025-03-08 16:20:34,150 - INFO - Total token for sample 12281 in validation = 598
+2025-03-08 16:20:53,705 - INFO - Total token for sample 12282 in validation = 562
+2025-03-08 16:21:57,962 - INFO - Total token for sample 12283 in validation = 1393
+2025-03-08 16:22:24,730 - INFO - Total token for sample 12284 in validation = 728
+2025-03-08 16:22:45,315 - INFO - Total token for sample 12285 in validation = 574
+2025-03-08 16:23:08,598 - INFO - Total token for sample 12286 in validation = 525
+2025-03-08 16:23:37,274 - INFO - Total token for sample 12287 in validation = 700
+2025-03-08 16:24:15,119 - INFO - Total token for sample 12288 in validation = 729
+2025-03-08 16:24:34,767 - INFO - Total token for sample 12289 in validation = 573
+2025-03-08 16:25:20,253 - INFO - Total token for sample 12290 in validation = 611
+2025-03-08 16:25:59,328 - INFO - Total token for sample 12291 in validation = 719
+2025-03-08 16:26:19,098 - INFO - Total token for sample 12292 in validation = 521
+2025-03-08 16:26:41,078 - INFO - Total token for sample 12293 in validation = 421
+2025-03-08 16:27:01,051 - INFO - Total token for sample 12294 in validation = 557
+2025-03-08 16:29:22,080 - INFO - Total token for sample 12295 in validation = 2352
+2025-03-08 16:29:48,443 - INFO - Total token for sample 12296 in validation = 497
+2025-03-08 16:30:21,125 - INFO - Total token for sample 12297 in validation = 664
+2025-03-08 16:30:53,464 - INFO - Total token for sample 12298 in validation = 639
+2025-03-08 16:31:14,995 - INFO - Total token for sample 12299 in validation = 549
+2025-03-08 16:33:09,143 - INFO - Total token for sample 12300 in validation = 1872
+2025-03-08 16:33:47,030 - INFO - Total token for sample 12301 in validation = 617
+2025-03-08 16:34:19,097 - INFO - Total token for sample 12302 in validation = 654
+2025-03-08 16:35:19,599 - INFO - Total token for sample 12303 in validation = 1180
+2025-03-08 16:35:58,060 - INFO - Total token for sample 12304 in validation = 618
+2025-03-08 16:36:01,498 - INFO - Total token for sample 12305 in validation = 489
+2025-03-08 16:36:47,217 - INFO - Total token for sample 12306 in validation = 811
+2025-03-08 16:37:25,272 - INFO - Total token for sample 12307 in validation = 591
+2025-03-08 16:37:42,159 - INFO - Total token for sample 12308 in validation = 468
+2025-03-08 16:39:28,237 - INFO - Total token for sample 12309 in validation = 1514
+2025-03-08 16:39:45,346 - INFO - Total token for sample 12310 in validation = 483
+2025-03-08 16:39:54,390 - INFO - Total token for sample 12311 in validation = 603
+2025-03-08 16:40:15,033 - INFO - Total token for sample 12312 in validation = 464
+2025-03-08 16:40:31,171 - INFO - Total token for sample 12313 in validation = 452
+2025-03-08 16:40:38,480 - INFO - Total token for sample 12314 in validation = 622
+2025-03-08 16:42:22,149 - INFO - Total token for sample 12315 in validation = 2306
+2025-03-08 16:42:56,688 - INFO - Total token for sample 12316 in validation = 959
+2025-03-08 16:43:22,637 - INFO - Total token for sample 12317 in validation = 473
+2025-03-08 16:43:38,601 - INFO - Total token for sample 12318 in validation = 484
+2025-03-08 16:43:57,252 - INFO - Total token for sample 12319 in validation = 509
+2025-03-08 16:44:13,932 - INFO - Total token for sample 12320 in validation = 485
+2025-03-08 16:44:28,014 - INFO - Total token for sample 12321 in validation = 433
+2025-03-08 16:45:09,834 - INFO - Total token for sample 12322 in validation = 783
+2025-03-08 16:45:54,939 - INFO - Total token for sample 12323 in validation = 878
+2025-03-08 16:46:44,580 - INFO - Total token for sample 12324 in validation = 847
+2025-03-08 16:46:51,319 - INFO - Total token for sample 12325 in validation = 489
+2025-03-08 16:50:45,431 - INFO - Total token for sample 12326 in validation = 4296
+2025-03-08 16:52:49,265 - INFO - Total token for sample 12327 in validation = 1694
+2025-03-08 16:53:24,417 - INFO - Total token for sample 12328 in validation = 819
+2025-03-08 16:53:51,687 - INFO - Total token for sample 12329 in validation = 799
+2025-03-08 16:54:01,244 - INFO - Total token for sample 12330 in validation = 751
+2025-03-08 16:54:29,837 - INFO - Total token for sample 12331 in validation = 671
+2025-03-08 16:54:36,644 - INFO - Total token for sample 12332 in validation = 499
+2025-03-08 16:54:44,704 - INFO - Total token for sample 12333 in validation = 922
+2025-03-08 16:54:57,857 - INFO - Total token for sample 12334 in validation = 1035
+2025-03-08 16:55:11,059 - INFO - Total token for sample 12335 in validation = 395
+2025-03-08 16:55:38,311 - INFO - Total token for sample 12336 in validation = 747
+2025-03-08 16:56:06,932 - INFO - Total token for sample 12337 in validation = 699
+2025-03-08 16:56:33,153 - INFO - Total token for sample 12338 in validation = 568
+2025-03-08 16:56:52,304 - INFO - Total token for sample 12339 in validation = 2519
+2025-03-08 16:57:23,299 - INFO - Total token for sample 12340 in validation = 844
+2025-03-08 16:57:41,810 - INFO - Total token for sample 12341 in validation = 545
+2025-03-08 16:58:35,848 - INFO - Total token for sample 12342 in validation = 901
+2025-03-08 16:58:44,352 - INFO - Total token for sample 12343 in validation = 618
+2025-03-08 16:59:09,437 - INFO - Total token for sample 12344 in validation = 694
+2025-03-08 16:59:42,123 - INFO - Total token for sample 12345 in validation = 616
+2025-03-08 16:59:47,197 - INFO - Total token for sample 12346 in validation = 398
+2025-03-08 17:01:03,295 - INFO - Total token for sample 12347 in validation = 1456
+2025-03-08 17:01:43,173 - INFO - Total token for sample 12348 in validation = 854
+2025-03-08 17:03:21,249 - INFO - Total token for sample 12349 in validation = 1468
+2025-03-08 17:04:15,320 - INFO - Total token for sample 12350 in validation = 1083
+2025-03-08 17:08:14,644 - INFO - Total token for sample 12351 in validation = 4322
+2025-03-08 17:09:38,087 - INFO - Total token for sample 12352 in validation = 1137
+2025-03-08 17:09:47,378 - INFO - Total token for sample 12353 in validation = 629
+2025-03-08 17:10:50,804 - INFO - Total token for sample 12354 in validation = 1341
+2025-03-08 17:11:08,446 - INFO - Total token for sample 12355 in validation = 471
+2025-03-08 17:11:58,042 - INFO - Total token for sample 12356 in validation = 1148
+2025-03-08 17:12:06,673 - INFO - Total token for sample 12357 in validation = 673
+2025-03-08 17:12:31,559 - INFO - Total token for sample 12358 in validation = 670
+2025-03-08 17:12:39,254 - INFO - Total token for sample 12359 in validation = 664
+2025-03-08 17:13:17,452 - INFO - Total token for sample 12360 in validation = 883
+2025-03-08 17:13:50,257 - INFO - Total token for sample 12361 in validation = 582
+2025-03-08 17:13:59,771 - INFO - Total token for sample 12362 in validation = 744
+2025-03-08 17:14:20,362 - INFO - Total token for sample 12363 in validation = 614
+2025-03-08 17:15:13,413 - INFO - Total token for sample 12364 in validation = 1260
+2025-03-08 17:17:32,402 - INFO - Total token for sample 12365 in validation = 2626
+2025-03-08 17:17:43,987 - INFO - Total token for sample 12366 in validation = 370
+2025-03-08 17:18:17,964 - INFO - Total token for sample 12367 in validation = 600
+2025-03-08 17:18:52,214 - INFO - Total token for sample 12368 in validation = 567
+2025-03-08 17:19:08,314 - INFO - Total token for sample 12369 in validation = 1329
+2025-03-08 17:19:29,339 - INFO - Total token for sample 12370 in validation = 431
+2025-03-08 17:20:02,812 - INFO - Total token for sample 12371 in validation = 691
+2025-03-08 17:20:32,626 - INFO - Total token for sample 12372 in validation = 583
+2025-03-08 17:20:54,046 - INFO - Total token for sample 12373 in validation = 522
+2025-03-08 17:21:10,397 - INFO - Total token for sample 12374 in validation = 470
+2025-03-08 17:25:20,077 - INFO - Total token for sample 12375 in validation = 4814
+2025-03-08 17:25:57,950 - INFO - Total token for sample 12376 in validation = 835
+2025-03-08 17:26:38,897 - INFO - Total token for sample 12377 in validation = 751
+2025-03-08 17:27:29,956 - INFO - Total token for sample 12378 in validation = 817
+2025-03-08 17:32:21,148 - INFO - Total token for sample 12379 in validation = 5281
+2025-03-08 17:32:42,870 - INFO - Total token for sample 12380 in validation = 592
+2025-03-08 17:33:00,446 - INFO - Total token for sample 12381 in validation = 482
+2025-03-08 17:34:18,158 - INFO - Total token for sample 12382 in validation = 1612
+2025-03-08 17:35:11,798 - INFO - Total token for sample 12383 in validation = 820
+2025-03-08 17:36:56,627 - INFO - Total token for sample 12384 in validation = 2351
+2025-03-08 17:37:11,743 - INFO - Total token for sample 12385 in validation = 411
+2025-03-08 17:38:17,124 - INFO - Total token for sample 12386 in validation = 1090
+2025-03-08 17:38:59,894 - INFO - Total token for sample 12387 in validation = 1081
+2025-03-08 17:40:17,071 - INFO - Total token for sample 12388 in validation = 1953
+2025-03-08 17:40:43,570 - INFO - Total token for sample 12389 in validation = 1869
+2025-03-08 17:40:53,721 - INFO - Total token for sample 12390 in validation = 1018
+2025-03-08 17:41:17,799 - INFO - Total token for sample 12391 in validation = 544
+2025-03-08 17:41:45,994 - INFO - Total token for sample 12392 in validation = 765
+2025-03-08 17:42:01,125 - INFO - Total token for sample 12393 in validation = 462
+2025-03-08 17:42:29,633 - INFO - Total token for sample 12394 in validation = 719
+2025-03-08 17:44:12,280 - INFO - Total token for sample 12395 in validation = 1554
+2025-03-08 17:45:01,922 - INFO - Total token for sample 12396 in validation = 1319
+2025-03-08 17:45:16,647 - INFO - Total token for sample 12397 in validation = 448
+2025-03-08 17:46:11,866 - INFO - Total token for sample 12398 in validation = 1314
+2025-03-08 17:49:11,964 - INFO - Total token for sample 12399 in validation = 3400
+2025-03-08 17:50:03,315 - INFO - Total token for sample 12400 in validation = 559
+2025-03-08 17:50:45,730 - INFO - Total token for sample 12401 in validation = 756
+2025-03-08 17:50:56,935 - INFO - Total token for sample 12402 in validation = 889
+2025-03-08 17:51:14,996 - INFO - Total token for sample 12403 in validation = 512
+2025-03-08 17:51:36,304 - INFO - Total token for sample 12404 in validation = 437
+2025-03-08 17:52:26,785 - INFO - Total token for sample 12405 in validation = 857
+2025-03-08 17:52:54,582 - INFO - Total token for sample 12406 in validation = 699
+2025-03-08 17:53:22,470 - INFO - Total token for sample 12407 in validation = 528
+2025-03-08 17:53:29,267 - INFO - Total token for sample 12408 in validation = 547
+2025-03-08 17:58:29,649 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-08 17:58:29,650 - INFO - Failed to get response for sameple no = 12409 in validation set
+2025-03-08 17:59:16,112 - INFO - Total token for sample 12410 in validation = 719
+2025-03-08 18:00:10,227 - INFO - Total token for sample 12411 in validation = 1039
+2025-03-08 18:01:19,967 - INFO - Total token for sample 12412 in validation = 1618
+2025-03-08 18:04:02,851 - INFO - Total token for sample 12413 in validation = 2221
+2025-03-08 18:04:24,104 - INFO - Total token for sample 12414 in validation = 446
+2025-03-08 18:04:42,087 - INFO - Total token for sample 12415 in validation = 450
+2025-03-08 18:06:02,243 - INFO - Total token for sample 12416 in validation = 1408
+2025-03-08 18:06:40,936 - INFO - Total token for sample 12417 in validation = 779
+2025-03-08 18:07:15,615 - INFO - Total token for sample 12418 in validation = 912
+2025-03-08 18:07:48,043 - INFO - Total token for sample 12419 in validation = 405
+2025-03-08 18:08:41,918 - INFO - Total token for sample 12420 in validation = 897
+2025-03-08 18:09:00,490 - INFO - Total token for sample 12421 in validation = 532
+2025-03-08 18:09:35,023 - INFO - Total token for sample 12422 in validation = 534
+2025-03-08 18:10:10,870 - INFO - Total token for sample 12423 in validation = 921
+2025-03-08 18:10:24,181 - INFO - Total token for sample 12424 in validation = 328
+2025-03-08 18:10:41,609 - INFO - Total token for sample 12425 in validation = 378
+2025-03-08 18:11:04,413 - INFO - Total token for sample 12426 in validation = 519
+2025-03-08 18:11:34,600 - INFO - Total token for sample 12427 in validation = 517
+2025-03-08 18:12:19,484 - INFO - Total token for sample 12428 in validation = 635
+2025-03-08 18:14:32,033 - INFO - Total token for sample 12429 in validation = 1966
+2025-03-08 18:15:52,086 - INFO - Total token for sample 12430 in validation = 1221
+2025-03-08 18:16:36,983 - INFO - Total token for sample 12431 in validation = 852
+2025-03-08 18:18:59,714 - INFO - Total token for sample 12432 in validation = 1893
+2025-03-08 18:24:00,255 - INFO - Timeout occurred skipping this sample
+2025-03-08 18:24:27,715 - INFO - Total token for sample 12434 in validation = 401
+2025-03-08 18:25:21,858 - INFO - Total token for sample 12435 in validation = 981
+2025-03-08 18:25:58,867 - INFO - Total token for sample 12436 in validation = 1010
+2025-03-08 18:26:37,769 - INFO - Total token for sample 12437 in validation = 775
+2025-03-08 18:28:21,319 - INFO - Total token for sample 12438 in validation = 1257
+2025-03-08 18:28:50,951 - INFO - Total token for sample 12439 in validation = 455
+2025-03-08 18:29:17,417 - INFO - Total token for sample 12440 in validation = 559
+2025-03-08 18:29:25,993 - INFO - Total token for sample 12441 in validation = 615
+2025-03-08 18:30:08,165 - INFO - Total token for sample 12442 in validation = 716
+2025-03-08 18:32:11,732 - INFO - Total token for sample 12443 in validation = 1631
+2025-03-08 18:33:18,809 - INFO - Total token for sample 12444 in validation = 1015
+2025-03-08 18:33:46,113 - INFO - Total token for sample 12445 in validation = 607
+2025-03-08 18:34:09,266 - INFO - Total token for sample 12446 in validation = 484
+2025-03-08 18:35:36,890 - INFO - Total token for sample 12447 in validation = 1433
+2025-03-08 18:35:37,818 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-08 18:35:37,825 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-08 18:35:37,825 - INFO - Failed to get response for sameple no = 12448 in validation set
+2025-03-08 18:35:38,393 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-08 18:35:38,398 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-08 18:35:38,398 - INFO - Failed to get response for sameple no = 12449 in validation set
+2025-03-08 18:35:39,070 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-08 18:35:39,079 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-08 18:35:39,080 - INFO - Failed to get response for sameple no = 12450 in validation set
+2025-03-08 18:35:40,470 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-08 18:35:40,479 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-08 18:35:40,480 - INFO - Failed to get response for sameple no = 12451 in validation set
+2025-03-08 18:35:59,811 - INFO - Total token for sample 12452 in validation = 557
+2025-03-08 18:36:32,623 - INFO - Total token for sample 12453 in validation = 728
+2025-03-08 18:36:54,541 - INFO - Total token for sample 12454 in validation = 457
+2025-03-08 18:37:21,795 - INFO - Total token for sample 12455 in validation = 554
+2025-03-08 18:38:01,751 - INFO - Total token for sample 12456 in validation = 990
+2025-03-08 18:38:21,289 - INFO - Total token for sample 12457 in validation = 577
+2025-03-08 18:38:40,016 - INFO - Total token for sample 12458 in validation = 454
+2025-03-08 18:39:56,330 - INFO - Total token for sample 12459 in validation = 1456
+2025-03-08 18:40:10,161 - INFO - Total token for sample 12460 in validation = 1100
+2025-03-08 18:40:29,474 - INFO - Total token for sample 12461 in validation = 483
+2025-03-08 18:41:22,288 - INFO - Total token for sample 12462 in validation = 966
+2025-03-08 18:41:29,225 - INFO - Total token for sample 12463 in validation = 477
+2025-03-08 18:42:01,304 - INFO - Total token for sample 12464 in validation = 487
+2025-03-08 18:42:33,702 - INFO - Total token for sample 12465 in validation = 627
+2025-03-08 18:43:02,680 - INFO - Total token for sample 12466 in validation = 524
+2025-03-08 18:44:00,357 - INFO - Total token for sample 12467 in validation = 1131
+2025-03-08 18:44:38,550 - INFO - Total token for sample 12468 in validation = 629
+2025-03-08 18:45:49,618 - INFO - Total token for sample 12469 in validation = 1764
+2025-03-08 18:46:40,866 - INFO - Total token for sample 12470 in validation = 983
+2025-03-08 18:47:00,904 - INFO - Total token for sample 12471 in validation = 452
+2025-03-08 18:47:24,250 - INFO - Total token for sample 12472 in validation = 1897
+2025-03-08 18:47:45,511 - INFO - Total token for sample 12473 in validation = 429
+2025-03-08 18:48:09,934 - INFO - Total token for sample 12474 in validation = 534
+2025-03-08 18:49:21,403 - INFO - Total token for sample 12475 in validation = 1132
+2025-03-08 18:49:44,774 - INFO - Total token for sample 12476 in validation = 480
+2025-03-08 18:50:11,078 - INFO - Total token for sample 12477 in validation = 606
+2025-03-08 18:50:27,884 - INFO - Total token for sample 12478 in validation = 500
+2025-03-08 18:50:34,094 - INFO - Total token for sample 12479 in validation = 569
+2025-03-08 18:53:18,465 - INFO - Total token for sample 12480 in validation = 2313
+2025-03-08 18:54:40,415 - INFO - Total token for sample 12481 in validation = 1386
+2025-03-08 18:55:03,512 - INFO - Total token for sample 12482 in validation = 591
+2025-03-08 18:55:52,807 - INFO - Total token for sample 12483 in validation = 910
+2025-03-08 18:56:06,099 - INFO - Total token for sample 12484 in validation = 378
+2025-03-08 18:56:24,607 - INFO - Total token for sample 12485 in validation = 464
+2025-03-08 18:57:05,005 - INFO - Total token for sample 12486 in validation = 711
+2025-03-08 18:57:31,637 - INFO - Total token for sample 12487 in validation = 731
+2025-03-08 19:01:01,075 - INFO - Total token for sample 12488 in validation = 3701
+2025-03-08 19:02:02,350 - INFO - Total token for sample 12489 in validation = 794
+2025-03-08 19:05:46,131 - INFO - Total token for sample 12490 in validation = 4248
+2025-03-08 19:06:18,716 - INFO - Total token for sample 12491 in validation = 657
+2025-03-08 19:06:59,781 - INFO - Total token for sample 12492 in validation = 455
+2025-03-08 19:09:26,799 - INFO - Total token for sample 12493 in validation = 3309
+2025-03-08 19:09:52,118 - INFO - Total token for sample 12494 in validation = 560
+2025-03-08 19:10:17,919 - INFO - Total token for sample 12495 in validation = 453
+2025-03-08 19:10:56,523 - INFO - Total token for sample 12496 in validation = 538
+2025-03-08 19:11:43,569 - INFO - Total token for sample 12497 in validation = 768
+2025-03-08 19:14:02,728 - INFO - Total token for sample 12498 in validation = 3143
+2025-03-08 19:14:32,952 - INFO - Total token for sample 12499 in validation = 675
+2025-03-08 19:15:14,050 - INFO - Total token for sample 12500 in validation = 613
+2025-03-08 19:15:32,539 - INFO - Total token for sample 12501 in validation = 465
+2025-03-08 19:17:07,817 - INFO - Total token for sample 12502 in validation = 1747
+2025-03-08 19:17:36,209 - INFO - Total token for sample 12503 in validation = 811
+2025-03-08 19:17:54,614 - INFO - Total token for sample 12504 in validation = 436
+2025-03-08 19:18:14,746 - INFO - Total token for sample 12505 in validation = 554
+2025-03-08 19:18:30,217 - INFO - Total token for sample 12506 in validation = 408
+2025-03-08 19:19:15,792 - INFO - Total token for sample 12507 in validation = 817
+2025-03-08 19:19:38,819 - INFO - Total token for sample 12508 in validation = 631
+2025-03-08 19:22:19,362 - INFO - Total token for sample 12509 in validation = 2267
+2025-03-08 19:23:14,831 - INFO - Total token for sample 12510 in validation = 1178
+2025-03-08 19:23:25,290 - INFO - Total token for sample 12511 in validation = 761
+2025-03-08 19:24:50,717 - INFO - Total token for sample 12512 in validation = 1806
+2025-03-08 19:27:12,740 - INFO - Total token for sample 12513 in validation = 2889
+2025-03-08 19:27:41,859 - INFO - Total token for sample 12514 in validation = 438
+2025-03-08 19:29:26,639 - INFO - Total token for sample 12515 in validation = 2332
+2025-03-08 19:29:51,574 - INFO - Total token for sample 12516 in validation = 420
+2025-03-08 19:32:00,314 - INFO - Total token for sample 12517 in validation = 1655
+2025-03-08 19:32:45,161 - INFO - Total token for sample 12518 in validation = 1045
+2025-03-08 19:33:00,804 - INFO - Total token for sample 12519 in validation = 488
+2025-03-08 19:33:39,539 - INFO - Total token for sample 12520 in validation = 666
+2025-03-08 19:33:56,551 - INFO - Total token for sample 12521 in validation = 503
+2025-03-08 19:34:25,276 - INFO - Total token for sample 12522 in validation = 667
+2025-03-08 19:35:13,249 - INFO - Total token for sample 12523 in validation = 1098
+2025-03-08 19:35:40,045 - INFO - Total token for sample 12524 in validation = 561
+2025-03-08 19:36:20,850 - INFO - Total token for sample 12525 in validation = 673
+2025-03-08 19:36:41,672 - INFO - Total token for sample 12526 in validation = 548
+2025-03-08 19:37:09,301 - INFO - Total token for sample 12527 in validation = 532
+2025-03-08 19:37:48,062 - INFO - Total token for sample 12528 in validation = 731
+2025-03-08 19:38:18,948 - INFO - Total token for sample 12529 in validation = 690
+2025-03-08 19:38:58,103 - INFO - Total token for sample 12530 in validation = 907
+2025-03-08 19:39:28,545 - INFO - Total token for sample 12531 in validation = 676
+2025-03-08 19:39:53,679 - INFO - Total token for sample 12532 in validation = 387
+2025-03-08 19:40:33,699 - INFO - Total token for sample 12533 in validation = 686
+2025-03-08 19:41:02,433 - INFO - Total token for sample 12534 in validation = 658
+2025-03-08 19:41:25,075 - INFO - Total token for sample 12535 in validation = 617
+2025-03-08 19:41:44,783 - INFO - Total token for sample 12536 in validation = 548
+2025-03-08 19:42:14,382 - INFO - Total token for sample 12537 in validation = 643
+2025-03-08 19:42:32,126 - INFO - Total token for sample 12538 in validation = 451
+2025-03-08 19:42:52,930 - INFO - Total token for sample 12539 in validation = 486
+2025-03-08 19:43:08,255 - INFO - Total token for sample 12540 in validation = 401
+2025-03-08 19:43:29,956 - INFO - Total token for sample 12541 in validation = 479
+2025-03-08 19:46:17,168 - INFO - Total token for sample 12542 in validation = 3708
+2025-03-08 19:46:31,873 - INFO - Total token for sample 12543 in validation = 1156
+2025-03-08 19:46:45,303 - INFO - Total token for sample 12544 in validation = 963
+2025-03-08 19:47:39,452 - INFO - Total token for sample 12545 in validation = 1074
+2025-03-08 19:47:51,471 - INFO - Total token for sample 12546 in validation = 842
+2025-03-08 19:48:01,653 - INFO - Total token for sample 12547 in validation = 873
+2025-03-08 19:48:46,696 - INFO - Total token for sample 12548 in validation = 799
+2025-03-08 19:49:13,123 - INFO - Total token for sample 12549 in validation = 558
+2025-03-08 19:50:50,286 - INFO - Total token for sample 12550 in validation = 1235
+2025-03-08 19:51:22,168 - INFO - Total token for sample 12551 in validation = 724
+2025-03-08 19:51:49,172 - INFO - Total token for sample 12552 in validation = 458
+2025-03-08 19:52:20,094 - INFO - Total token for sample 12553 in validation = 729
+2025-03-08 19:52:27,765 - INFO - Total token for sample 12554 in validation = 555
+2025-03-08 19:52:53,443 - INFO - Total token for sample 12555 in validation = 511
+2025-03-08 19:53:35,124 - INFO - Total token for sample 12556 in validation = 661
+2025-03-08 19:53:57,110 - INFO - Total token for sample 12557 in validation = 592
+2025-03-08 19:56:00,689 - INFO - Total token for sample 12558 in validation = 1724
+2025-03-08 19:56:40,102 - INFO - Total token for sample 12559 in validation = 883
+2025-03-08 19:56:50,283 - INFO - Total token for sample 12560 in validation = 914
+2025-03-08 19:58:40,513 - INFO - Total token for sample 12561 in validation = 1875
+2025-03-08 19:58:44,415 - INFO - Total token for sample 12562 in validation = 543
+2025-03-08 19:59:03,019 - INFO - Total token for sample 12563 in validation = 506
+2025-03-08 20:01:57,630 - INFO - Total token for sample 12564 in validation = 3859
+2025-03-08 20:02:37,683 - INFO - Total token for sample 12565 in validation = 851
+2025-03-08 20:03:26,990 - INFO - Total token for sample 12566 in validation = 1229
+2025-03-08 20:03:52,091 - INFO - Total token for sample 12567 in validation = 730
+2025-03-08 20:04:52,180 - INFO - Total token for sample 12568 in validation = 799
+2025-03-08 20:05:01,413 - INFO - Total token for sample 12569 in validation = 755
+2025-03-08 20:05:15,431 - INFO - Total token for sample 12570 in validation = 1844
+2025-03-08 20:05:43,102 - INFO - Total token for sample 12571 in validation = 588
+2025-03-08 20:06:45,199 - INFO - Total token for sample 12572 in validation = 1088
+2025-03-08 20:07:53,336 - INFO - Total token for sample 12573 in validation = 1063
+2025-03-08 20:08:15,492 - INFO - Total token for sample 12574 in validation = 615
+2025-03-08 20:08:52,881 - INFO - Total token for sample 12575 in validation = 782
+2025-03-08 20:10:17,479 - INFO - Total token for sample 12576 in validation = 1548
+2025-03-08 20:11:15,762 - INFO - Total token for sample 12577 in validation = 1016
+2025-03-08 20:12:55,456 - INFO - Total token for sample 12578 in validation = 1568
+2025-03-08 20:13:20,620 - INFO - Total token for sample 12579 in validation = 652
+2025-03-08 20:13:28,616 - INFO - Total token for sample 12580 in validation = 703
+2025-03-08 20:16:04,164 - INFO - Total token for sample 12581 in validation = 3252
+2025-03-08 20:16:15,725 - INFO - Total token for sample 12582 in validation = 356
+2025-03-08 20:17:06,211 - INFO - Total token for sample 12583 in validation = 844
+2025-03-08 20:18:11,320 - INFO - Total token for sample 12584 in validation = 863
+2025-03-08 20:18:18,190 - INFO - Total token for sample 12585 in validation = 739
+2025-03-08 20:18:50,943 - INFO - Total token for sample 12586 in validation = 475
+2025-03-08 20:19:24,679 - INFO - Total token for sample 12587 in validation = 432
+2025-03-08 20:20:10,363 - INFO - Total token for sample 12588 in validation = 1088
+2025-03-08 20:20:58,032 - INFO - Total token for sample 12589 in validation = 3881
+2025-03-08 20:21:57,491 - INFO - Total token for sample 12590 in validation = 1332
+2025-03-08 20:22:59,880 - INFO - Total token for sample 12591 in validation = 985
+2025-03-08 20:23:59,944 - INFO - Total token for sample 12592 in validation = 985
+2025-03-08 20:25:52,841 - INFO - Total token for sample 12593 in validation = 1731
+2025-03-08 20:29:34,198 - INFO - Total token for sample 12594 in validation = 3615
+2025-03-08 20:29:54,043 - INFO - Total token for sample 12595 in validation = 519
+2025-03-08 20:30:16,300 - INFO - Total token for sample 12596 in validation = 596
+2025-03-08 20:30:37,098 - INFO - Total token for sample 12597 in validation = 586
+2025-03-08 20:31:14,592 - INFO - Total token for sample 12598 in validation = 487
+2025-03-08 20:31:22,107 - INFO - Total token for sample 12599 in validation = 704
+2025-03-08 20:32:14,935 - INFO - Total token for sample 12600 in validation = 791
+2025-03-08 20:32:41,653 - INFO - Total token for sample 12601 in validation = 633
+2025-03-08 20:32:59,550 - INFO - Total token for sample 12602 in validation = 437
+2025-03-08 20:33:18,244 - INFO - Total token for sample 12603 in validation = 504
+2025-03-08 20:33:25,716 - INFO - Total token for sample 12604 in validation = 561
+2025-03-08 20:33:43,913 - INFO - Total token for sample 12605 in validation = 482
+2025-03-08 20:34:17,882 - INFO - Total token for sample 12606 in validation = 780
+2025-03-08 20:35:20,134 - INFO - Total token for sample 12607 in validation = 1316
+2025-03-08 20:35:59,786 - INFO - Total token for sample 12608 in validation = 579
+2025-03-08 20:36:21,850 - INFO - Total token for sample 12609 in validation = 608
+2025-03-08 20:37:25,882 - INFO - Total token for sample 12610 in validation = 1030
+2025-03-08 20:37:53,327 - INFO - Total token for sample 12611 in validation = 702
+2025-03-08 20:38:20,842 - INFO - Total token for sample 12612 in validation = 495
+2025-03-08 20:39:01,096 - INFO - Total token for sample 12613 in validation = 692
+2025-03-08 20:39:18,416 - INFO - Total token for sample 12614 in validation = 521
+2025-03-08 20:39:42,337 - INFO - Total token for sample 12615 in validation = 539
+2025-03-08 20:40:21,332 - INFO - Total token for sample 12616 in validation = 786
+2025-03-08 20:41:26,408 - INFO - Total token for sample 12617 in validation = 661
+2025-03-08 20:41:35,385 - INFO - Total token for sample 12618 in validation = 730
+2025-03-08 20:42:30,391 - INFO - Total token for sample 12619 in validation = 1352
+2025-03-08 20:43:22,032 - INFO - Total token for sample 12620 in validation = 810
+2025-03-08 20:43:52,412 - INFO - Total token for sample 12621 in validation = 684
+2025-03-08 20:44:03,237 - INFO - Total token for sample 12622 in validation = 339
+2025-03-08 20:44:37,810 - INFO - Total token for sample 12623 in validation = 653
+2025-03-08 20:45:09,956 - INFO - Total token for sample 12624 in validation = 511
+2025-03-08 20:45:34,857 - INFO - Total token for sample 12625 in validation = 761
+2025-03-08 20:47:11,117 - INFO - Total token for sample 12626 in validation = 600
+2025-03-08 20:48:30,908 - INFO - Total token for sample 12627 in validation = 656
+2025-03-08 20:49:41,640 - INFO - Total token for sample 12628 in validation = 1005
+2025-03-08 20:54:42,087 - INFO - Error occurred: 504, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://api.hyperbolic.xyz/v1/chat/completions'
+2025-03-08 20:54:42,088 - INFO - Failed to get response for sameple no = 12629 in validation set
+2025-03-08 20:55:00,558 - INFO - Total token for sample 12630 in validation = 417
+2025-03-08 20:56:13,802 - INFO - Total token for sample 12631 in validation = 1090
+2025-03-08 20:56:30,937 - INFO - Total token for sample 12632 in validation = 478
+2025-03-08 20:57:40,304 - INFO - Total token for sample 12633 in validation = 1638
+2025-03-08 20:59:15,040 - INFO - Total token for sample 12634 in validation = 2018
+2025-03-08 21:00:15,824 - INFO - Total token for sample 12635 in validation = 1129
+2025-03-08 21:01:21,373 - INFO - Total token for sample 12636 in validation = 866
+2025-03-08 21:01:41,544 - INFO - Total token for sample 12637 in validation = 557
+2025-03-08 21:02:09,319 - INFO - Total token for sample 12638 in validation = 702
+2025-03-08 21:02:17,231 - INFO - Total token for sample 12639 in validation = 665
+2025-03-08 21:02:49,891 - INFO - Total token for sample 12640 in validation = 824
+2025-03-08 21:03:16,146 - INFO - Total token for sample 12641 in validation = 599
+2025-03-08 21:03:42,478 - INFO - Total token for sample 12642 in validation = 727
+2025-03-08 21:04:06,271 - INFO - Total token for sample 12643 in validation = 429
+2025-03-08 21:04:12,302 - INFO - Total token for sample 12644 in validation = 688
+2025-03-08 21:04:31,480 - INFO - Total token for sample 12645 in validation = 508
+2025-03-08 21:04:55,625 - INFO - Total token for sample 12646 in validation = 448
+2025-03-08 21:05:24,172 - INFO - Total token for sample 12647 in validation = 574
+2025-03-08 21:05:56,422 - INFO - Total token for sample 12648 in validation = 665
+2025-03-08 21:06:23,402 - INFO - Total token for sample 12649 in validation = 454
+2025-03-08 21:07:09,964 - INFO - Total token for sample 12650 in validation = 908
+2025-03-08 21:07:23,627 - INFO - Total token for sample 12651 in validation = 1046
+2025-03-08 21:07:31,263 - INFO - Total token for sample 12652 in validation = 855
+2025-03-08 21:08:03,296 - INFO - Total token for sample 12653 in validation = 617
+2025-03-08 21:08:22,829 - INFO - Total token for sample 12654 in validation = 555
+2025-03-08 21:08:44,128 - INFO - Total token for sample 12655 in validation = 1687
+2025-03-08 21:09:13,706 - INFO - Total token for sample 12656 in validation = 660
+2025-03-08 21:09:28,081 - INFO - Total token for sample 12657 in validation = 355
+2025-03-08 21:09:36,053 - INFO - Total token for sample 12658 in validation = 721
+2025-03-08 21:10:44,983 - INFO - Total token for sample 12659 in validation = 1135
+2025-03-08 21:11:12,466 - INFO - Total token for sample 12660 in validation = 591
+2025-03-08 21:11:52,691 - INFO - Total token for sample 12661 in validation = 3023
+2025-03-08 21:15:58,011 - INFO - Total token for sample 12662 in validation = 4829
+2025-03-08 21:16:49,814 - INFO - Total token for sample 12663 in validation = 502
+2025-03-08 21:21:50,291 - INFO - Timeout occurred skipping this sample
+2025-03-08 21:21:50,863 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:21:50,864 - INFO - Failed to get response for sameple no = 12665 in validation set
+2025-03-08 21:21:51,070 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:21:51,072 - INFO - Failed to get response for sameple no = 12666 in validation set
+2025-03-08 21:21:58,357 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:21:58,358 - INFO - Failed to get response for sameple no = 12667 in validation set
+2025-03-08 21:21:58,501 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:21:58,501 - INFO - Failed to get response for sameple no = 12668 in validation set
+2025-03-08 21:21:58,981 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:21:58,982 - INFO - Failed to get response for sameple no = 12669 in validation set
+2025-03-08 21:21:59,311 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:21:59,313 - INFO - Failed to get response for sameple no = 12670 in validation set
+2025-03-08 21:22:00,494 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:00,494 - INFO - Failed to get response for sameple no = 12671 in validation set
+2025-03-08 21:22:00,711 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:00,711 - INFO - Failed to get response for sameple no = 12672 in validation set
+2025-03-08 21:22:00,910 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:00,910 - INFO - Failed to get response for sameple no = 12673 in validation set
+2025-03-08 21:22:01,091 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:01,092 - INFO - Failed to get response for sameple no = 12674 in validation set
+2025-03-08 21:22:01,258 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:01,259 - INFO - Failed to get response for sameple no = 12675 in validation set
+2025-03-08 21:22:01,523 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:01,524 - INFO - Failed to get response for sameple no = 12676 in validation set
+2025-03-08 21:22:01,798 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:01,799 - INFO - Failed to get response for sameple no = 12677 in validation set
+2025-03-08 21:22:02,365 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:02,366 - INFO - Failed to get response for sameple no = 12678 in validation set
+2025-03-08 21:22:02,564 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:02,565 - INFO - Failed to get response for sameple no = 12679 in validation set
+2025-03-08 21:22:02,749 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:02,749 - INFO - Failed to get response for sameple no = 12680 in validation set
+2025-03-08 21:22:02,937 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:02,937 - INFO - Failed to get response for sameple no = 12681 in validation set
+2025-03-08 21:22:03,146 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:03,146 - INFO - Failed to get response for sameple no = 12682 in validation set
+2025-03-08 21:22:03,449 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:03,450 - INFO - Failed to get response for sameple no = 12683 in validation set
+2025-03-08 21:22:04,230 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:04,230 - INFO - Failed to get response for sameple no = 12684 in validation set
+2025-03-08 21:22:05,346 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:05,346 - INFO - Failed to get response for sameple no = 12685 in validation set
+2025-03-08 21:22:05,708 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:05,708 - INFO - Failed to get response for sameple no = 12686 in validation set
+2025-03-08 21:22:06,007 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:06,008 - INFO - Failed to get response for sameple no = 12687 in validation set
+2025-03-08 21:22:06,186 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:06,187 - INFO - Failed to get response for sameple no = 12688 in validation set
+2025-03-08 21:22:06,439 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:06,440 - INFO - Failed to get response for sameple no = 12689 in validation set
+2025-03-08 21:22:07,051 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:07,051 - INFO - Failed to get response for sameple no = 12690 in validation set
+2025-03-08 21:22:07,317 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:07,317 - INFO - Failed to get response for sameple no = 12691 in validation set
+2025-03-08 21:22:07,456 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:07,456 - INFO - Failed to get response for sameple no = 12692 in validation set
+2025-03-08 21:22:07,573 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:07,574 - INFO - Failed to get response for sameple no = 12693 in validation set
+2025-03-08 21:22:07,747 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:07,748 - INFO - Failed to get response for sameple no = 12694 in validation set
+2025-03-08 21:22:07,919 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:07,920 - INFO - Failed to get response for sameple no = 12695 in validation set
+2025-03-08 21:22:08,094 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:08,095 - INFO - Failed to get response for sameple no = 12696 in validation set
+2025-03-08 21:22:08,265 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:08,265 - INFO - Failed to get response for sameple no = 12697 in validation set
+2025-03-08 21:22:08,527 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:08,527 - INFO - Failed to get response for sameple no = 12698 in validation set
+2025-03-08 21:22:08,689 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:08,689 - INFO - Failed to get response for sameple no = 12699 in validation set
+2025-03-08 21:22:08,995 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:08,995 - INFO - Failed to get response for sameple no = 12700 in validation set
+2025-03-08 21:22:09,243 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:09,244 - INFO - Failed to get response for sameple no = 12701 in validation set
+2025-03-08 21:22:09,865 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:09,866 - INFO - Failed to get response for sameple no = 12702 in validation set
+2025-03-08 21:22:10,538 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:10,539 - INFO - Failed to get response for sameple no = 12703 in validation set
+2025-03-08 21:22:10,766 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:10,766 - INFO - Failed to get response for sameple no = 12704 in validation set
+2025-03-08 21:22:11,057 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:11,057 - INFO - Failed to get response for sameple no = 12705 in validation set
+2025-03-08 21:22:13,204 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:13,204 - INFO - Failed to get response for sameple no = 12706 in validation set
+2025-03-08 21:22:13,420 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:13,421 - INFO - Failed to get response for sameple no = 12707 in validation set
+2025-03-08 21:22:13,861 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:13,862 - INFO - Failed to get response for sameple no = 12708 in validation set
+2025-03-08 21:22:14,070 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:14,071 - INFO - Failed to get response for sameple no = 12709 in validation set
+2025-03-08 21:22:14,343 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:14,344 - INFO - Failed to get response for sameple no = 12710 in validation set
+2025-03-08 21:22:15,141 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:15,141 - INFO - Failed to get response for sameple no = 12711 in validation set
+2025-03-08 21:22:15,453 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:15,454 - INFO - Failed to get response for sameple no = 12712 in validation set
+2025-03-08 21:22:17,408 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:17,409 - INFO - Failed to get response for sameple no = 12713 in validation set
+2025-03-08 21:22:17,638 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:17,639 - INFO - Failed to get response for sameple no = 12714 in validation set
+2025-03-08 21:22:17,935 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:17,936 - INFO - Failed to get response for sameple no = 12715 in validation set
+2025-03-08 21:22:18,096 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:18,096 - INFO - Failed to get response for sameple no = 12716 in validation set
+2025-03-08 21:22:18,252 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:18,252 - INFO - Failed to get response for sameple no = 12717 in validation set
+2025-03-08 21:22:18,721 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:18,722 - INFO - Failed to get response for sameple no = 12718 in validation set
+2025-03-08 21:22:18,987 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:18,989 - INFO - Failed to get response for sameple no = 12719 in validation set
+2025-03-08 21:22:19,240 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:19,240 - INFO - Failed to get response for sameple no = 12720 in validation set
+2025-03-08 21:22:19,487 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:19,487 - INFO - Failed to get response for sameple no = 12721 in validation set
+2025-03-08 21:22:19,804 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:19,805 - INFO - Failed to get response for sameple no = 12722 in validation set
+2025-03-08 21:22:19,972 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:19,973 - INFO - Failed to get response for sameple no = 12723 in validation set
+2025-03-08 21:22:20,251 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:20,252 - INFO - Failed to get response for sameple no = 12724 in validation set
+2025-03-08 21:22:20,680 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:20,681 - INFO - Failed to get response for sameple no = 12725 in validation set
+2025-03-08 21:22:20,816 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:20,817 - INFO - Failed to get response for sameple no = 12726 in validation set
+2025-03-08 21:22:20,990 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:20,991 - INFO - Failed to get response for sameple no = 12727 in validation set
+2025-03-08 21:22:21,105 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:21,106 - INFO - Failed to get response for sameple no = 12728 in validation set
+2025-03-08 21:22:21,261 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:21,262 - INFO - Failed to get response for sameple no = 12729 in validation set
+2025-03-08 21:22:21,400 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:21,402 - INFO - Failed to get response for sameple no = 12730 in validation set
+2025-03-08 21:22:21,545 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:21,546 - INFO - Failed to get response for sameple no = 12731 in validation set
+2025-03-08 21:22:22,011 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:22,012 - INFO - Failed to get response for sameple no = 12732 in validation set
+2025-03-08 21:22:22,257 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:22,257 - INFO - Failed to get response for sameple no = 12733 in validation set
+2025-03-08 21:22:22,470 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:22,471 - INFO - Failed to get response for sameple no = 12734 in validation set
+2025-03-08 21:22:22,639 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:22,640 - INFO - Failed to get response for sameple no = 12735 in validation set
+2025-03-08 21:22:22,950 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:22,951 - INFO - Failed to get response for sameple no = 12736 in validation set
+2025-03-08 21:22:23,163 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:23,164 - INFO - Failed to get response for sameple no = 12737 in validation set
+2025-03-08 21:22:23,351 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:23,352 - INFO - Failed to get response for sameple no = 12738 in validation set
+2025-03-08 21:22:23,551 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:23,552 - INFO - Failed to get response for sameple no = 12739 in validation set
+2025-03-08 21:22:23,824 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:23,824 - INFO - Failed to get response for sameple no = 12740 in validation set
+2025-03-08 21:22:23,954 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:23,955 - INFO - Failed to get response for sameple no = 12741 in validation set
+2025-03-08 21:22:24,148 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:24,149 - INFO - Failed to get response for sameple no = 12742 in validation set
+2025-03-08 21:22:24,348 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:24,348 - INFO - Failed to get response for sameple no = 12743 in validation set
+2025-03-08 21:22:24,504 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:24,505 - INFO - Failed to get response for sameple no = 12744 in validation set
+2025-03-08 21:22:24,669 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:24,670 - INFO - Failed to get response for sameple no = 12745 in validation set
+2025-03-08 21:22:24,839 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:24,840 - INFO - Failed to get response for sameple no = 12746 in validation set
+2025-03-08 21:22:24,979 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:24,980 - INFO - Failed to get response for sameple no = 12747 in validation set
+2025-03-08 21:22:25,144 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:25,145 - INFO - Failed to get response for sameple no = 12748 in validation set
+2025-03-08 21:22:25,281 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:25,281 - INFO - Failed to get response for sameple no = 12749 in validation set
+2025-03-08 21:22:25,467 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:25,468 - INFO - Failed to get response for sameple no = 12750 in validation set
+2025-03-08 21:22:25,600 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:25,602 - INFO - Failed to get response for sameple no = 12751 in validation set
+2025-03-08 21:22:25,775 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:25,775 - INFO - Failed to get response for sameple no = 12752 in validation set
+2025-03-08 21:22:26,239 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:26,240 - INFO - Failed to get response for sameple no = 12753 in validation set
+2025-03-08 21:22:26,433 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:26,434 - INFO - Failed to get response for sameple no = 12754 in validation set
+2025-03-08 21:22:26,729 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:26,730 - INFO - Failed to get response for sameple no = 12755 in validation set
+2025-03-08 21:22:26,941 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:26,942 - INFO - Failed to get response for sameple no = 12756 in validation set
+2025-03-08 21:22:27,096 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:27,097 - INFO - Failed to get response for sameple no = 12757 in validation set
+2025-03-08 21:22:27,486 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:27,486 - INFO - Failed to get response for sameple no = 12758 in validation set
+2025-03-08 21:22:28,768 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:28,769 - INFO - Failed to get response for sameple no = 12759 in validation set
+2025-03-08 21:22:29,676 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:29,677 - INFO - Failed to get response for sameple no = 12760 in validation set
+2025-03-08 21:22:30,127 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:30,127 - INFO - Failed to get response for sameple no = 12761 in validation set
+2025-03-08 21:22:30,394 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:30,395 - INFO - Failed to get response for sameple no = 12762 in validation set
+2025-03-08 21:22:30,591 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:30,592 - INFO - Failed to get response for sameple no = 12763 in validation set
+2025-03-08 21:22:30,852 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:30,853 - INFO - Failed to get response for sameple no = 12764 in validation set
+2025-03-08 21:22:31,041 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:31,041 - INFO - Failed to get response for sameple no = 12765 in validation set
+2025-03-08 21:22:31,323 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:31,323 - INFO - Failed to get response for sameple no = 12766 in validation set
+2025-03-08 21:22:31,591 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:31,592 - INFO - Failed to get response for sameple no = 12767 in validation set
+2025-03-08 21:22:31,726 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:31,728 - INFO - Failed to get response for sameple no = 12768 in validation set
+2025-03-08 21:22:32,256 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:32,256 - INFO - Failed to get response for sameple no = 12769 in validation set
+2025-03-08 21:22:32,400 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:32,401 - INFO - Failed to get response for sameple no = 12770 in validation set
+2025-03-08 21:22:32,793 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:32,794 - INFO - Failed to get response for sameple no = 12771 in validation set
+2025-03-08 21:22:33,031 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:33,032 - INFO - Failed to get response for sameple no = 12772 in validation set
+2025-03-08 21:22:33,269 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:33,269 - INFO - Failed to get response for sameple no = 12773 in validation set
+2025-03-08 21:22:33,392 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:33,393 - INFO - Failed to get response for sameple no = 12774 in validation set
+2025-03-08 21:22:33,612 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:33,613 - INFO - Failed to get response for sameple no = 12775 in validation set
+2025-03-08 21:22:33,864 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:33,865 - INFO - Failed to get response for sameple no = 12776 in validation set
+2025-03-08 21:22:34,079 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:34,080 - INFO - Failed to get response for sameple no = 12777 in validation set
+2025-03-08 21:22:34,282 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:34,282 - INFO - Failed to get response for sameple no = 12778 in validation set
+2025-03-08 21:22:34,455 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:34,455 - INFO - Failed to get response for sameple no = 12779 in validation set
+2025-03-08 21:22:34,624 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:34,625 - INFO - Failed to get response for sameple no = 12780 in validation set
+2025-03-08 21:22:34,828 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:34,829 - INFO - Failed to get response for sameple no = 12781 in validation set
+2025-03-08 21:22:35,062 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:35,063 - INFO - Failed to get response for sameple no = 12782 in validation set
+2025-03-08 21:22:35,342 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:35,344 - INFO - Failed to get response for sameple no = 12783 in validation set
+2025-03-08 21:22:35,487 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:35,488 - INFO - Failed to get response for sameple no = 12784 in validation set
+2025-03-08 21:22:35,651 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:35,652 - INFO - Failed to get response for sameple no = 12785 in validation set
+2025-03-08 21:22:35,826 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:35,827 - INFO - Failed to get response for sameple no = 12786 in validation set
+2025-03-08 21:22:35,970 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:35,971 - INFO - Failed to get response for sameple no = 12787 in validation set
+2025-03-08 21:22:36,127 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:36,128 - INFO - Failed to get response for sameple no = 12788 in validation set
+2025-03-08 21:22:36,276 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:36,277 - INFO - Failed to get response for sameple no = 12789 in validation set
+2025-03-08 21:22:36,484 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:36,485 - INFO - Failed to get response for sameple no = 12790 in validation set
+2025-03-08 21:22:36,637 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:36,638 - INFO - Failed to get response for sameple no = 12791 in validation set
+2025-03-08 21:22:36,852 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:36,853 - INFO - Failed to get response for sameple no = 12792 in validation set
+2025-03-08 21:22:37,148 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:37,149 - INFO - Failed to get response for sameple no = 12793 in validation set
+2025-03-08 21:22:37,267 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:37,267 - INFO - Failed to get response for sameple no = 12794 in validation set
+2025-03-08 21:22:37,458 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:37,459 - INFO - Failed to get response for sameple no = 12795 in validation set
+2025-03-08 21:22:37,583 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:37,584 - INFO - Failed to get response for sameple no = 12796 in validation set
+2025-03-08 21:22:37,750 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:37,752 - INFO - Failed to get response for sameple no = 12797 in validation set
+2025-03-08 21:22:37,953 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:37,954 - INFO - Failed to get response for sameple no = 12798 in validation set
+2025-03-08 21:22:38,079 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:38,080 - INFO - Failed to get response for sameple no = 12799 in validation set
+2025-03-08 21:22:38,473 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:38,474 - INFO - Failed to get response for sameple no = 12800 in validation set
+2025-03-08 21:22:38,608 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:38,608 - INFO - Failed to get response for sameple no = 12801 in validation set
+2025-03-08 21:22:38,731 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:38,732 - INFO - Failed to get response for sameple no = 12802 in validation set
+2025-03-08 21:22:38,922 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:38,923 - INFO - Failed to get response for sameple no = 12803 in validation set
+2025-03-08 21:22:39,148 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:39,149 - INFO - Failed to get response for sameple no = 12804 in validation set
+2025-03-08 21:22:39,325 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:39,326 - INFO - Failed to get response for sameple no = 12805 in validation set
+2025-03-08 21:22:39,448 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:39,449 - INFO - Failed to get response for sameple no = 12806 in validation set
+2025-03-08 21:22:39,577 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:39,578 - INFO - Failed to get response for sameple no = 12807 in validation set
+2025-03-08 21:22:39,721 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:39,722 - INFO - Failed to get response for sameple no = 12808 in validation set
+2025-03-08 21:22:39,839 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:39,840 - INFO - Failed to get response for sameple no = 12809 in validation set
+2025-03-08 21:22:39,999 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,000 - INFO - Failed to get response for sameple no = 12810 in validation set
+2025-03-08 21:22:40,169 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,170 - INFO - Failed to get response for sameple no = 12811 in validation set
+2025-03-08 21:22:40,312 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,313 - INFO - Failed to get response for sameple no = 12812 in validation set
+2025-03-08 21:22:40,438 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,439 - INFO - Failed to get response for sameple no = 12813 in validation set
+2025-03-08 21:22:40,557 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,557 - INFO - Failed to get response for sameple no = 12814 in validation set
+2025-03-08 21:22:40,686 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,687 - INFO - Failed to get response for sameple no = 12815 in validation set
+2025-03-08 21:22:40,805 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,806 - INFO - Failed to get response for sameple no = 12816 in validation set
+2025-03-08 21:22:40,925 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:40,926 - INFO - Failed to get response for sameple no = 12817 in validation set
+2025-03-08 21:22:41,041 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:41,042 - INFO - Failed to get response for sameple no = 12818 in validation set
+2025-03-08 21:22:41,170 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:41,171 - INFO - Failed to get response for sameple no = 12819 in validation set
+2025-03-08 21:22:41,361 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:41,361 - INFO - Failed to get response for sameple no = 12820 in validation set
+2025-03-08 21:22:41,484 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:41,486 - INFO - Failed to get response for sameple no = 12821 in validation set
+2025-03-08 21:22:41,661 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:41,662 - INFO - Failed to get response for sameple no = 12822 in validation set
+2025-03-08 21:22:42,049 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:42,052 - INFO - Failed to get response for sameple no = 12823 in validation set
+2025-03-08 21:22:42,176 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:42,176 - INFO - Failed to get response for sameple no = 12824 in validation set
+2025-03-08 21:22:42,315 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:42,316 - INFO - Failed to get response for sameple no = 12825 in validation set
+2025-03-08 21:22:42,459 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:42,460 - INFO - Failed to get response for sameple no = 12826 in validation set
+2025-03-08 21:22:42,591 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:42,592 - INFO - Failed to get response for sameple no = 12827 in validation set
+2025-03-08 21:22:42,738 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:42,739 - INFO - Failed to get response for sameple no = 12828 in validation set
+2025-03-08 21:22:43,098 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:43,099 - INFO - Failed to get response for sameple no = 12829 in validation set
+2025-03-08 21:22:43,243 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:43,244 - INFO - Failed to get response for sameple no = 12830 in validation set
+2025-03-08 21:22:43,411 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:43,412 - INFO - Failed to get response for sameple no = 12831 in validation set
+2025-03-08 21:22:43,692 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:43,693 - INFO - Failed to get response for sameple no = 12832 in validation set
+2025-03-08 21:22:43,804 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:43,805 - INFO - Failed to get response for sameple no = 12833 in validation set
+2025-03-08 21:22:43,924 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:43,925 - INFO - Failed to get response for sameple no = 12834 in validation set
+2025-03-08 21:22:44,069 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:44,070 - INFO - Failed to get response for sameple no = 12835 in validation set
+2025-03-08 21:22:44,189 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:44,189 - INFO - Failed to get response for sameple no = 12836 in validation set
+2025-03-08 21:22:44,345 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:44,346 - INFO - Failed to get response for sameple no = 12837 in validation set
+2025-03-08 21:22:44,505 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:44,505 - INFO - Failed to get response for sameple no = 12838 in validation set
+2025-03-08 21:22:44,668 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:44,668 - INFO - Failed to get response for sameple no = 12839 in validation set
+2025-03-08 21:22:44,817 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:44,817 - INFO - Failed to get response for sameple no = 12840 in validation set
+2025-03-08 21:22:44,933 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:44,934 - INFO - Failed to get response for sameple no = 12841 in validation set
+2025-03-08 21:22:45,068 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:45,069 - INFO - Failed to get response for sameple no = 12842 in validation set
+2025-03-08 21:22:45,230 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:45,232 - INFO - Failed to get response for sameple no = 12843 in validation set
+2025-03-08 21:22:45,368 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:45,369 - INFO - Failed to get response for sameple no = 12844 in validation set
+2025-03-08 21:22:45,526 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:45,527 - INFO - Failed to get response for sameple no = 12845 in validation set
+2025-03-08 21:22:45,644 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:45,645 - INFO - Failed to get response for sameple no = 12846 in validation set
+2025-03-08 21:22:45,793 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:45,793 - INFO - Failed to get response for sameple no = 12847 in validation set
+2025-03-08 21:22:45,940 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:45,941 - INFO - Failed to get response for sameple no = 12848 in validation set
+2025-03-08 21:22:46,074 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:46,074 - INFO - Failed to get response for sameple no = 12849 in validation set
+2025-03-08 21:22:46,202 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:46,202 - INFO - Failed to get response for sameple no = 12850 in validation set
+2025-03-08 21:22:46,317 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:46,318 - INFO - Failed to get response for sameple no = 12851 in validation set
+2025-03-08 21:22:46,452 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:46,452 - INFO - Failed to get response for sameple no = 12852 in validation set
+2025-03-08 21:22:46,566 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:46,567 - INFO - Failed to get response for sameple no = 12853 in validation set
+2025-03-08 21:22:46,675 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:46,676 - INFO - Failed to get response for sameple no = 12854 in validation set
+2025-03-08 21:22:46,796 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:46,797 - INFO - Failed to get response for sameple no = 12855 in validation set
+2025-03-08 21:22:47,102 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:47,103 - INFO - Failed to get response for sameple no = 12856 in validation set
+2025-03-08 21:22:47,474 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:47,475 - INFO - Failed to get response for sameple no = 12857 in validation set
+2025-03-08 21:22:47,625 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:47,625 - INFO - Failed to get response for sameple no = 12858 in validation set
+2025-03-08 21:22:47,832 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:47,833 - INFO - Failed to get response for sameple no = 12859 in validation set
+2025-03-08 21:22:47,946 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:47,947 - INFO - Failed to get response for sameple no = 12860 in validation set
+2025-03-08 21:22:48,088 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,089 - INFO - Failed to get response for sameple no = 12861 in validation set
+2025-03-08 21:22:48,200 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,200 - INFO - Failed to get response for sameple no = 12862 in validation set
+2025-03-08 21:22:48,320 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,320 - INFO - Failed to get response for sameple no = 12863 in validation set
+2025-03-08 21:22:48,432 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,433 - INFO - Failed to get response for sameple no = 12864 in validation set
+2025-03-08 21:22:48,594 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,595 - INFO - Failed to get response for sameple no = 12865 in validation set
+2025-03-08 21:22:48,715 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,717 - INFO - Failed to get response for sameple no = 12866 in validation set
+2025-03-08 21:22:48,843 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,844 - INFO - Failed to get response for sameple no = 12867 in validation set
+2025-03-08 21:22:48,987 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:48,988 - INFO - Failed to get response for sameple no = 12868 in validation set
+2025-03-08 21:22:49,133 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:49,133 - INFO - Failed to get response for sameple no = 12869 in validation set
+2025-03-08 21:22:49,245 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:49,246 - INFO - Failed to get response for sameple no = 12870 in validation set
+2025-03-08 21:22:49,362 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:49,362 - INFO - Failed to get response for sameple no = 12871 in validation set
+2025-03-08 21:22:49,470 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:49,471 - INFO - Failed to get response for sameple no = 12872 in validation set
+2025-03-08 21:22:49,581 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:49,584 - INFO - Failed to get response for sameple no = 12873 in validation set
+2025-03-08 21:22:49,718 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:49,719 - INFO - Failed to get response for sameple no = 12874 in validation set
+2025-03-08 21:22:49,873 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:49,874 - INFO - Failed to get response for sameple no = 12875 in validation set
+2025-03-08 21:22:50,011 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:50,011 - INFO - Failed to get response for sameple no = 12876 in validation set
+2025-03-08 21:22:50,252 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:50,253 - INFO - Failed to get response for sameple no = 12877 in validation set
+2025-03-08 21:22:50,492 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:50,492 - INFO - Failed to get response for sameple no = 12878 in validation set
+2025-03-08 21:22:50,620 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:50,621 - INFO - Failed to get response for sameple no = 12879 in validation set
+2025-03-08 21:22:50,781 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:50,781 - INFO - Failed to get response for sameple no = 12880 in validation set
+2025-03-08 21:22:50,952 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:50,953 - INFO - Failed to get response for sameple no = 12881 in validation set
+2025-03-08 21:22:51,091 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:51,092 - INFO - Failed to get response for sameple no = 12882 in validation set
+2025-03-08 21:22:51,286 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:51,287 - INFO - Failed to get response for sameple no = 12883 in validation set
+2025-03-08 21:22:51,490 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:51,491 - INFO - Failed to get response for sameple no = 12884 in validation set
+2025-03-08 21:22:51,725 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:51,725 - INFO - Failed to get response for sameple no = 12885 in validation set
+2025-03-08 21:22:51,889 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:51,889 - INFO - Failed to get response for sameple no = 12886 in validation set
+2025-03-08 21:22:52,165 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:52,167 - INFO - Failed to get response for sameple no = 12887 in validation set
+2025-03-08 21:22:52,345 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:52,346 - INFO - Failed to get response for sameple no = 12888 in validation set
+2025-03-08 21:22:52,526 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:52,526 - INFO - Failed to get response for sameple no = 12889 in validation set
+2025-03-08 21:22:52,729 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:52,730 - INFO - Failed to get response for sameple no = 12890 in validation set
+2025-03-08 21:22:52,946 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:52,948 - INFO - Failed to get response for sameple no = 12891 in validation set
+2025-03-08 21:22:53,251 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:53,252 - INFO - Failed to get response for sameple no = 12892 in validation set
+2025-03-08 21:22:53,728 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:53,728 - INFO - Failed to get response for sameple no = 12893 in validation set
+2025-03-08 21:22:53,932 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:53,933 - INFO - Failed to get response for sameple no = 12894 in validation set
+2025-03-08 21:22:54,072 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:54,072 - INFO - Failed to get response for sameple no = 12895 in validation set
+2025-03-08 21:22:54,236 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:54,238 - INFO - Failed to get response for sameple no = 12896 in validation set
+2025-03-08 21:22:54,361 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:54,362 - INFO - Failed to get response for sameple no = 12897 in validation set
+2025-03-08 21:22:54,501 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:54,502 - INFO - Failed to get response for sameple no = 12898 in validation set
+2025-03-08 21:22:54,663 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:54,664 - INFO - Failed to get response for sameple no = 12899 in validation set
+2025-03-08 21:22:54,779 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:54,780 - INFO - Failed to get response for sameple no = 12900 in validation set
+2025-03-08 21:22:54,922 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:54,923 - INFO - Failed to get response for sameple no = 12901 in validation set
+2025-03-08 21:22:55,063 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:55,064 - INFO - Failed to get response for sameple no = 12902 in validation set
+2025-03-08 21:22:55,251 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:55,252 - INFO - Failed to get response for sameple no = 12903 in validation set
+2025-03-08 21:22:55,369 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:55,370 - INFO - Failed to get response for sameple no = 12904 in validation set
+2025-03-08 21:22:55,507 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:55,507 - INFO - Failed to get response for sameple no = 12905 in validation set
+2025-03-08 21:22:55,678 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:55,679 - INFO - Failed to get response for sameple no = 12906 in validation set
+2025-03-08 21:22:55,798 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:55,799 - INFO - Failed to get response for sameple no = 12907 in validation set
+2025-03-08 21:22:55,922 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:55,923 - INFO - Failed to get response for sameple no = 12908 in validation set
+2025-03-08 21:22:56,064 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:56,065 - INFO - Failed to get response for sameple no = 12909 in validation set
+2025-03-08 21:22:56,188 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:56,189 - INFO - Failed to get response for sameple no = 12910 in validation set
+2025-03-08 21:22:56,360 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:56,361 - INFO - Failed to get response for sameple no = 12911 in validation set
+2025-03-08 21:22:56,588 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:56,589 - INFO - Failed to get response for sameple no = 12912 in validation set
+2025-03-08 21:22:56,722 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:56,722 - INFO - Failed to get response for sameple no = 12913 in validation set
+2025-03-08 21:22:56,949 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:56,950 - INFO - Failed to get response for sameple no = 12914 in validation set
+2025-03-08 21:22:57,077 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:57,078 - INFO - Failed to get response for sameple no = 12915 in validation set
+2025-03-08 21:22:57,196 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:57,197 - INFO - Failed to get response for sameple no = 12916 in validation set
+2025-03-08 21:22:57,326 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:57,327 - INFO - Failed to get response for sameple no = 12917 in validation set
+2025-03-08 21:22:57,446 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:57,446 - INFO - Failed to get response for sameple no = 12918 in validation set
+2025-03-08 21:22:57,578 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:57,579 - INFO - Failed to get response for sameple no = 12919 in validation set
+2025-03-08 21:22:57,752 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:57,752 - INFO - Failed to get response for sameple no = 12920 in validation set
+2025-03-08 21:22:57,970 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:57,971 - INFO - Failed to get response for sameple no = 12921 in validation set
+2025-03-08 21:22:58,101 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:58,103 - INFO - Failed to get response for sameple no = 12922 in validation set
+2025-03-08 21:22:58,364 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:58,366 - INFO - Failed to get response for sameple no = 12923 in validation set
+2025-03-08 21:22:58,664 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:58,665 - INFO - Failed to get response for sameple no = 12924 in validation set
+2025-03-08 21:22:58,936 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:58,937 - INFO - Failed to get response for sameple no = 12925 in validation set
+2025-03-08 21:22:59,090 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:59,090 - INFO - Failed to get response for sameple no = 12926 in validation set
+2025-03-08 21:22:59,287 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:59,288 - INFO - Failed to get response for sameple no = 12927 in validation set
+2025-03-08 21:22:59,503 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:59,503 - INFO - Failed to get response for sameple no = 12928 in validation set
+2025-03-08 21:22:59,726 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:59,726 - INFO - Failed to get response for sameple no = 12929 in validation set
+2025-03-08 21:22:59,972 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:22:59,972 - INFO - Failed to get response for sameple no = 12930 in validation set
+2025-03-08 21:23:00,186 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:00,187 - INFO - Failed to get response for sameple no = 12931 in validation set
+2025-03-08 21:23:00,426 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:00,427 - INFO - Failed to get response for sameple no = 12932 in validation set
+2025-03-08 21:23:00,719 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:00,720 - INFO - Failed to get response for sameple no = 12933 in validation set
+2025-03-08 21:23:00,985 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:00,986 - INFO - Failed to get response for sameple no = 12934 in validation set
+2025-03-08 21:23:01,126 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:01,127 - INFO - Failed to get response for sameple no = 12935 in validation set
+2025-03-08 21:23:01,315 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:01,316 - INFO - Failed to get response for sameple no = 12936 in validation set
+2025-03-08 21:23:01,435 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:01,435 - INFO - Failed to get response for sameple no = 12937 in validation set
+2025-03-08 21:23:01,683 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:01,684 - INFO - Failed to get response for sameple no = 12938 in validation set
+2025-03-08 21:23:01,917 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:01,917 - INFO - Failed to get response for sameple no = 12939 in validation set
+2025-03-08 21:23:02,150 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:02,152 - INFO - Failed to get response for sameple no = 12940 in validation set
+2025-03-08 21:23:02,341 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:02,342 - INFO - Failed to get response for sameple no = 12941 in validation set
+2025-03-08 21:23:02,541 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:02,541 - INFO - Failed to get response for sameple no = 12942 in validation set
+2025-03-08 21:23:03,235 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:03,235 - INFO - Failed to get response for sameple no = 12943 in validation set
+2025-03-08 21:23:03,453 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:03,453 - INFO - Failed to get response for sameple no = 12944 in validation set
+2025-03-08 21:23:03,618 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:03,618 - INFO - Failed to get response for sameple no = 12945 in validation set
+2025-03-08 21:23:04,064 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:04,065 - INFO - Failed to get response for sameple no = 12946 in validation set
+2025-03-08 21:23:04,254 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:04,254 - INFO - Failed to get response for sameple no = 12947 in validation set
+2025-03-08 21:23:04,418 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:04,418 - INFO - Failed to get response for sameple no = 12948 in validation set
+2025-03-08 21:23:04,578 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:04,579 - INFO - Failed to get response for sameple no = 12949 in validation set
+2025-03-08 21:23:04,787 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:04,788 - INFO - Failed to get response for sameple no = 12950 in validation set
+2025-03-08 21:23:04,975 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:04,975 - INFO - Failed to get response for sameple no = 12951 in validation set
+2025-03-08 21:23:05,220 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:05,221 - INFO - Failed to get response for sameple no = 12952 in validation set
+2025-03-08 21:23:05,447 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:05,448 - INFO - Failed to get response for sameple no = 12953 in validation set
+2025-03-08 21:23:05,733 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:05,734 - INFO - Failed to get response for sameple no = 12954 in validation set
+2025-03-08 21:23:05,885 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:05,886 - INFO - Failed to get response for sameple no = 12955 in validation set
+2025-03-08 21:23:07,475 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:07,476 - INFO - Failed to get response for sameple no = 12956 in validation set
+2025-03-08 21:23:08,403 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:08,403 - INFO - Failed to get response for sameple no = 12957 in validation set
+2025-03-08 21:23:09,247 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:09,247 - INFO - Failed to get response for sameple no = 12958 in validation set
+2025-03-08 21:23:09,520 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:09,521 - INFO - Failed to get response for sameple no = 12959 in validation set
+2025-03-08 21:23:09,870 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:09,870 - INFO - Failed to get response for sameple no = 12960 in validation set
+2025-03-08 21:23:10,456 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:10,456 - INFO - Failed to get response for sameple no = 12961 in validation set
+2025-03-08 21:23:10,590 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:10,590 - INFO - Failed to get response for sameple no = 12962 in validation set
+2025-03-08 21:23:10,755 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:10,755 - INFO - Failed to get response for sameple no = 12963 in validation set
+2025-03-08 21:23:11,006 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:11,007 - INFO - Failed to get response for sameple no = 12964 in validation set
+2025-03-08 21:23:11,350 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:11,351 - INFO - Failed to get response for sameple no = 12965 in validation set
+2025-03-08 21:23:11,918 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:11,918 - INFO - Failed to get response for sameple no = 12966 in validation set
+2025-03-08 21:23:12,280 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:12,281 - INFO - Failed to get response for sameple no = 12967 in validation set
+2025-03-08 21:23:12,585 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:12,586 - INFO - Failed to get response for sameple no = 12968 in validation set
+2025-03-08 21:23:12,940 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:12,941 - INFO - Failed to get response for sameple no = 12969 in validation set
+2025-03-08 21:23:13,435 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:13,436 - INFO - Failed to get response for sameple no = 12970 in validation set
+2025-03-08 21:23:13,719 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:13,720 - INFO - Failed to get response for sameple no = 12971 in validation set
+2025-03-08 21:23:14,439 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:14,440 - INFO - Failed to get response for sameple no = 12972 in validation set
+2025-03-08 21:23:14,624 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:14,624 - INFO - Failed to get response for sameple no = 12973 in validation set
+2025-03-08 21:23:14,827 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:14,828 - INFO - Failed to get response for sameple no = 12974 in validation set
+2025-03-08 21:23:15,046 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:15,048 - INFO - Failed to get response for sameple no = 12975 in validation set
+2025-03-08 21:23:15,272 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:15,273 - INFO - Failed to get response for sameple no = 12976 in validation set
+2025-03-08 21:23:15,504 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:15,504 - INFO - Failed to get response for sameple no = 12977 in validation set
+2025-03-08 21:23:15,752 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:15,753 - INFO - Failed to get response for sameple no = 12978 in validation set
+2025-03-08 21:23:16,177 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:16,178 - INFO - Failed to get response for sameple no = 12979 in validation set
+2025-03-08 21:23:16,762 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:16,763 - INFO - Failed to get response for sameple no = 12980 in validation set
+2025-03-08 21:23:17,280 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:17,281 - INFO - Failed to get response for sameple no = 12981 in validation set
+2025-03-08 21:23:17,551 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:17,552 - INFO - Failed to get response for sameple no = 12982 in validation set
+2025-03-08 21:23:17,931 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:17,931 - INFO - Failed to get response for sameple no = 12983 in validation set
+2025-03-08 21:23:18,327 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:18,329 - INFO - Failed to get response for sameple no = 12984 in validation set
+2025-03-08 21:23:18,730 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:18,731 - INFO - Failed to get response for sameple no = 12985 in validation set
+2025-03-08 21:23:18,986 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:18,987 - INFO - Failed to get response for sameple no = 12986 in validation set
+2025-03-08 21:23:19,416 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:19,419 - INFO - Failed to get response for sameple no = 12987 in validation set
+2025-03-08 21:23:19,776 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:19,776 - INFO - Failed to get response for sameple no = 12988 in validation set
+2025-03-08 21:23:20,268 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:20,268 - INFO - Failed to get response for sameple no = 12989 in validation set
+2025-03-08 21:23:21,400 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:21,401 - INFO - Failed to get response for sameple no = 12990 in validation set
+2025-03-08 21:23:21,809 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:21,810 - INFO - Failed to get response for sameple no = 12991 in validation set
+2025-03-08 21:23:22,752 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:22,752 - INFO - Failed to get response for sameple no = 12992 in validation set
+2025-03-08 21:23:23,346 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:23,347 - INFO - Failed to get response for sameple no = 12993 in validation set
+2025-03-08 21:23:24,169 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:24,169 - INFO - Failed to get response for sameple no = 12994 in validation set
+2025-03-08 21:23:24,696 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:24,698 - INFO - Failed to get response for sameple no = 12995 in validation set
+2025-03-08 21:23:25,411 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:25,413 - INFO - Failed to get response for sameple no = 12996 in validation set
+2025-03-08 21:23:26,210 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:26,211 - INFO - Failed to get response for sameple no = 12997 in validation set
+2025-03-08 21:23:26,454 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:26,455 - INFO - Failed to get response for sameple no = 12998 in validation set
+2025-03-08 21:23:27,037 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:27,038 - INFO - Failed to get response for sameple no = 12999 in validation set
+2025-03-08 21:23:27,461 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1000)')]
+2025-03-08 21:23:27,462 - INFO - Failed to get response for sameple no = 13000 in validation set

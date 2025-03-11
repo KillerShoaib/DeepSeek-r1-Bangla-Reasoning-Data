@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-6.11.0-17-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-03-05T03:13:08.124557Z",
+  "args":  [
+    "--set_name",
+    "validation",
+    "--start_index",
+    "7623",
+    "--end_index",
+    "8001",
+    "--run_name",
+    "validation_7501_to_8000_v2"
+  ],
+  "program":  "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/Reasoning_collection.py",
+  "codePath":  "Reasoning_collection.py",
+  "git":  {
+    "remote":  "git@github.com:KillerShoaib/DeepSeek-r1-Bangla-Reasoning-Data.git",
+    "commit":  "9e6bd51a2d545750ffe69567724c92d77a90e552"
+  },
+  "email":  "sh.shoaib8@gmail.com",
+  "root":  "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data",
+  "host":  "shoaiboffice-X555LAB",
+  "executable":  "/home/shoaiboffice/Personal/Personal projects/Deepseek-r1-bangla-distill-dataset/code/DeepSeek-r1-Bangla-Reasoning-Data/venv/bin/python",
+  "codePathLocal":  "Reasoning_collection.py",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "249792131072",
+      "used":  "76430835712"
+    }
+  },
+  "memory":  {
+    "total":  "12431679488"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  4
+  }
+}

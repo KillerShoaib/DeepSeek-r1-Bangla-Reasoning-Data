@@ -1,0 +1,397 @@
+2025-03-09 09:53:09,081 - INFO - Total token for sample 13001 in validation = 487
+2025-03-09 09:53:40,602 - INFO - Total token for sample 13002 in validation = 773
+2025-03-09 09:53:48,171 - INFO - Total token for sample 13003 in validation = 379
+2025-03-09 09:54:12,432 - INFO - Total token for sample 13004 in validation = 577
+2025-03-09 09:54:39,181 - INFO - Total token for sample 13005 in validation = 503
+2025-03-09 09:55:16,164 - INFO - Total token for sample 13006 in validation = 943
+2025-03-09 09:55:49,378 - INFO - Total token for sample 13007 in validation = 499
+2025-03-09 09:56:14,898 - INFO - Total token for sample 13008 in validation = 620
+2025-03-09 09:57:37,668 - INFO - Total token for sample 13009 in validation = 1581
+2025-03-09 09:58:11,836 - INFO - Total token for sample 13010 in validation = 514
+2025-03-09 10:00:27,204 - INFO - Total token for sample 13011 in validation = 1504
+2025-03-09 10:00:36,248 - INFO - Total token for sample 13012 in validation = 659
+2025-03-09 10:01:21,881 - INFO - Total token for sample 13013 in validation = 764
+2025-03-09 10:01:47,693 - INFO - Total token for sample 13014 in validation = 513
+2025-03-09 10:02:33,651 - INFO - Total token for sample 13015 in validation = 960
+2025-03-09 10:03:24,061 - INFO - Total token for sample 13016 in validation = 716
+2025-03-09 10:04:27,732 - INFO - Total token for sample 13017 in validation = 1319
+2025-03-09 10:04:58,781 - INFO - Total token for sample 13018 in validation = 485
+2025-03-09 10:05:06,564 - INFO - Total token for sample 13019 in validation = 695
+2025-03-09 10:05:23,403 - INFO - Total token for sample 13020 in validation = 451
+2025-03-09 10:05:59,701 - INFO - Total token for sample 13021 in validation = 799
+2025-03-09 10:06:23,380 - INFO - Total token for sample 13022 in validation = 427
+2025-03-09 10:06:49,332 - INFO - Total token for sample 13023 in validation = 576
+2025-03-09 10:07:45,894 - INFO - Total token for sample 13024 in validation = 644
+2025-03-09 10:08:38,539 - INFO - Total token for sample 13025 in validation = 964
+2025-03-09 10:08:54,030 - INFO - Total token for sample 13026 in validation = 337
+2025-03-09 10:13:54,276 - INFO - Timeout occurred skipping this sample
+2025-03-09 10:14:33,658 - INFO - Total token for sample 13028 in validation = 651
+2025-03-09 10:14:47,912 - INFO - Total token for sample 13029 in validation = 435
+2025-03-09 10:16:42,048 - INFO - Total token for sample 13030 in validation = 1527
+2025-03-09 10:18:45,767 - INFO - Total token for sample 13031 in validation = 2566
+2025-03-09 10:18:53,646 - INFO - Total token for sample 13032 in validation = 664
+2025-03-09 10:19:28,193 - INFO - Total token for sample 13033 in validation = 671
+2025-03-09 10:19:58,878 - INFO - Total token for sample 13034 in validation = 733
+2025-03-09 10:21:21,352 - INFO - Total token for sample 13035 in validation = 1112
+2025-03-09 10:21:22,601 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-09 10:21:22,608 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-09 10:21:22,613 - INFO - Failed to get response for sameple no = 13036 in validation set
+2025-03-09 10:21:45,548 - INFO - Total token for sample 13037 in validation = 598
+2025-03-09 10:21:46,576 - INFO - Error occurred: 'NoneType' object has no attribute 'group' saving to the outlier file
+2025-03-09 10:21:46,580 - INFO - Error occurred: 'NoneType' object is not subscriptable
+2025-03-09 10:21:46,580 - INFO - Failed to get response for sameple no = 13038 in validation set
+2025-03-09 10:23:03,509 - INFO - Total token for sample 13039 in validation = 1293
+2025-03-09 10:23:39,890 - INFO - Total token for sample 13040 in validation = 579
+2025-03-09 10:24:23,892 - INFO - Total token for sample 13041 in validation = 904
+2025-03-09 10:24:43,802 - INFO - Total token for sample 13042 in validation = 519
+2025-03-09 10:27:51,088 - INFO - Total token for sample 13043 in validation = 4062
+2025-03-09 10:28:18,689 - INFO - Total token for sample 13044 in validation = 787
+2025-03-09 10:29:20,907 - INFO - Total token for sample 13045 in validation = 1444
+2025-03-09 10:29:51,563 - INFO - Total token for sample 13046 in validation = 469
+2025-03-09 10:30:13,024 - INFO - Total token for sample 13047 in validation = 399
+2025-03-09 10:30:28,038 - INFO - Total token for sample 13048 in validation = 454
+2025-03-09 10:31:02,851 - INFO - Total token for sample 13049 in validation = 586
+2025-03-09 10:31:09,600 - INFO - Total token for sample 13050 in validation = 577
+2025-03-09 10:31:43,460 - INFO - Total token for sample 13051 in validation = 584
+2025-03-09 10:32:10,501 - INFO - Total token for sample 13052 in validation = 556
+2025-03-09 10:32:36,387 - INFO - Total token for sample 13053 in validation = 475
+2025-03-09 10:33:04,664 - INFO - Total token for sample 13054 in validation = 464
+2025-03-09 10:33:21,771 - INFO - Total token for sample 13055 in validation = 436
+2025-03-09 10:34:09,581 - INFO - Total token for sample 13056 in validation = 1131
+2025-03-09 10:34:17,886 - INFO - Total token for sample 13057 in validation = 292
+2025-03-09 10:34:45,673 - INFO - Total token for sample 13058 in validation = 533
+2025-03-09 10:35:38,490 - INFO - Total token for sample 13059 in validation = 1252
+2025-03-09 10:36:50,506 - INFO - Total token for sample 13060 in validation = 597
+2025-03-09 10:37:45,900 - INFO - Total token for sample 13061 in validation = 743
+2025-03-09 10:38:01,318 - INFO - Total token for sample 13062 in validation = 429
+2025-03-09 10:38:18,097 - INFO - Total token for sample 13063 in validation = 427
+2025-03-09 10:38:37,926 - INFO - Total token for sample 13064 in validation = 479
+2025-03-09 10:39:00,757 - INFO - Total token for sample 13065 in validation = 639
+2025-03-09 10:39:29,600 - INFO - Total token for sample 13066 in validation = 617
+2025-03-09 10:39:56,010 - INFO - Total token for sample 13067 in validation = 520
+2025-03-09 10:40:29,757 - INFO - Total token for sample 13068 in validation = 715
+2025-03-09 10:41:26,816 - INFO - Total token for sample 13069 in validation = 974
+2025-03-09 10:41:50,897 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:41:51,113 - INFO - Failed to get response for sameple no = 13070 in validation set
+2025-03-09 10:43:22,019 - INFO - Total token for sample 13071 in validation = 1552
+2025-03-09 10:43:38,413 - INFO - Total token for sample 13072 in validation = 486
+2025-03-09 10:43:55,243 - INFO - Total token for sample 13073 in validation = 498
+2025-03-09 10:45:17,088 - INFO - Total token for sample 13074 in validation = 883
+2025-03-09 10:45:42,360 - INFO - Total token for sample 13075 in validation = 679
+2025-03-09 10:46:28,061 - INFO - Total token for sample 13076 in validation = 584
+2025-03-09 10:46:36,462 - INFO - Total token for sample 13077 in validation = 588
+2025-03-09 10:47:24,935 - INFO - Total token for sample 13078 in validation = 886
+2025-03-09 10:47:53,385 - INFO - Total token for sample 13079 in validation = 660
+2025-03-09 10:52:16,678 - INFO - Total token for sample 13080 in validation = 4354
+2025-03-09 10:52:53,873 - INFO - Total token for sample 13081 in validation = 801
+2025-03-09 10:53:17,942 - INFO - Total token for sample 13082 in validation = 637
+2025-03-09 10:53:37,597 - INFO - Total token for sample 13083 in validation = 487
+2025-03-09 10:53:37,624 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,625 - INFO - Failed to get response for sameple no = 13084 in validation set
+2025-03-09 10:53:37,629 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,630 - INFO - Failed to get response for sameple no = 13085 in validation set
+2025-03-09 10:53:37,637 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,637 - INFO - Failed to get response for sameple no = 13086 in validation set
+2025-03-09 10:53:37,649 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,650 - INFO - Failed to get response for sameple no = 13087 in validation set
+2025-03-09 10:53:37,660 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,660 - INFO - Failed to get response for sameple no = 13088 in validation set
+2025-03-09 10:53:37,663 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,663 - INFO - Failed to get response for sameple no = 13089 in validation set
+2025-03-09 10:53:37,665 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,665 - INFO - Failed to get response for sameple no = 13090 in validation set
+2025-03-09 10:53:37,669 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,670 - INFO - Failed to get response for sameple no = 13091 in validation set
+2025-03-09 10:53:37,674 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,674 - INFO - Failed to get response for sameple no = 13092 in validation set
+2025-03-09 10:53:37,679 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,679 - INFO - Failed to get response for sameple no = 13093 in validation set
+2025-03-09 10:53:37,681 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,681 - INFO - Failed to get response for sameple no = 13094 in validation set
+2025-03-09 10:53:37,683 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,683 - INFO - Failed to get response for sameple no = 13095 in validation set
+2025-03-09 10:53:37,686 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,687 - INFO - Failed to get response for sameple no = 13096 in validation set
+2025-03-09 10:53:37,689 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,689 - INFO - Failed to get response for sameple no = 13097 in validation set
+2025-03-09 10:53:37,692 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:37,692 - INFO - Failed to get response for sameple no = 13098 in validation set
+2025-03-09 10:53:38,232 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,235 - INFO - Failed to get response for sameple no = 13099 in validation set
+2025-03-09 10:53:38,237 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,237 - INFO - Failed to get response for sameple no = 13100 in validation set
+2025-03-09 10:53:38,242 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,243 - INFO - Failed to get response for sameple no = 13101 in validation set
+2025-03-09 10:53:38,244 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,245 - INFO - Failed to get response for sameple no = 13102 in validation set
+2025-03-09 10:53:38,246 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,246 - INFO - Failed to get response for sameple no = 13103 in validation set
+2025-03-09 10:53:38,247 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,248 - INFO - Failed to get response for sameple no = 13104 in validation set
+2025-03-09 10:53:38,250 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,251 - INFO - Failed to get response for sameple no = 13105 in validation set
+2025-03-09 10:53:38,254 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,255 - INFO - Failed to get response for sameple no = 13106 in validation set
+2025-03-09 10:53:38,259 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,260 - INFO - Failed to get response for sameple no = 13107 in validation set
+2025-03-09 10:53:38,262 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,272 - INFO - Failed to get response for sameple no = 13108 in validation set
+2025-03-09 10:53:38,275 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,275 - INFO - Failed to get response for sameple no = 13109 in validation set
+2025-03-09 10:53:38,277 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,278 - INFO - Failed to get response for sameple no = 13110 in validation set
+2025-03-09 10:53:38,279 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,280 - INFO - Failed to get response for sameple no = 13111 in validation set
+2025-03-09 10:53:38,281 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,281 - INFO - Failed to get response for sameple no = 13112 in validation set
+2025-03-09 10:53:38,283 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,283 - INFO - Failed to get response for sameple no = 13113 in validation set
+2025-03-09 10:53:38,287 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,287 - INFO - Failed to get response for sameple no = 13114 in validation set
+2025-03-09 10:53:38,292 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,295 - INFO - Failed to get response for sameple no = 13115 in validation set
+2025-03-09 10:53:38,300 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,301 - INFO - Failed to get response for sameple no = 13116 in validation set
+2025-03-09 10:53:38,304 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,305 - INFO - Failed to get response for sameple no = 13117 in validation set
+2025-03-09 10:53:38,309 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,310 - INFO - Failed to get response for sameple no = 13118 in validation set
+2025-03-09 10:53:38,314 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,315 - INFO - Failed to get response for sameple no = 13119 in validation set
+2025-03-09 10:53:38,320 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,322 - INFO - Failed to get response for sameple no = 13120 in validation set
+2025-03-09 10:53:38,326 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,326 - INFO - Failed to get response for sameple no = 13121 in validation set
+2025-03-09 10:53:38,327 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,327 - INFO - Failed to get response for sameple no = 13122 in validation set
+2025-03-09 10:53:38,330 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,330 - INFO - Failed to get response for sameple no = 13123 in validation set
+2025-03-09 10:53:38,331 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,332 - INFO - Failed to get response for sameple no = 13124 in validation set
+2025-03-09 10:53:38,333 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,333 - INFO - Failed to get response for sameple no = 13125 in validation set
+2025-03-09 10:53:38,333 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,333 - INFO - Failed to get response for sameple no = 13126 in validation set
+2025-03-09 10:53:38,335 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,335 - INFO - Failed to get response for sameple no = 13127 in validation set
+2025-03-09 10:53:38,336 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,336 - INFO - Failed to get response for sameple no = 13128 in validation set
+2025-03-09 10:53:38,337 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,337 - INFO - Failed to get response for sameple no = 13129 in validation set
+2025-03-09 10:53:38,338 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,339 - INFO - Failed to get response for sameple no = 13130 in validation set
+2025-03-09 10:53:38,342 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,345 - INFO - Failed to get response for sameple no = 13131 in validation set
+2025-03-09 10:53:38,346 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,346 - INFO - Failed to get response for sameple no = 13132 in validation set
+2025-03-09 10:53:38,347 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,348 - INFO - Failed to get response for sameple no = 13133 in validation set
+2025-03-09 10:53:38,371 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,372 - INFO - Failed to get response for sameple no = 13134 in validation set
+2025-03-09 10:53:38,381 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,381 - INFO - Failed to get response for sameple no = 13135 in validation set
+2025-03-09 10:53:38,382 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,382 - INFO - Failed to get response for sameple no = 13136 in validation set
+2025-03-09 10:53:38,385 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,385 - INFO - Failed to get response for sameple no = 13137 in validation set
+2025-03-09 10:53:38,385 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,385 - INFO - Failed to get response for sameple no = 13138 in validation set
+2025-03-09 10:53:38,388 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,388 - INFO - Failed to get response for sameple no = 13139 in validation set
+2025-03-09 10:53:38,388 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,388 - INFO - Failed to get response for sameple no = 13140 in validation set
+2025-03-09 10:53:38,390 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,390 - INFO - Failed to get response for sameple no = 13141 in validation set
+2025-03-09 10:53:38,395 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,395 - INFO - Failed to get response for sameple no = 13142 in validation set
+2025-03-09 10:53:38,402 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,402 - INFO - Failed to get response for sameple no = 13143 in validation set
+2025-03-09 10:53:38,402 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,402 - INFO - Failed to get response for sameple no = 13144 in validation set
+2025-03-09 10:53:38,403 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,403 - INFO - Failed to get response for sameple no = 13145 in validation set
+2025-03-09 10:53:38,405 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,405 - INFO - Failed to get response for sameple no = 13146 in validation set
+2025-03-09 10:53:38,405 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,405 - INFO - Failed to get response for sameple no = 13147 in validation set
+2025-03-09 10:53:38,411 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,411 - INFO - Failed to get response for sameple no = 13148 in validation set
+2025-03-09 10:53:38,412 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,414 - INFO - Failed to get response for sameple no = 13149 in validation set
+2025-03-09 10:53:38,414 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,414 - INFO - Failed to get response for sameple no = 13150 in validation set
+2025-03-09 10:53:38,415 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,415 - INFO - Failed to get response for sameple no = 13151 in validation set
+2025-03-09 10:53:38,416 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,416 - INFO - Failed to get response for sameple no = 13152 in validation set
+2025-03-09 10:53:38,417 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,417 - INFO - Failed to get response for sameple no = 13153 in validation set
+2025-03-09 10:53:38,417 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,417 - INFO - Failed to get response for sameple no = 13154 in validation set
+2025-03-09 10:53:38,433 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,433 - INFO - Failed to get response for sameple no = 13155 in validation set
+2025-03-09 10:53:38,436 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,436 - INFO - Failed to get response for sameple no = 13156 in validation set
+2025-03-09 10:53:38,437 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,437 - INFO - Failed to get response for sameple no = 13157 in validation set
+2025-03-09 10:53:38,437 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,437 - INFO - Failed to get response for sameple no = 13158 in validation set
+2025-03-09 10:53:38,439 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,439 - INFO - Failed to get response for sameple no = 13159 in validation set
+2025-03-09 10:53:38,439 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,439 - INFO - Failed to get response for sameple no = 13160 in validation set
+2025-03-09 10:53:38,440 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,440 - INFO - Failed to get response for sameple no = 13161 in validation set
+2025-03-09 10:53:38,441 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,441 - INFO - Failed to get response for sameple no = 13162 in validation set
+2025-03-09 10:53:38,442 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,442 - INFO - Failed to get response for sameple no = 13163 in validation set
+2025-03-09 10:53:38,449 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,449 - INFO - Failed to get response for sameple no = 13164 in validation set
+2025-03-09 10:53:38,456 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,456 - INFO - Failed to get response for sameple no = 13165 in validation set
+2025-03-09 10:53:38,457 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,457 - INFO - Failed to get response for sameple no = 13166 in validation set
+2025-03-09 10:53:38,458 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,459 - INFO - Failed to get response for sameple no = 13167 in validation set
+2025-03-09 10:53:38,461 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,461 - INFO - Failed to get response for sameple no = 13168 in validation set
+2025-03-09 10:53:38,462 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,463 - INFO - Failed to get response for sameple no = 13169 in validation set
+2025-03-09 10:53:38,463 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,463 - INFO - Failed to get response for sameple no = 13170 in validation set
+2025-03-09 10:53:38,464 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,464 - INFO - Failed to get response for sameple no = 13171 in validation set
+2025-03-09 10:53:38,464 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,464 - INFO - Failed to get response for sameple no = 13172 in validation set
+2025-03-09 10:53:38,465 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,465 - INFO - Failed to get response for sameple no = 13173 in validation set
+2025-03-09 10:53:38,466 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,466 - INFO - Failed to get response for sameple no = 13174 in validation set
+2025-03-09 10:53:38,467 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-09 10:53:38,467 - INFO - Failed to get response for sameple no = 13175 in validation set
+2025-03-09 10:53:57,882 - INFO - Total token for sample 13176 in validation = 519
+2025-03-09 10:54:19,998 - INFO - Total token for sample 13177 in validation = 399
+2025-03-09 10:59:20,276 - INFO - Timeout occurred skipping this sample
+2025-03-09 10:59:56,817 - INFO - Total token for sample 13179 in validation = 476
+2025-03-09 11:01:07,707 - INFO - Total token for sample 13180 in validation = 1208
+2025-03-09 11:01:31,366 - INFO - Total token for sample 13181 in validation = 372
+2025-03-09 11:01:59,892 - INFO - Total token for sample 13182 in validation = 467
+2025-03-09 11:02:35,003 - INFO - Total token for sample 13183 in validation = 519
+2025-03-09 11:03:21,934 - INFO - Total token for sample 13184 in validation = 944
+2025-03-09 11:03:54,303 - INFO - Total token for sample 13185 in validation = 828
+2025-03-09 11:04:06,232 - INFO - Total token for sample 13186 in validation = 764
+2025-03-09 11:04:27,023 - INFO - Total token for sample 13187 in validation = 428
+2025-03-09 11:04:52,296 - INFO - Total token for sample 13188 in validation = 605
+2025-03-09 11:07:53,079 - INFO - Total token for sample 13189 in validation = 2252
+2025-03-09 11:09:43,270 - INFO - Total token for sample 13190 in validation = 1918
+2025-03-09 11:10:12,551 - INFO - Total token for sample 13191 in validation = 679
+2025-03-09 11:11:46,142 - INFO - Total token for sample 13192 in validation = 1127
+2025-03-09 11:14:32,133 - INFO - Total token for sample 13193 in validation = 2547
+2025-03-09 11:16:22,115 - INFO - Total token for sample 13194 in validation = 5476
+2025-03-09 11:17:09,502 - INFO - Total token for sample 13195 in validation = 791
+2025-03-09 11:17:56,746 - INFO - Total token for sample 13196 in validation = 647
+2025-03-09 11:18:19,093 - INFO - Total token for sample 13197 in validation = 547
+2025-03-09 11:18:26,919 - INFO - Total token for sample 13198 in validation = 918
+2025-03-09 11:19:36,188 - INFO - Total token for sample 13199 in validation = 1421
+2025-03-09 11:20:07,069 - INFO - Total token for sample 13200 in validation = 267
+2025-03-09 11:20:51,303 - INFO - Total token for sample 13201 in validation = 1109
+2025-03-09 11:21:15,037 - INFO - Total token for sample 13202 in validation = 609
+2025-03-09 11:21:31,140 - INFO - Total token for sample 13203 in validation = 387
+2025-03-09 11:22:02,186 - INFO - Total token for sample 13204 in validation = 595
+2025-03-09 11:22:15,780 - INFO - Total token for sample 13205 in validation = 1221
+2025-03-09 11:22:41,695 - INFO - Total token for sample 13206 in validation = 466
+2025-03-09 11:23:09,732 - INFO - Total token for sample 13207 in validation = 552
+2025-03-09 11:23:41,409 - INFO - Total token for sample 13208 in validation = 620
+2025-03-09 11:23:55,907 - INFO - Total token for sample 13209 in validation = 438
+2025-03-09 11:24:15,734 - INFO - Total token for sample 13210 in validation = 477
+2025-03-09 11:24:51,248 - INFO - Total token for sample 13211 in validation = 633
+2025-03-09 11:25:25,437 - INFO - Total token for sample 13212 in validation = 675
+2025-03-09 11:25:54,019 - INFO - Total token for sample 13213 in validation = 677
+2025-03-09 11:26:11,141 - INFO - Total token for sample 13214 in validation = 439
+2025-03-09 11:26:38,449 - INFO - Total token for sample 13215 in validation = 575
+2025-03-09 11:28:02,248 - INFO - Total token for sample 13216 in validation = 1429
+2025-03-09 11:30:01,096 - INFO - Total token for sample 13217 in validation = 2754
+2025-03-09 11:30:08,676 - INFO - Total token for sample 13218 in validation = 636
+2025-03-09 11:30:29,160 - INFO - Total token for sample 13219 in validation = 463
+2025-03-09 11:31:56,809 - INFO - Total token for sample 13220 in validation = 838
+2025-03-09 11:32:41,033 - INFO - Total token for sample 13221 in validation = 666
+2025-03-09 11:33:11,648 - INFO - Total token for sample 13222 in validation = 558
+2025-03-09 11:33:46,369 - INFO - Total token for sample 13223 in validation = 588
+2025-03-09 11:34:19,566 - INFO - Total token for sample 13224 in validation = 599
+2025-03-09 11:34:40,841 - INFO - Total token for sample 13225 in validation = 536
+2025-03-09 11:35:10,123 - INFO - Total token for sample 13226 in validation = 491
+2025-03-09 11:35:50,077 - INFO - Total token for sample 13227 in validation = 912
+2025-03-09 11:36:42,952 - INFO - Total token for sample 13228 in validation = 753
+2025-03-09 11:37:37,817 - INFO - Total token for sample 13229 in validation = 1045
+2025-03-09 11:38:06,954 - INFO - Total token for sample 13230 in validation = 815
+2025-03-09 11:38:33,972 - INFO - Total token for sample 13231 in validation = 678
+2025-03-09 11:38:39,666 - INFO - Total token for sample 13232 in validation = 759
+2025-03-09 11:39:02,635 - INFO - Total token for sample 13233 in validation = 548
+2025-03-09 11:41:55,124 - INFO - Total token for sample 13234 in validation = 2613
+2025-03-09 11:42:15,160 - INFO - Total token for sample 13235 in validation = 501
+2025-03-09 11:43:03,285 - INFO - Total token for sample 13236 in validation = 3122
+2025-03-09 11:46:56,592 - INFO - Total token for sample 13237 in validation = 3168
+2025-03-09 11:48:33,297 - INFO - Total token for sample 13238 in validation = 1476
+2025-03-09 11:49:05,425 - INFO - Total token for sample 13239 in validation = 622
+2025-03-09 11:49:45,752 - INFO - Total token for sample 13240 in validation = 587
+2025-03-09 11:50:46,708 - INFO - Total token for sample 13241 in validation = 1254
+2025-03-09 11:51:59,792 - INFO - Total token for sample 13242 in validation = 1805
+2025-03-09 11:53:17,852 - INFO - Total token for sample 13243 in validation = 764
+2025-03-09 11:53:38,821 - INFO - Total token for sample 13244 in validation = 402
+2025-03-09 11:54:11,834 - INFO - Total token for sample 13245 in validation = 599
+2025-03-09 11:55:50,075 - INFO - Total token for sample 13246 in validation = 2391
+2025-03-09 11:56:33,344 - INFO - Total token for sample 13247 in validation = 735
+2025-03-09 11:56:58,578 - INFO - Total token for sample 13248 in validation = 536
+2025-03-09 11:57:05,149 - INFO - Total token for sample 13249 in validation = 457
+2025-03-09 11:57:15,140 - INFO - Total token for sample 13250 in validation = 751
+2025-03-09 11:57:59,275 - INFO - Total token for sample 13251 in validation = 1082
+2025-03-09 11:58:43,417 - INFO - Total token for sample 13252 in validation = 731
+2025-03-09 11:59:13,446 - INFO - Total token for sample 13253 in validation = 820
+2025-03-09 11:59:36,374 - INFO - Total token for sample 13254 in validation = 427
+2025-03-09 12:00:26,136 - INFO - Total token for sample 13255 in validation = 535
+2025-03-09 12:01:48,283 - INFO - Total token for sample 13256 in validation = 1538
+2025-03-09 12:04:26,198 - INFO - Total token for sample 13257 in validation = 1646
+2025-03-09 12:04:54,781 - INFO - Total token for sample 13258 in validation = 702
+2025-03-09 12:05:21,415 - INFO - Total token for sample 13259 in validation = 528
+2025-03-09 12:05:26,074 - INFO - Total token for sample 13260 in validation = 450
+2025-03-09 12:05:42,613 - INFO - Total token for sample 13261 in validation = 388
+2025-03-09 12:06:03,960 - INFO - Total token for sample 13262 in validation = 635
+2025-03-09 12:06:39,518 - INFO - Total token for sample 13263 in validation = 629
+2025-03-09 12:07:08,207 - INFO - Total token for sample 13264 in validation = 534
+2025-03-09 12:07:24,004 - INFO - Total token for sample 13265 in validation = 1164
+2025-03-09 12:08:05,646 - INFO - Total token for sample 13266 in validation = 2536
+2025-03-09 12:09:06,569 - INFO - Total token for sample 13267 in validation = 1554
+2025-03-09 12:09:26,156 - INFO - Total token for sample 13268 in validation = 552
+2025-03-09 12:09:42,302 - INFO - Total token for sample 13269 in validation = 459
+2025-03-09 12:10:04,247 - INFO - Total token for sample 13270 in validation = 606
+2025-03-09 12:10:43,573 - INFO - Total token for sample 13271 in validation = 717
+2025-03-09 12:11:46,488 - INFO - Total token for sample 13272 in validation = 1054
+2025-03-09 12:12:04,617 - INFO - Total token for sample 13273 in validation = 494
+2025-03-09 12:12:18,692 - INFO - Total token for sample 13274 in validation = 388
+2025-03-09 12:12:46,941 - INFO - Total token for sample 13275 in validation = 571
+2025-03-09 12:13:10,685 - INFO - Total token for sample 13276 in validation = 522
+2025-03-09 12:13:48,362 - INFO - Total token for sample 13277 in validation = 732
+2025-03-09 12:14:30,373 - INFO - Total token for sample 13278 in validation = 409
+2025-03-09 12:14:51,249 - INFO - Total token for sample 13279 in validation = 456
+2025-03-09 12:15:00,352 - INFO - Total token for sample 13280 in validation = 940
+2025-03-09 12:15:33,374 - INFO - Total token for sample 13281 in validation = 764
+2025-03-09 12:16:03,217 - INFO - Total token for sample 13282 in validation = 527
+2025-03-09 12:16:24,785 - INFO - Total token for sample 13283 in validation = 480
+2025-03-09 12:16:49,707 - INFO - Total token for sample 13284 in validation = 540
+2025-03-09 12:17:22,112 - INFO - Total token for sample 13285 in validation = 774
+2025-03-09 12:18:12,784 - INFO - Total token for sample 13286 in validation = 1103
+2025-03-09 12:18:40,901 - INFO - Total token for sample 13287 in validation = 535
+2025-03-09 12:19:40,124 - INFO - Total token for sample 13288 in validation = 1367
+2025-03-09 12:20:18,045 - INFO - Total token for sample 13289 in validation = 758
+2025-03-09 12:20:24,435 - INFO - Total token for sample 13290 in validation = 576
+2025-03-09 12:21:15,759 - INFO - Total token for sample 13291 in validation = 1216
+2025-03-09 12:21:37,155 - INFO - Total token for sample 13292 in validation = 537
+2025-03-09 12:21:44,139 - INFO - Total token for sample 13293 in validation = 644
+2025-03-09 12:22:02,383 - INFO - Total token for sample 13294 in validation = 549
+2025-03-09 12:22:51,576 - INFO - Total token for sample 13295 in validation = 1198
+2025-03-09 12:27:52,282 - INFO - Timeout occurred skipping this sample
+2025-03-09 12:28:21,335 - INFO - Total token for sample 13297 in validation = 494
+2025-03-09 12:29:11,929 - INFO - Total token for sample 13298 in validation = 911
+2025-03-09 12:31:24,352 - INFO - Total token for sample 13299 in validation = 6100
+2025-03-09 12:31:50,875 - INFO - Total token for sample 13300 in validation = 444
