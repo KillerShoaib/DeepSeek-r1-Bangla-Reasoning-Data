@@ -1,0 +1,877 @@
+2025-03-12 09:59:23,186 - INFO - Total token for sample 21001 in validation = 1013
+2025-03-12 09:59:44,523 - INFO - Total token for sample 21002 in validation = 821
+2025-03-12 10:00:21,644 - INFO - Total token for sample 21003 in validation = 1209
+2025-03-12 10:00:35,365 - INFO - Total token for sample 21004 in validation = 517
+2025-03-12 10:00:55,131 - INFO - Total token for sample 21005 in validation = 729
+2025-03-12 10:01:46,440 - INFO - Total token for sample 21006 in validation = 1748
+2025-03-12 10:02:20,534 - INFO - Total token for sample 21007 in validation = 1271
+2025-03-12 10:02:50,065 - INFO - Total token for sample 21008 in validation = 1486
+2025-03-12 10:03:19,012 - INFO - Total token for sample 21009 in validation = 1101
+2025-03-12 10:03:36,217 - INFO - Total token for sample 21010 in validation = 668
+2025-03-12 10:03:46,975 - INFO - Total token for sample 21011 in validation = 438
+2025-03-12 10:04:00,901 - INFO - Total token for sample 21012 in validation = 589
+2025-03-12 10:04:16,170 - INFO - Total token for sample 21013 in validation = 661
+2025-03-12 10:04:25,490 - INFO - Total token for sample 21014 in validation = 433
+2025-03-12 10:04:36,580 - INFO - Total token for sample 21015 in validation = 462
+2025-03-12 10:04:57,028 - INFO - Total token for sample 21016 in validation = 797
+2025-03-12 10:05:51,081 - INFO - Total token for sample 21017 in validation = 1824
+2025-03-12 10:05:59,339 - INFO - Total token for sample 21018 in validation = 697
+2025-03-12 10:06:33,297 - INFO - Total token for sample 21019 in validation = 1372
+2025-03-12 10:06:48,585 - INFO - Total token for sample 21020 in validation = 619
+2025-03-12 10:07:17,349 - INFO - Total token for sample 21021 in validation = 1161
+2025-03-12 10:07:34,751 - INFO - Total token for sample 21022 in validation = 640
+2025-03-12 10:07:53,180 - INFO - Total token for sample 21023 in validation = 714
+2025-03-12 10:08:20,320 - INFO - Total token for sample 21024 in validation = 1949
+2025-03-12 10:09:12,739 - INFO - Total token for sample 21025 in validation = 1700
+2025-03-12 10:10:15,001 - INFO - Total token for sample 21026 in validation = 2042
+2025-03-12 10:11:53,007 - INFO - Total token for sample 21027 in validation = 3374
+2025-03-12 10:12:23,599 - INFO - Total token for sample 21028 in validation = 1103
+2025-03-12 10:12:33,455 - INFO - Total token for sample 21029 in validation = 405
+2025-03-12 10:13:03,661 - INFO - Total token for sample 21030 in validation = 1156
+2025-03-12 10:13:15,950 - INFO - Total token for sample 21031 in validation = 457
+2025-03-12 10:13:54,359 - INFO - Total token for sample 21032 in validation = 1416
+2025-03-12 10:14:10,229 - INFO - Total token for sample 21033 in validation = 506
+2025-03-12 10:14:23,741 - INFO - Total token for sample 21034 in validation = 538
+2025-03-12 10:14:36,133 - INFO - Total token for sample 21035 in validation = 492
+2025-03-12 10:15:05,318 - INFO - Total token for sample 21036 in validation = 1121
+2025-03-12 10:15:14,022 - INFO - Total token for sample 21037 in validation = 1069
+2025-03-12 10:15:21,710 - INFO - Total token for sample 21038 in validation = 505
+2025-03-12 10:17:02,365 - INFO - Total token for sample 21039 in validation = 3352
+2025-03-12 10:17:19,330 - INFO - Total token for sample 21040 in validation = 642
+2025-03-12 10:17:25,204 - INFO - Total token for sample 21041 in validation = 468
+2025-03-12 10:18:09,141 - INFO - Total token for sample 21042 in validation = 1507
+2025-03-12 10:18:27,054 - INFO - Total token for sample 21043 in validation = 649
+2025-03-12 10:18:40,724 - INFO - Total token for sample 21044 in validation = 587
+2025-03-12 10:18:53,989 - INFO - Total token for sample 21045 in validation = 512
+2025-03-12 10:19:06,081 - INFO - Total token for sample 21046 in validation = 479
+2025-03-12 10:19:17,340 - INFO - Total token for sample 21047 in validation = 431
+2025-03-12 10:20:03,935 - INFO - Total token for sample 21048 in validation = 1660
+2025-03-12 10:20:16,430 - INFO - Total token for sample 21049 in validation = 1668
+2025-03-12 10:20:33,276 - INFO - Total token for sample 21050 in validation = 693
+2025-03-12 10:22:07,326 - INFO - Total token for sample 21051 in validation = 3244
+2025-03-12 10:22:33,452 - INFO - Total token for sample 21052 in validation = 919
+2025-03-12 10:22:36,329 - INFO - Total token for sample 21053 in validation = 402
+2025-03-12 10:22:49,339 - INFO - Total token for sample 21054 in validation = 529
+2025-03-12 10:23:06,127 - INFO - Total token for sample 21055 in validation = 666
+2025-03-12 10:23:13,723 - INFO - Total token for sample 21056 in validation = 924
+2025-03-12 10:23:32,813 - INFO - Total token for sample 21057 in validation = 791
+2025-03-12 10:23:41,666 - INFO - Total token for sample 21058 in validation = 372
+2025-03-12 10:23:50,228 - INFO - Total token for sample 21059 in validation = 575
+2025-03-12 10:24:22,518 - INFO - Total token for sample 21060 in validation = 1210
+2025-03-12 10:24:59,692 - INFO - Total token for sample 21061 in validation = 1242
+2025-03-12 10:25:22,939 - INFO - Total token for sample 21062 in validation = 893
+2025-03-12 10:25:34,617 - INFO - Total token for sample 21063 in validation = 478
+2025-03-12 10:25:54,064 - INFO - Total token for sample 21064 in validation = 718
+2025-03-12 10:26:07,999 - INFO - Total token for sample 21065 in validation = 520
+2025-03-12 10:26:22,537 - INFO - Total token for sample 21066 in validation = 536
+2025-03-12 10:26:40,817 - INFO - Total token for sample 21067 in validation = 661
+2025-03-12 10:26:53,979 - INFO - Total token for sample 21068 in validation = 525
+2025-03-12 10:27:11,379 - INFO - Total token for sample 21069 in validation = 636
+2025-03-12 10:27:31,772 - INFO - Total token for sample 21070 in validation = 778
+2025-03-12 10:27:46,000 - INFO - Total token for sample 21071 in validation = 566
+2025-03-12 10:28:53,996 - INFO - Total token for sample 21072 in validation = 2124
+2025-03-12 10:29:01,580 - INFO - Total token for sample 21073 in validation = 520
+2025-03-12 10:29:16,601 - INFO - Total token for sample 21074 in validation = 594
+2025-03-12 10:29:45,611 - INFO - Total token for sample 21075 in validation = 984
+2025-03-12 10:31:15,112 - INFO - Total token for sample 21076 in validation = 2892
+2025-03-12 10:31:52,355 - INFO - Total token for sample 21077 in validation = 1293
+2025-03-12 10:32:02,977 - INFO - Total token for sample 21078 in validation = 438
+2025-03-12 10:32:27,467 - INFO - Total token for sample 21079 in validation = 909
+2025-03-12 10:32:35,743 - INFO - Total token for sample 21080 in validation = 716
+2025-03-12 10:32:47,948 - INFO - Total token for sample 21081 in validation = 484
+2025-03-12 10:33:05,201 - INFO - Total token for sample 21082 in validation = 589
+2025-03-12 10:33:26,412 - INFO - Total token for sample 21083 in validation = 839
+2025-03-12 10:33:50,257 - INFO - Total token for sample 21084 in validation = 796
+2025-03-12 10:34:32,552 - INFO - Total token for sample 21085 in validation = 1401
+2025-03-12 10:34:51,882 - INFO - Total token for sample 21086 in validation = 748
+2025-03-12 10:35:05,117 - INFO - Total token for sample 21087 in validation = 509
+2025-03-12 10:35:39,822 - INFO - Total token for sample 21088 in validation = 1121
+2025-03-12 10:36:09,024 - INFO - Total token for sample 21089 in validation = 1128
+2025-03-12 10:37:16,388 - INFO - Total token for sample 21090 in validation = 2354
+2025-03-12 10:37:51,997 - INFO - Total token for sample 21091 in validation = 1162
+2025-03-12 10:38:03,973 - INFO - Total token for sample 21092 in validation = 475
+2025-03-12 10:38:19,949 - INFO - Total token for sample 21093 in validation = 632
+2025-03-12 10:38:45,557 - INFO - Total token for sample 21094 in validation = 3742
+2025-03-12 10:39:52,830 - INFO - Total token for sample 21095 in validation = 2145
+2025-03-12 10:40:09,601 - INFO - Total token for sample 21096 in validation = 614
+2025-03-12 10:40:40,835 - INFO - Total token for sample 21097 in validation = 1107
+2025-03-12 10:40:49,031 - INFO - Total token for sample 21098 in validation = 566
+2025-03-12 10:41:00,827 - INFO - Total token for sample 21099 in validation = 424
+2025-03-12 10:41:28,112 - INFO - Total token for sample 21100 in validation = 847
+2025-03-12 10:41:36,141 - INFO - Total token for sample 21101 in validation = 635
+2025-03-12 10:41:48,774 - INFO - Total token for sample 21102 in validation = 469
+2025-03-12 10:42:13,293 - INFO - Total token for sample 21103 in validation = 895
+2025-03-12 10:42:28,933 - INFO - Total token for sample 21104 in validation = 659
+2025-03-12 10:44:10,244 - INFO - Total token for sample 21105 in validation = 3334
+2025-03-12 10:44:44,224 - INFO - Total token for sample 21106 in validation = 1183
+2025-03-12 10:44:59,075 - INFO - Total token for sample 21107 in validation = 581
+2025-03-12 10:45:14,346 - INFO - Total token for sample 21108 in validation = 598
+2025-03-12 10:45:28,865 - INFO - Total token for sample 21109 in validation = 575
+2025-03-12 10:45:43,649 - INFO - Total token for sample 21110 in validation = 518
+2025-03-12 10:46:17,302 - INFO - Total token for sample 21111 in validation = 1327
+2025-03-12 10:46:30,306 - INFO - Total token for sample 21112 in validation = 510
+2025-03-12 10:46:46,312 - INFO - Total token for sample 21113 in validation = 669
+2025-03-12 10:47:15,579 - INFO - Total token for sample 21114 in validation = 940
+2025-03-12 10:47:45,330 - INFO - Total token for sample 21115 in validation = 1006
+2025-03-12 10:47:57,747 - INFO - Total token for sample 21116 in validation = 502
+2025-03-12 10:48:13,694 - INFO - Total token for sample 21117 in validation = 582
+2025-03-12 10:48:23,627 - INFO - Total token for sample 21118 in validation = 391
+2025-03-12 10:48:44,437 - INFO - Total token for sample 21119 in validation = 790
+2025-03-12 10:48:58,344 - INFO - Total token for sample 21120 in validation = 552
+2025-03-12 10:49:14,168 - INFO - Total token for sample 21121 in validation = 618
+2025-03-12 10:54:14,724 - INFO - Timeout occurred skipping this sample
+2025-03-12 10:54:46,582 - INFO - Total token for sample 21123 in validation = 767
+2025-03-12 10:54:47,150 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,153 - INFO - Failed to get response for sameple no = 21124 in validation set
+2025-03-12 10:54:47,156 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,156 - INFO - Failed to get response for sameple no = 21125 in validation set
+2025-03-12 10:54:47,158 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,158 - INFO - Failed to get response for sameple no = 21126 in validation set
+2025-03-12 10:54:47,161 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,161 - INFO - Failed to get response for sameple no = 21127 in validation set
+2025-03-12 10:54:47,161 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,161 - INFO - Failed to get response for sameple no = 21128 in validation set
+2025-03-12 10:54:47,184 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,184 - INFO - Failed to get response for sameple no = 21129 in validation set
+2025-03-12 10:54:47,191 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,191 - INFO - Failed to get response for sameple no = 21130 in validation set
+2025-03-12 10:54:47,191 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,191 - INFO - Failed to get response for sameple no = 21131 in validation set
+2025-03-12 10:54:47,192 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,193 - INFO - Failed to get response for sameple no = 21132 in validation set
+2025-03-12 10:54:47,194 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,194 - INFO - Failed to get response for sameple no = 21133 in validation set
+2025-03-12 10:54:47,195 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,195 - INFO - Failed to get response for sameple no = 21134 in validation set
+2025-03-12 10:54:47,196 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,197 - INFO - Failed to get response for sameple no = 21135 in validation set
+2025-03-12 10:54:47,198 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,199 - INFO - Failed to get response for sameple no = 21136 in validation set
+2025-03-12 10:54:47,200 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,200 - INFO - Failed to get response for sameple no = 21137 in validation set
+2025-03-12 10:54:47,202 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,203 - INFO - Failed to get response for sameple no = 21138 in validation set
+2025-03-12 10:54:47,206 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,219 - INFO - Failed to get response for sameple no = 21139 in validation set
+2025-03-12 10:54:47,220 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,221 - INFO - Failed to get response for sameple no = 21140 in validation set
+2025-03-12 10:54:47,221 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,221 - INFO - Failed to get response for sameple no = 21141 in validation set
+2025-03-12 10:54:47,222 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,222 - INFO - Failed to get response for sameple no = 21142 in validation set
+2025-03-12 10:54:47,222 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,222 - INFO - Failed to get response for sameple no = 21143 in validation set
+2025-03-12 10:54:47,223 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,223 - INFO - Failed to get response for sameple no = 21144 in validation set
+2025-03-12 10:54:47,223 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,223 - INFO - Failed to get response for sameple no = 21145 in validation set
+2025-03-12 10:54:47,223 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,223 - INFO - Failed to get response for sameple no = 21146 in validation set
+2025-03-12 10:54:47,224 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,224 - INFO - Failed to get response for sameple no = 21147 in validation set
+2025-03-12 10:54:47,225 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,225 - INFO - Failed to get response for sameple no = 21148 in validation set
+2025-03-12 10:54:47,227 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,227 - INFO - Failed to get response for sameple no = 21149 in validation set
+2025-03-12 10:54:47,228 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,228 - INFO - Failed to get response for sameple no = 21150 in validation set
+2025-03-12 10:54:47,230 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,230 - INFO - Failed to get response for sameple no = 21151 in validation set
+2025-03-12 10:54:47,231 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,232 - INFO - Failed to get response for sameple no = 21152 in validation set
+2025-03-12 10:54:47,232 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,232 - INFO - Failed to get response for sameple no = 21153 in validation set
+2025-03-12 10:54:47,233 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,233 - INFO - Failed to get response for sameple no = 21154 in validation set
+2025-03-12 10:54:47,234 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,234 - INFO - Failed to get response for sameple no = 21155 in validation set
+2025-03-12 10:54:47,234 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,234 - INFO - Failed to get response for sameple no = 21156 in validation set
+2025-03-12 10:54:47,235 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,235 - INFO - Failed to get response for sameple no = 21157 in validation set
+2025-03-12 10:54:47,235 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,235 - INFO - Failed to get response for sameple no = 21158 in validation set
+2025-03-12 10:54:47,236 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,236 - INFO - Failed to get response for sameple no = 21159 in validation set
+2025-03-12 10:54:47,236 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,237 - INFO - Failed to get response for sameple no = 21160 in validation set
+2025-03-12 10:54:47,237 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,237 - INFO - Failed to get response for sameple no = 21161 in validation set
+2025-03-12 10:54:47,238 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,238 - INFO - Failed to get response for sameple no = 21162 in validation set
+2025-03-12 10:54:47,239 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,239 - INFO - Failed to get response for sameple no = 21163 in validation set
+2025-03-12 10:54:47,239 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,240 - INFO - Failed to get response for sameple no = 21164 in validation set
+2025-03-12 10:54:47,241 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,241 - INFO - Failed to get response for sameple no = 21165 in validation set
+2025-03-12 10:54:47,242 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,242 - INFO - Failed to get response for sameple no = 21166 in validation set
+2025-03-12 10:54:47,243 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,243 - INFO - Failed to get response for sameple no = 21167 in validation set
+2025-03-12 10:54:47,243 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,243 - INFO - Failed to get response for sameple no = 21168 in validation set
+2025-03-12 10:54:47,244 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,244 - INFO - Failed to get response for sameple no = 21169 in validation set
+2025-03-12 10:54:47,244 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,244 - INFO - Failed to get response for sameple no = 21170 in validation set
+2025-03-12 10:54:47,245 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,245 - INFO - Failed to get response for sameple no = 21171 in validation set
+2025-03-12 10:54:47,245 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,245 - INFO - Failed to get response for sameple no = 21172 in validation set
+2025-03-12 10:54:47,246 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,246 - INFO - Failed to get response for sameple no = 21173 in validation set
+2025-03-12 10:54:47,247 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,248 - INFO - Failed to get response for sameple no = 21174 in validation set
+2025-03-12 10:54:47,248 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,248 - INFO - Failed to get response for sameple no = 21175 in validation set
+2025-03-12 10:54:47,249 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,249 - INFO - Failed to get response for sameple no = 21176 in validation set
+2025-03-12 10:54:47,250 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,250 - INFO - Failed to get response for sameple no = 21177 in validation set
+2025-03-12 10:54:47,250 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,250 - INFO - Failed to get response for sameple no = 21178 in validation set
+2025-03-12 10:54:47,251 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,251 - INFO - Failed to get response for sameple no = 21179 in validation set
+2025-03-12 10:54:47,252 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,252 - INFO - Failed to get response for sameple no = 21180 in validation set
+2025-03-12 10:54:47,252 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,252 - INFO - Failed to get response for sameple no = 21181 in validation set
+2025-03-12 10:54:47,253 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,253 - INFO - Failed to get response for sameple no = 21182 in validation set
+2025-03-12 10:54:47,254 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,255 - INFO - Failed to get response for sameple no = 21183 in validation set
+2025-03-12 10:54:47,255 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,255 - INFO - Failed to get response for sameple no = 21184 in validation set
+2025-03-12 10:54:47,256 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,256 - INFO - Failed to get response for sameple no = 21185 in validation set
+2025-03-12 10:54:47,257 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,257 - INFO - Failed to get response for sameple no = 21186 in validation set
+2025-03-12 10:54:47,257 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,257 - INFO - Failed to get response for sameple no = 21187 in validation set
+2025-03-12 10:54:47,258 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,258 - INFO - Failed to get response for sameple no = 21188 in validation set
+2025-03-12 10:54:47,258 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,258 - INFO - Failed to get response for sameple no = 21189 in validation set
+2025-03-12 10:54:47,259 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,259 - INFO - Failed to get response for sameple no = 21190 in validation set
+2025-03-12 10:54:47,260 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,260 - INFO - Failed to get response for sameple no = 21191 in validation set
+2025-03-12 10:54:47,260 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,260 - INFO - Failed to get response for sameple no = 21192 in validation set
+2025-03-12 10:54:47,260 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,261 - INFO - Failed to get response for sameple no = 21193 in validation set
+2025-03-12 10:54:47,261 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,261 - INFO - Failed to get response for sameple no = 21194 in validation set
+2025-03-12 10:54:47,261 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,261 - INFO - Failed to get response for sameple no = 21195 in validation set
+2025-03-12 10:54:47,262 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,262 - INFO - Failed to get response for sameple no = 21196 in validation set
+2025-03-12 10:54:47,263 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,263 - INFO - Failed to get response for sameple no = 21197 in validation set
+2025-03-12 10:54:47,264 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,264 - INFO - Failed to get response for sameple no = 21198 in validation set
+2025-03-12 10:54:47,264 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,264 - INFO - Failed to get response for sameple no = 21199 in validation set
+2025-03-12 10:54:47,265 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,265 - INFO - Failed to get response for sameple no = 21200 in validation set
+2025-03-12 10:54:47,265 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,265 - INFO - Failed to get response for sameple no = 21201 in validation set
+2025-03-12 10:54:47,266 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,266 - INFO - Failed to get response for sameple no = 21202 in validation set
+2025-03-12 10:54:47,266 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,266 - INFO - Failed to get response for sameple no = 21203 in validation set
+2025-03-12 10:54:47,267 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,267 - INFO - Failed to get response for sameple no = 21204 in validation set
+2025-03-12 10:54:47,267 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,268 - INFO - Failed to get response for sameple no = 21205 in validation set
+2025-03-12 10:54:47,268 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,268 - INFO - Failed to get response for sameple no = 21206 in validation set
+2025-03-12 10:54:47,268 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,268 - INFO - Failed to get response for sameple no = 21207 in validation set
+2025-03-12 10:54:47,269 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,269 - INFO - Failed to get response for sameple no = 21208 in validation set
+2025-03-12 10:54:47,270 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,270 - INFO - Failed to get response for sameple no = 21209 in validation set
+2025-03-12 10:54:47,270 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,271 - INFO - Failed to get response for sameple no = 21210 in validation set
+2025-03-12 10:54:47,271 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,271 - INFO - Failed to get response for sameple no = 21211 in validation set
+2025-03-12 10:54:47,272 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,272 - INFO - Failed to get response for sameple no = 21212 in validation set
+2025-03-12 10:54:47,272 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,272 - INFO - Failed to get response for sameple no = 21213 in validation set
+2025-03-12 10:54:47,273 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,273 - INFO - Failed to get response for sameple no = 21214 in validation set
+2025-03-12 10:54:47,274 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,274 - INFO - Failed to get response for sameple no = 21215 in validation set
+2025-03-12 10:54:47,274 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,274 - INFO - Failed to get response for sameple no = 21216 in validation set
+2025-03-12 10:54:47,275 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,275 - INFO - Failed to get response for sameple no = 21217 in validation set
+2025-03-12 10:54:47,276 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,276 - INFO - Failed to get response for sameple no = 21218 in validation set
+2025-03-12 10:54:47,276 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,276 - INFO - Failed to get response for sameple no = 21219 in validation set
+2025-03-12 10:54:47,277 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,277 - INFO - Failed to get response for sameple no = 21220 in validation set
+2025-03-12 10:54:47,277 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,277 - INFO - Failed to get response for sameple no = 21221 in validation set
+2025-03-12 10:54:47,278 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,278 - INFO - Failed to get response for sameple no = 21222 in validation set
+2025-03-12 10:54:47,285 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,517 - INFO - Failed to get response for sameple no = 21223 in validation set
+2025-03-12 10:54:47,519 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,519 - INFO - Failed to get response for sameple no = 21224 in validation set
+2025-03-12 10:54:47,520 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,520 - INFO - Failed to get response for sameple no = 21225 in validation set
+2025-03-12 10:54:47,522 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,522 - INFO - Failed to get response for sameple no = 21226 in validation set
+2025-03-12 10:54:47,523 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,524 - INFO - Failed to get response for sameple no = 21227 in validation set
+2025-03-12 10:54:47,526 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,527 - INFO - Failed to get response for sameple no = 21228 in validation set
+2025-03-12 10:54:47,528 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,528 - INFO - Failed to get response for sameple no = 21229 in validation set
+2025-03-12 10:54:47,528 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,529 - INFO - Failed to get response for sameple no = 21230 in validation set
+2025-03-12 10:54:47,530 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,530 - INFO - Failed to get response for sameple no = 21231 in validation set
+2025-03-12 10:54:47,532 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,532 - INFO - Failed to get response for sameple no = 21232 in validation set
+2025-03-12 10:54:47,533 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,533 - INFO - Failed to get response for sameple no = 21233 in validation set
+2025-03-12 10:54:47,535 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,535 - INFO - Failed to get response for sameple no = 21234 in validation set
+2025-03-12 10:54:47,536 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,536 - INFO - Failed to get response for sameple no = 21235 in validation set
+2025-03-12 10:54:47,536 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,536 - INFO - Failed to get response for sameple no = 21236 in validation set
+2025-03-12 10:54:47,537 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,537 - INFO - Failed to get response for sameple no = 21237 in validation set
+2025-03-12 10:54:47,538 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,538 - INFO - Failed to get response for sameple no = 21238 in validation set
+2025-03-12 10:54:47,538 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,538 - INFO - Failed to get response for sameple no = 21239 in validation set
+2025-03-12 10:54:47,538 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,539 - INFO - Failed to get response for sameple no = 21240 in validation set
+2025-03-12 10:54:47,539 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,539 - INFO - Failed to get response for sameple no = 21241 in validation set
+2025-03-12 10:54:47,540 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,540 - INFO - Failed to get response for sameple no = 21242 in validation set
+2025-03-12 10:54:47,540 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,540 - INFO - Failed to get response for sameple no = 21243 in validation set
+2025-03-12 10:54:47,541 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,541 - INFO - Failed to get response for sameple no = 21244 in validation set
+2025-03-12 10:54:47,541 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,541 - INFO - Failed to get response for sameple no = 21245 in validation set
+2025-03-12 10:54:47,542 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,542 - INFO - Failed to get response for sameple no = 21246 in validation set
+2025-03-12 10:54:47,543 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,543 - INFO - Failed to get response for sameple no = 21247 in validation set
+2025-03-12 10:54:47,544 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,544 - INFO - Failed to get response for sameple no = 21248 in validation set
+2025-03-12 10:54:47,545 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,545 - INFO - Failed to get response for sameple no = 21249 in validation set
+2025-03-12 10:54:47,545 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,546 - INFO - Failed to get response for sameple no = 21250 in validation set
+2025-03-12 10:54:47,546 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,546 - INFO - Failed to get response for sameple no = 21251 in validation set
+2025-03-12 10:54:47,547 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,547 - INFO - Failed to get response for sameple no = 21252 in validation set
+2025-03-12 10:54:47,547 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,547 - INFO - Failed to get response for sameple no = 21253 in validation set
+2025-03-12 10:54:47,548 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,548 - INFO - Failed to get response for sameple no = 21254 in validation set
+2025-03-12 10:54:47,548 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,548 - INFO - Failed to get response for sameple no = 21255 in validation set
+2025-03-12 10:54:47,549 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,549 - INFO - Failed to get response for sameple no = 21256 in validation set
+2025-03-12 10:54:47,550 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,550 - INFO - Failed to get response for sameple no = 21257 in validation set
+2025-03-12 10:54:47,550 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,550 - INFO - Failed to get response for sameple no = 21258 in validation set
+2025-03-12 10:54:47,551 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,551 - INFO - Failed to get response for sameple no = 21259 in validation set
+2025-03-12 10:54:47,551 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,551 - INFO - Failed to get response for sameple no = 21260 in validation set
+2025-03-12 10:54:47,552 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,552 - INFO - Failed to get response for sameple no = 21261 in validation set
+2025-03-12 10:54:47,552 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,552 - INFO - Failed to get response for sameple no = 21262 in validation set
+2025-03-12 10:54:47,553 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,553 - INFO - Failed to get response for sameple no = 21263 in validation set
+2025-03-12 10:54:47,553 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,553 - INFO - Failed to get response for sameple no = 21264 in validation set
+2025-03-12 10:54:47,554 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,554 - INFO - Failed to get response for sameple no = 21265 in validation set
+2025-03-12 10:54:47,554 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,554 - INFO - Failed to get response for sameple no = 21266 in validation set
+2025-03-12 10:54:47,555 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,555 - INFO - Failed to get response for sameple no = 21267 in validation set
+2025-03-12 10:54:47,555 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,555 - INFO - Failed to get response for sameple no = 21268 in validation set
+2025-03-12 10:54:47,556 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,556 - INFO - Failed to get response for sameple no = 21269 in validation set
+2025-03-12 10:54:47,556 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,557 - INFO - Failed to get response for sameple no = 21270 in validation set
+2025-03-12 10:54:47,557 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,557 - INFO - Failed to get response for sameple no = 21271 in validation set
+2025-03-12 10:54:47,557 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,557 - INFO - Failed to get response for sameple no = 21272 in validation set
+2025-03-12 10:54:47,558 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,558 - INFO - Failed to get response for sameple no = 21273 in validation set
+2025-03-12 10:54:47,558 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,558 - INFO - Failed to get response for sameple no = 21274 in validation set
+2025-03-12 10:54:47,559 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,559 - INFO - Failed to get response for sameple no = 21275 in validation set
+2025-03-12 10:54:47,559 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,559 - INFO - Failed to get response for sameple no = 21276 in validation set
+2025-03-12 10:54:47,559 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,559 - INFO - Failed to get response for sameple no = 21277 in validation set
+2025-03-12 10:54:47,560 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,560 - INFO - Failed to get response for sameple no = 21278 in validation set
+2025-03-12 10:54:47,560 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,560 - INFO - Failed to get response for sameple no = 21279 in validation set
+2025-03-12 10:54:47,561 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,561 - INFO - Failed to get response for sameple no = 21280 in validation set
+2025-03-12 10:54:47,561 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,561 - INFO - Failed to get response for sameple no = 21281 in validation set
+2025-03-12 10:54:47,562 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,562 - INFO - Failed to get response for sameple no = 21282 in validation set
+2025-03-12 10:54:47,562 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,562 - INFO - Failed to get response for sameple no = 21283 in validation set
+2025-03-12 10:54:47,563 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,563 - INFO - Failed to get response for sameple no = 21284 in validation set
+2025-03-12 10:54:47,563 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,563 - INFO - Failed to get response for sameple no = 21285 in validation set
+2025-03-12 10:54:47,563 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,564 - INFO - Failed to get response for sameple no = 21286 in validation set
+2025-03-12 10:54:47,564 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,564 - INFO - Failed to get response for sameple no = 21287 in validation set
+2025-03-12 10:54:47,564 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,564 - INFO - Failed to get response for sameple no = 21288 in validation set
+2025-03-12 10:54:47,565 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,565 - INFO - Failed to get response for sameple no = 21289 in validation set
+2025-03-12 10:54:47,565 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,566 - INFO - Failed to get response for sameple no = 21290 in validation set
+2025-03-12 10:54:47,566 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,566 - INFO - Failed to get response for sameple no = 21291 in validation set
+2025-03-12 10:54:47,566 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,567 - INFO - Failed to get response for sameple no = 21292 in validation set
+2025-03-12 10:54:47,567 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,567 - INFO - Failed to get response for sameple no = 21293 in validation set
+2025-03-12 10:54:47,568 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,568 - INFO - Failed to get response for sameple no = 21294 in validation set
+2025-03-12 10:54:47,568 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,568 - INFO - Failed to get response for sameple no = 21295 in validation set
+2025-03-12 10:54:47,569 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,569 - INFO - Failed to get response for sameple no = 21296 in validation set
+2025-03-12 10:54:47,569 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,569 - INFO - Failed to get response for sameple no = 21297 in validation set
+2025-03-12 10:54:47,570 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,570 - INFO - Failed to get response for sameple no = 21298 in validation set
+2025-03-12 10:54:47,570 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,570 - INFO - Failed to get response for sameple no = 21299 in validation set
+2025-03-12 10:54:47,571 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,571 - INFO - Failed to get response for sameple no = 21300 in validation set
+2025-03-12 10:54:47,571 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,572 - INFO - Failed to get response for sameple no = 21301 in validation set
+2025-03-12 10:54:47,572 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,572 - INFO - Failed to get response for sameple no = 21302 in validation set
+2025-03-12 10:54:47,573 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,573 - INFO - Failed to get response for sameple no = 21303 in validation set
+2025-03-12 10:54:47,574 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,574 - INFO - Failed to get response for sameple no = 21304 in validation set
+2025-03-12 10:54:47,574 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,574 - INFO - Failed to get response for sameple no = 21305 in validation set
+2025-03-12 10:54:47,574 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,574 - INFO - Failed to get response for sameple no = 21306 in validation set
+2025-03-12 10:54:47,575 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,575 - INFO - Failed to get response for sameple no = 21307 in validation set
+2025-03-12 10:54:47,576 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,576 - INFO - Failed to get response for sameple no = 21308 in validation set
+2025-03-12 10:54:47,576 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,576 - INFO - Failed to get response for sameple no = 21309 in validation set
+2025-03-12 10:54:47,577 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,577 - INFO - Failed to get response for sameple no = 21310 in validation set
+2025-03-12 10:54:47,578 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,578 - INFO - Failed to get response for sameple no = 21311 in validation set
+2025-03-12 10:54:47,580 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,580 - INFO - Failed to get response for sameple no = 21312 in validation set
+2025-03-12 10:54:47,584 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,584 - INFO - Failed to get response for sameple no = 21313 in validation set
+2025-03-12 10:54:47,587 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,587 - INFO - Failed to get response for sameple no = 21314 in validation set
+2025-03-12 10:54:47,589 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,589 - INFO - Failed to get response for sameple no = 21315 in validation set
+2025-03-12 10:54:47,591 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,591 - INFO - Failed to get response for sameple no = 21316 in validation set
+2025-03-12 10:54:47,593 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,594 - INFO - Failed to get response for sameple no = 21317 in validation set
+2025-03-12 10:54:47,599 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,601 - INFO - Failed to get response for sameple no = 21318 in validation set
+2025-03-12 10:54:47,605 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,606 - INFO - Failed to get response for sameple no = 21319 in validation set
+2025-03-12 10:54:47,612 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,613 - INFO - Failed to get response for sameple no = 21320 in validation set
+2025-03-12 10:54:47,613 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,614 - INFO - Failed to get response for sameple no = 21321 in validation set
+2025-03-12 10:54:47,614 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,614 - INFO - Failed to get response for sameple no = 21322 in validation set
+2025-03-12 10:54:47,615 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,616 - INFO - Failed to get response for sameple no = 21323 in validation set
+2025-03-12 10:54:47,616 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,616 - INFO - Failed to get response for sameple no = 21324 in validation set
+2025-03-12 10:54:47,617 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,617 - INFO - Failed to get response for sameple no = 21325 in validation set
+2025-03-12 10:54:47,618 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,618 - INFO - Failed to get response for sameple no = 21326 in validation set
+2025-03-12 10:54:47,618 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,618 - INFO - Failed to get response for sameple no = 21327 in validation set
+2025-03-12 10:54:47,619 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,619 - INFO - Failed to get response for sameple no = 21328 in validation set
+2025-03-12 10:54:47,619 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,619 - INFO - Failed to get response for sameple no = 21329 in validation set
+2025-03-12 10:54:47,620 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,620 - INFO - Failed to get response for sameple no = 21330 in validation set
+2025-03-12 10:54:47,620 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,620 - INFO - Failed to get response for sameple no = 21331 in validation set
+2025-03-12 10:54:47,620 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,620 - INFO - Failed to get response for sameple no = 21332 in validation set
+2025-03-12 10:54:47,621 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,621 - INFO - Failed to get response for sameple no = 21333 in validation set
+2025-03-12 10:54:47,622 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,622 - INFO - Failed to get response for sameple no = 21334 in validation set
+2025-03-12 10:54:47,623 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,623 - INFO - Failed to get response for sameple no = 21335 in validation set
+2025-03-12 10:54:47,624 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,624 - INFO - Failed to get response for sameple no = 21336 in validation set
+2025-03-12 10:54:47,624 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,624 - INFO - Failed to get response for sameple no = 21337 in validation set
+2025-03-12 10:54:47,625 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,625 - INFO - Failed to get response for sameple no = 21338 in validation set
+2025-03-12 10:54:47,625 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,625 - INFO - Failed to get response for sameple no = 21339 in validation set
+2025-03-12 10:54:47,626 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,626 - INFO - Failed to get response for sameple no = 21340 in validation set
+2025-03-12 10:54:47,626 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,626 - INFO - Failed to get response for sameple no = 21341 in validation set
+2025-03-12 10:54:47,627 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,627 - INFO - Failed to get response for sameple no = 21342 in validation set
+2025-03-12 10:54:47,627 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,628 - INFO - Failed to get response for sameple no = 21343 in validation set
+2025-03-12 10:54:47,629 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,629 - INFO - Failed to get response for sameple no = 21344 in validation set
+2025-03-12 10:54:47,629 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,629 - INFO - Failed to get response for sameple no = 21345 in validation set
+2025-03-12 10:54:47,630 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,630 - INFO - Failed to get response for sameple no = 21346 in validation set
+2025-03-12 10:54:47,630 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,630 - INFO - Failed to get response for sameple no = 21347 in validation set
+2025-03-12 10:54:47,631 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,631 - INFO - Failed to get response for sameple no = 21348 in validation set
+2025-03-12 10:54:47,632 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,632 - INFO - Failed to get response for sameple no = 21349 in validation set
+2025-03-12 10:54:47,633 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,633 - INFO - Failed to get response for sameple no = 21350 in validation set
+2025-03-12 10:54:47,633 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,633 - INFO - Failed to get response for sameple no = 21351 in validation set
+2025-03-12 10:54:47,634 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,634 - INFO - Failed to get response for sameple no = 21352 in validation set
+2025-03-12 10:54:47,634 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,635 - INFO - Failed to get response for sameple no = 21353 in validation set
+2025-03-12 10:54:47,635 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,635 - INFO - Failed to get response for sameple no = 21354 in validation set
+2025-03-12 10:54:47,635 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,635 - INFO - Failed to get response for sameple no = 21355 in validation set
+2025-03-12 10:54:47,636 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,636 - INFO - Failed to get response for sameple no = 21356 in validation set
+2025-03-12 10:54:47,636 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,636 - INFO - Failed to get response for sameple no = 21357 in validation set
+2025-03-12 10:54:47,637 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,637 - INFO - Failed to get response for sameple no = 21358 in validation set
+2025-03-12 10:54:47,637 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,637 - INFO - Failed to get response for sameple no = 21359 in validation set
+2025-03-12 10:54:47,638 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,638 - INFO - Failed to get response for sameple no = 21360 in validation set
+2025-03-12 10:54:47,638 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,638 - INFO - Failed to get response for sameple no = 21361 in validation set
+2025-03-12 10:54:47,639 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,639 - INFO - Failed to get response for sameple no = 21362 in validation set
+2025-03-12 10:54:47,640 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,640 - INFO - Failed to get response for sameple no = 21363 in validation set
+2025-03-12 10:54:47,640 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,640 - INFO - Failed to get response for sameple no = 21364 in validation set
+2025-03-12 10:54:47,641 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,641 - INFO - Failed to get response for sameple no = 21365 in validation set
+2025-03-12 10:54:47,643 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,643 - INFO - Failed to get response for sameple no = 21366 in validation set
+2025-03-12 10:54:47,643 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,643 - INFO - Failed to get response for sameple no = 21367 in validation set
+2025-03-12 10:54:47,644 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,644 - INFO - Failed to get response for sameple no = 21368 in validation set
+2025-03-12 10:54:47,644 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,644 - INFO - Failed to get response for sameple no = 21369 in validation set
+2025-03-12 10:54:47,645 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,645 - INFO - Failed to get response for sameple no = 21370 in validation set
+2025-03-12 10:54:47,646 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,646 - INFO - Failed to get response for sameple no = 21371 in validation set
+2025-03-12 10:54:47,646 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,647 - INFO - Failed to get response for sameple no = 21372 in validation set
+2025-03-12 10:54:47,647 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,647 - INFO - Failed to get response for sameple no = 21373 in validation set
+2025-03-12 10:54:47,648 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,649 - INFO - Failed to get response for sameple no = 21374 in validation set
+2025-03-12 10:54:47,649 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,649 - INFO - Failed to get response for sameple no = 21375 in validation set
+2025-03-12 10:54:47,650 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,650 - INFO - Failed to get response for sameple no = 21376 in validation set
+2025-03-12 10:54:47,650 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,650 - INFO - Failed to get response for sameple no = 21377 in validation set
+2025-03-12 10:54:47,651 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,651 - INFO - Failed to get response for sameple no = 21378 in validation set
+2025-03-12 10:54:47,651 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,651 - INFO - Failed to get response for sameple no = 21379 in validation set
+2025-03-12 10:54:47,652 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,652 - INFO - Failed to get response for sameple no = 21380 in validation set
+2025-03-12 10:54:47,652 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,652 - INFO - Failed to get response for sameple no = 21381 in validation set
+2025-03-12 10:54:47,653 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,653 - INFO - Failed to get response for sameple no = 21382 in validation set
+2025-03-12 10:54:47,654 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,654 - INFO - Failed to get response for sameple no = 21383 in validation set
+2025-03-12 10:54:47,654 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,654 - INFO - Failed to get response for sameple no = 21384 in validation set
+2025-03-12 10:54:47,655 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,655 - INFO - Failed to get response for sameple no = 21385 in validation set
+2025-03-12 10:54:47,656 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,656 - INFO - Failed to get response for sameple no = 21386 in validation set
+2025-03-12 10:54:47,656 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,656 - INFO - Failed to get response for sameple no = 21387 in validation set
+2025-03-12 10:54:47,657 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,657 - INFO - Failed to get response for sameple no = 21388 in validation set
+2025-03-12 10:54:47,657 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,657 - INFO - Failed to get response for sameple no = 21389 in validation set
+2025-03-12 10:54:47,658 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,658 - INFO - Failed to get response for sameple no = 21390 in validation set
+2025-03-12 10:54:47,659 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,659 - INFO - Failed to get response for sameple no = 21391 in validation set
+2025-03-12 10:54:47,659 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,659 - INFO - Failed to get response for sameple no = 21392 in validation set
+2025-03-12 10:54:47,659 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,660 - INFO - Failed to get response for sameple no = 21393 in validation set
+2025-03-12 10:54:47,660 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,660 - INFO - Failed to get response for sameple no = 21394 in validation set
+2025-03-12 10:54:47,660 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,660 - INFO - Failed to get response for sameple no = 21395 in validation set
+2025-03-12 10:54:47,661 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,661 - INFO - Failed to get response for sameple no = 21396 in validation set
+2025-03-12 10:54:47,661 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,661 - INFO - Failed to get response for sameple no = 21397 in validation set
+2025-03-12 10:54:47,662 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,662 - INFO - Failed to get response for sameple no = 21398 in validation set
+2025-03-12 10:54:47,662 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,662 - INFO - Failed to get response for sameple no = 21399 in validation set
+2025-03-12 10:54:47,663 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,663 - INFO - Failed to get response for sameple no = 21400 in validation set
+2025-03-12 10:54:47,663 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,663 - INFO - Failed to get response for sameple no = 21401 in validation set
+2025-03-12 10:54:47,664 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,664 - INFO - Failed to get response for sameple no = 21402 in validation set
+2025-03-12 10:54:47,664 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,664 - INFO - Failed to get response for sameple no = 21403 in validation set
+2025-03-12 10:54:47,665 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,665 - INFO - Failed to get response for sameple no = 21404 in validation set
+2025-03-12 10:54:47,665 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,665 - INFO - Failed to get response for sameple no = 21405 in validation set
+2025-03-12 10:54:47,666 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,666 - INFO - Failed to get response for sameple no = 21406 in validation set
+2025-03-12 10:54:47,666 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,666 - INFO - Failed to get response for sameple no = 21407 in validation set
+2025-03-12 10:54:47,666 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,667 - INFO - Failed to get response for sameple no = 21408 in validation set
+2025-03-12 10:54:47,667 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,667 - INFO - Failed to get response for sameple no = 21409 in validation set
+2025-03-12 10:54:47,669 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,669 - INFO - Failed to get response for sameple no = 21410 in validation set
+2025-03-12 10:54:47,670 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,670 - INFO - Failed to get response for sameple no = 21411 in validation set
+2025-03-12 10:54:47,670 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,670 - INFO - Failed to get response for sameple no = 21412 in validation set
+2025-03-12 10:54:47,671 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,671 - INFO - Failed to get response for sameple no = 21413 in validation set
+2025-03-12 10:54:47,671 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,671 - INFO - Failed to get response for sameple no = 21414 in validation set
+2025-03-12 10:54:47,672 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,672 - INFO - Failed to get response for sameple no = 21415 in validation set
+2025-03-12 10:54:47,672 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,672 - INFO - Failed to get response for sameple no = 21416 in validation set
+2025-03-12 10:54:47,673 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,673 - INFO - Failed to get response for sameple no = 21417 in validation set
+2025-03-12 10:54:47,673 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,674 - INFO - Failed to get response for sameple no = 21418 in validation set
+2025-03-12 10:54:47,674 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,674 - INFO - Failed to get response for sameple no = 21419 in validation set
+2025-03-12 10:54:47,674 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,674 - INFO - Failed to get response for sameple no = 21420 in validation set
+2025-03-12 10:54:47,675 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,675 - INFO - Failed to get response for sameple no = 21421 in validation set
+2025-03-12 10:54:47,676 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,676 - INFO - Failed to get response for sameple no = 21422 in validation set
+2025-03-12 10:54:47,676 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,676 - INFO - Failed to get response for sameple no = 21423 in validation set
+2025-03-12 10:54:47,677 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,677 - INFO - Failed to get response for sameple no = 21424 in validation set
+2025-03-12 10:54:47,677 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,677 - INFO - Failed to get response for sameple no = 21425 in validation set
+2025-03-12 10:54:47,677 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,678 - INFO - Failed to get response for sameple no = 21426 in validation set
+2025-03-12 10:54:47,678 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,678 - INFO - Failed to get response for sameple no = 21427 in validation set
+2025-03-12 10:54:47,678 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,679 - INFO - Failed to get response for sameple no = 21428 in validation set
+2025-03-12 10:54:47,680 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,680 - INFO - Failed to get response for sameple no = 21429 in validation set
+2025-03-12 10:54:47,680 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,680 - INFO - Failed to get response for sameple no = 21430 in validation set
+2025-03-12 10:54:47,681 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,681 - INFO - Failed to get response for sameple no = 21431 in validation set
+2025-03-12 10:54:47,682 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,682 - INFO - Failed to get response for sameple no = 21432 in validation set
+2025-03-12 10:54:47,684 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,684 - INFO - Failed to get response for sameple no = 21433 in validation set
+2025-03-12 10:54:47,686 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,687 - INFO - Failed to get response for sameple no = 21434 in validation set
+2025-03-12 10:54:47,688 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,688 - INFO - Failed to get response for sameple no = 21435 in validation set
+2025-03-12 10:54:47,688 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,688 - INFO - Failed to get response for sameple no = 21436 in validation set
+2025-03-12 10:54:47,689 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,689 - INFO - Failed to get response for sameple no = 21437 in validation set
+2025-03-12 10:54:47,690 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,690 - INFO - Failed to get response for sameple no = 21438 in validation set
+2025-03-12 10:54:47,690 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,690 - INFO - Failed to get response for sameple no = 21439 in validation set
+2025-03-12 10:54:47,691 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,691 - INFO - Failed to get response for sameple no = 21440 in validation set
+2025-03-12 10:54:47,691 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,691 - INFO - Failed to get response for sameple no = 21441 in validation set
+2025-03-12 10:54:47,692 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,692 - INFO - Failed to get response for sameple no = 21442 in validation set
+2025-03-12 10:54:47,693 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,693 - INFO - Failed to get response for sameple no = 21443 in validation set
+2025-03-12 10:54:47,693 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,693 - INFO - Failed to get response for sameple no = 21444 in validation set
+2025-03-12 10:54:47,694 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,694 - INFO - Failed to get response for sameple no = 21445 in validation set
+2025-03-12 10:54:47,698 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,699 - INFO - Failed to get response for sameple no = 21446 in validation set
+2025-03-12 10:54:47,702 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,703 - INFO - Failed to get response for sameple no = 21447 in validation set
+2025-03-12 10:54:47,705 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,705 - INFO - Failed to get response for sameple no = 21448 in validation set
+2025-03-12 10:54:47,710 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,711 - INFO - Failed to get response for sameple no = 21449 in validation set
+2025-03-12 10:54:47,713 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,714 - INFO - Failed to get response for sameple no = 21450 in validation set
+2025-03-12 10:54:47,715 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,715 - INFO - Failed to get response for sameple no = 21451 in validation set
+2025-03-12 10:54:47,716 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,716 - INFO - Failed to get response for sameple no = 21452 in validation set
+2025-03-12 10:54:47,717 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,717 - INFO - Failed to get response for sameple no = 21453 in validation set
+2025-03-12 10:54:47,717 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,717 - INFO - Failed to get response for sameple no = 21454 in validation set
+2025-03-12 10:54:47,718 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,718 - INFO - Failed to get response for sameple no = 21455 in validation set
+2025-03-12 10:54:47,718 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,718 - INFO - Failed to get response for sameple no = 21456 in validation set
+2025-03-12 10:54:47,719 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,719 - INFO - Failed to get response for sameple no = 21457 in validation set
+2025-03-12 10:54:47,719 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,719 - INFO - Failed to get response for sameple no = 21458 in validation set
+2025-03-12 10:54:47,720 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,720 - INFO - Failed to get response for sameple no = 21459 in validation set
+2025-03-12 10:54:47,720 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,720 - INFO - Failed to get response for sameple no = 21460 in validation set
+2025-03-12 10:54:47,721 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,721 - INFO - Failed to get response for sameple no = 21461 in validation set
+2025-03-12 10:54:47,721 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,721 - INFO - Failed to get response for sameple no = 21462 in validation set
+2025-03-12 10:54:47,722 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,722 - INFO - Failed to get response for sameple no = 21463 in validation set
+2025-03-12 10:54:47,722 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,722 - INFO - Failed to get response for sameple no = 21464 in validation set
+2025-03-12 10:54:47,722 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,722 - INFO - Failed to get response for sameple no = 21465 in validation set
+2025-03-12 10:54:47,723 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,723 - INFO - Failed to get response for sameple no = 21466 in validation set
+2025-03-12 10:54:47,724 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,724 - INFO - Failed to get response for sameple no = 21467 in validation set
+2025-03-12 10:54:47,724 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,724 - INFO - Failed to get response for sameple no = 21468 in validation set
+2025-03-12 10:54:47,725 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,725 - INFO - Failed to get response for sameple no = 21469 in validation set
+2025-03-12 10:54:47,726 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,726 - INFO - Failed to get response for sameple no = 21470 in validation set
+2025-03-12 10:54:47,726 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,727 - INFO - Failed to get response for sameple no = 21471 in validation set
+2025-03-12 10:54:47,727 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,727 - INFO - Failed to get response for sameple no = 21472 in validation set
+2025-03-12 10:54:47,727 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,727 - INFO - Failed to get response for sameple no = 21473 in validation set
+2025-03-12 10:54:47,728 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,728 - INFO - Failed to get response for sameple no = 21474 in validation set
+2025-03-12 10:54:47,728 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,728 - INFO - Failed to get response for sameple no = 21475 in validation set
+2025-03-12 10:54:47,729 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,729 - INFO - Failed to get response for sameple no = 21476 in validation set
+2025-03-12 10:54:47,729 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,729 - INFO - Failed to get response for sameple no = 21477 in validation set
+2025-03-12 10:54:47,729 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,730 - INFO - Failed to get response for sameple no = 21478 in validation set
+2025-03-12 10:54:47,730 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,730 - INFO - Failed to get response for sameple no = 21479 in validation set
+2025-03-12 10:54:47,731 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,731 - INFO - Failed to get response for sameple no = 21480 in validation set
+2025-03-12 10:54:47,731 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,731 - INFO - Failed to get response for sameple no = 21481 in validation set
+2025-03-12 10:54:47,731 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,731 - INFO - Failed to get response for sameple no = 21482 in validation set
+2025-03-12 10:54:47,732 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,732 - INFO - Failed to get response for sameple no = 21483 in validation set
+2025-03-12 10:54:47,733 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,733 - INFO - Failed to get response for sameple no = 21484 in validation set
+2025-03-12 10:54:47,733 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,733 - INFO - Failed to get response for sameple no = 21485 in validation set
+2025-03-12 10:54:47,733 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,734 - INFO - Failed to get response for sameple no = 21486 in validation set
+2025-03-12 10:54:47,734 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,734 - INFO - Failed to get response for sameple no = 21487 in validation set
+2025-03-12 10:54:47,735 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,735 - INFO - Failed to get response for sameple no = 21488 in validation set
+2025-03-12 10:54:47,735 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,735 - INFO - Failed to get response for sameple no = 21489 in validation set
+2025-03-12 10:54:47,736 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,736 - INFO - Failed to get response for sameple no = 21490 in validation set
+2025-03-12 10:54:47,736 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,736 - INFO - Failed to get response for sameple no = 21491 in validation set
+2025-03-12 10:54:47,737 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,737 - INFO - Failed to get response for sameple no = 21492 in validation set
+2025-03-12 10:54:47,737 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,737 - INFO - Failed to get response for sameple no = 21493 in validation set
+2025-03-12 10:54:47,738 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,738 - INFO - Failed to get response for sameple no = 21494 in validation set
+2025-03-12 10:54:47,738 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,738 - INFO - Failed to get response for sameple no = 21495 in validation set
+2025-03-12 10:54:47,739 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,739 - INFO - Failed to get response for sameple no = 21496 in validation set
+2025-03-12 10:54:47,739 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,739 - INFO - Failed to get response for sameple no = 21497 in validation set
+2025-03-12 10:54:47,740 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,740 - INFO - Failed to get response for sameple no = 21498 in validation set
+2025-03-12 10:54:47,740 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,740 - INFO - Failed to get response for sameple no = 21499 in validation set
+2025-03-12 10:54:47,741 - INFO - Error occurred: Cannot connect to host api.hyperbolic.xyz:443 ssl:default [Temporary failure in name resolution]
+2025-03-12 10:54:47,741 - INFO - Failed to get response for sameple no = 21500 in validation set
