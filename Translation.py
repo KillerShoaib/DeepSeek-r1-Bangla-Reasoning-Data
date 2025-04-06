@@ -65,13 +65,11 @@ config = {
     "top_k": 20,
 }
 
-with open('Data/only_correct_reasoning_data_validation.json','r') as file:
-    data = json.load(file)
 
 
 
 
-def format_top_10(top_10:List[Dict]):
+def format_top_10(top_10:List[Dict]): # later use top 5 instead of top 10 but didn't change the name. Long way to go for me to become a senior python dev
     formated_data = []
     for sample in top_10:
         format_dict = {
