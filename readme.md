@@ -84,7 +84,7 @@ dataset = load_dataset("KillerShoaib/DeepSeek-r1-Distill-Bangla-MMLU-Reasoning-D
 
 
 # Blog
-**I'll be publishing a detail blog about the entire synthetic data generation process very soon, till then adios**
+- [**How We Created First Bangla Reasoning Dataset**](https://killershoaib.github.io/posts/firstbanglareasoningdataset/)
 
 
 # Something that is bugging me (Unrelated)
